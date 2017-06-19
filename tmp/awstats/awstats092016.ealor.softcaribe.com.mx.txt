@@ -1,0 +1,271 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201609 will be lost/reset.
+# Last config file used to build this data file was /home/softcari/tmp/awstats/awstats.ealor.softcaribe.com.mx.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2695                
+POS_VISITOR 6318                
+POS_DAY 6635                
+POS_DOMAIN 3215                
+POS_LOGIN 3454                
+POS_ROBOT 3609                
+POS_WORMS 3777                
+POS_EMAILSENDER 3908                
+POS_EMAILRECEIVER 4051                
+POS_SESSION 6800                
+POS_SIDER 6979                
+POS_FILETYPES 4186                
+POS_DOWNLOADS 4371                
+POS_OS 4419                
+POS_BROWSER 4537                
+POS_SCREENSIZE 4713                
+POS_UNKNOWNREFERER 4787                
+POS_UNKNOWNREFERERBROWSER 4967                
+POS_ORIGIN 5142                
+POS_SEREFERRALS 5276                
+POS_PAGEREFS 5420                
+POS_SEARCHWORDS 5568                
+POS_KEYWORDS 5720                
+POS_MISC 2359                
+POS_ERRORS 5779                
+POS_CLUSTER 3310                
+POS_SIDER_404 5873                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160925083113 7 1650 19650121972812
+FirstTime 20160913232021
+LastTime 20160921202820
+LastUpdate 20160926072032 7 0 7 0 0
+TotalVisits 9                   
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 1 7 269855
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 1 1 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 10 50 2149582 3 4 242
+17 1 3 1091 0 2 0
+18 0 0 0 0 0 0
+19 2 4 1757 1 2 0
+20 10 37 3862028 3 6 242
+21 4 24 2136301 1 2 242
+22 0 0 0 0 0 0
+23 1 3 1065 0 1 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+mx 26 119 8151751
+us 2 2 73
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+googlebot 6 269855 20160925083113 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+gif 8 1492 0 0
+html 23 105565 0 0
+woff 3 196356 0 0
+js 42 1138016 0 0
+php 2 73 0 0
+jpeg 7 5645156 0 0
+css 36 1065166 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+winnt 54 10
+win7 41 12
+Unknown 2 2
+linuxandroid 24 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+chrome53.0.2785.116 75 14
+chrome52.0.2743.116 3 1
+firefox47.0 3 1
+Unknown 2 2
+chrome50.0.2661.94 14 6
+chrome52.0.2743.98 24 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Softaculous 20160919161900
+WordPress/4.6.1;_http://ealor.softcaribe.com.mx/wp 20160919161916
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Softaculous 20160919161900
+WordPress/4.6.1;_http://ealor.softcaribe.com.mx/wp 20160919161916
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 19 19
+From1 0 0
+From2 0 0
+From3 0 0
+From4 9 102
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 7 0
+301 3 726
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 6
+/cgi-bin/ 1 http://ealor.softcaribe.com.mx/
+/robots.txt 1 -
+/wp-content/plugins 1 -
+/browserconfig.xml 1 -
+/wp-admin 2 -
+/wordpress 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+187.189.49.240 12 41 3863785 20160921202820
+177.237.155.237 8 48 2149509 20160919162539
+187.237.105.194 4 24 2136301 20160919211436
+67.225.221.33 2 2 73 20160919161916
+187.147.253.67 1 3 1091 20160917173706
+187.155.216.7 1 3 1065 20160913232021
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20160913 1 3 1065 1
+20160914 5 7 3833 2
+20160917 1 3 1091 1
+20160919 20 101 6464691 4
+20160921 1 7 1681144 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+0s-30s 5
+2mn-5mn 1
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 16 15668 7 6
+/wp/ 5 60585 1 1
+/wp/wp-content/themes/pixel-linear/fonts/fontawesome-webfont.woff 3 196356 0 0
+/wp/blog/author/admin/ 1 12139 0 0
+/wp/wp-cron.php 1 0 0 1
+/wp/check_charset.php 1 73 1 0
+/wp/blog/2016/09/19/hello-world/ 1 17173 0 1
+END_SIDER

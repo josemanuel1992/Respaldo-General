@@ -1,0 +1,269 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201704 will be lost/reset.
+# Last config file used to build this data file was /home/softcari/tmp/awstats/awstats.andres.softcaribe.com.mx.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2692                
+POS_VISITOR 6718                
+POS_DAY 7001                
+POS_DOMAIN 3201                
+POS_LOGIN 3456                
+POS_ROBOT 3611                
+POS_WORMS 3743                
+POS_EMAILSENDER 3874                
+POS_EMAILRECEIVER 4017                
+POS_SESSION 7105                
+POS_SIDER 7273                
+POS_FILETYPES 4152                
+POS_DOWNLOADS 4331                
+POS_OS 4560                
+POS_BROWSER 4652                
+POS_SCREENSIZE 4765                
+POS_UNKNOWNREFERER 4839                
+POS_UNKNOWNREFERERBROWSER 5109                
+POS_ORIGIN 5374                
+POS_SEREFERRALS 5507                
+POS_PAGEREFS 5651                
+POS_SEARCHWORDS 5828                
+POS_KEYWORDS 5980                
+POS_MISC 2356                
+POS_ERRORS 6039                
+POS_CLUSTER 3312                
+POS_SIDER_404 6151                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170528163029 1 0 4987088393616
+FirstTime 20170404223622
+LastTime 20170419230950
+LastUpdate 20170529072836 1 0 0 0 0
+TotalVisits 4                   
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 7 393 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 2 3 6028
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 2 3 6028
+21 0 0 0 0 0 0
+22 13 52 1193838 2 15 0
+23 85 85 145860 94 372 495516
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 87 92 149579
+mx 11 50 1190406
+gb 0 2 106
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+png 2 94302 0 0
+html 1 1716 0 0
+js 28 420524 0 0
+jpg 2 106874 0 0
+txt 7 393 0 0
+css 7 510669 0 0
+php 97 205613 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/7DF0E27811196E2F2C776F91E73EA658.txt 4 0 212
+/F37FA85AD0857EDE6EB874B9C8E8A75C.txt 1 0 64
+/1BD974F7E4F3D7AC45BF40869DD21F8D.txt 1 0 53
+/594A450312BCED5A2FF1BF3D40381007.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 2
+Unknown 94 87
+win8.1 50 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+Unknown 94 87
+chrome57.0.2987.133 21 2
+chrome56.0.2924.87 29 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+LoadImpactPageAnalyzer/1.3.0_(Load_Impact;_http://loadimpact.com/) 20170419223358
+LoadImpactRload/3.2.0_(Load_Impact;_http://loadimpact.com); 20170419230950
+COMODO_DCV 20170419003258
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+LoadImpactPageAnalyzer/1.3.0_(Load_Impact;_http://loadimpact.com/) 20170419223358
+COMODO_DCV 20170419003258
+LoadImpactRload/3.2.0_(Load_Impact;_http://loadimpact.com); 20170419230950
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 87 94
+From1 0 0
+From2 0 0
+From3 2 2
+From4 9 48
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://www.facebook.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 4 12056
+508 68 495516
+404 317 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/andres/hospital/hospital 2 -
+/robots.txt 2 -
+/andres/hospital/index.php 26 -
+/andres/hospital/css/style.css 122 http://andres.softcaribe.com.mx/andres/hospital/
+/assets/js/ie10-viewport-bug-workaround.js 165 http://andres.softcaribe.com.mx/andres/hospital/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+35.176.16.173 85 85 145860 20170419230950
+201.160.142.233 9 29 615308 20170404224533
+201.160.136.105 2 21 575098 20170419223135
+52.20.66.96 2 2 3432 20170419223358
+91.199.212.132 0 2 106 
+67.225.221.33 0 5 287 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20170404 9 29 615308 1
+20170419 89 115 724783 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+2mn-5mn 1
+30s-2mn 2
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/andres/hospital/index.php 88 151008 3 2
+/andres/hospital/panel.php 5 36735 0 1
+/andres/hospital/modulos/pacientes.php 1 3858 0 0
+/andres/hospital/modulos/doctores.php 1 6028 0 0
+/andres/hospital/modulos/citas.php 1 3531 0 1
+/andres/hospital/modulos/historial.php 1 4453 0 0
+/andres/hospital/ 1 1716 1 0
+END_SIDER

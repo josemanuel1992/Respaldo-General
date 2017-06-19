@@ -1,0 +1,700 @@
+Return-Path: <bounce-mc.us12_52632641.812221-asantana=softcaribe.com.mx@mail144.atl171.mcdlv.net>
+Delivered-To: asantana@softcaribe.com.mx
+Received: from servidor1137.il.controladordns.com
+	by servidor1137.il.controladordns.com (Dovecot) with LMTP id 8bmDGC5o7VfbcQcAFHSP0A
+	for <asantana@softcaribe.com.mx>; Thu, 29 Sep 2016 14:14:54 -0500
+Return-path: <bounce-mc.us12_52632641.812221-asantana=softcaribe.com.mx@mail144.atl171.mcdlv.net>
+Envelope-to: asantana@softcaribe.com.mx
+Delivery-date: Thu, 29 Sep 2016 14:14:54 -0500
+Received: from mail144.atl171.mcdlv.net ([198.2.138.144]:22656)
+	by servidor1137.il.controladordns.com with esmtp (Exim 4.87)
+	(envelope-from <bounce-mc.us12_52632641.812221-asantana=softcaribe.com.mx@mail144.atl171.mcdlv.net>)
+	id 1bpgnG-00241I-6w
+	for asantana@softcaribe.com.mx; Thu, 29 Sep 2016 14:14:54 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail144.atl171.mcdlv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=systemalert=3Dmailchimp.com@mail144.atl171.mcdlv.net;
+ bh=SyPxfKoksaaTSeG27Rj5gp+AbTY=;
+ b=e3JclSXHwWqyt2kC3kAQE5dvRuKNM8BT0bKsJGiKKk/wTn2fRmxwlr/Qc3pj0KRBegmjuuTFfzQs
+   wWAFtW6i7uXK5Vvb+B4SbrSWzS+GpeePH74tJVhuhaUtb+7J31vSZ0S15YJdIGlCAqJ1NfZBeUuM
+   wb7cQaZZI3c4G6h9S0w=
+Received: from (127.0.0.1) by mail144.atl171.mcdlv.net id htlk2s1sb544 for <asantana@softcaribe.com.mx>; Thu, 29 Sep 2016 19:07:11 +0000 (envelope-from <bounce-mc.us12_52632641.812221-asantana=softcaribe.com.mx@mail144.atl171.mcdlv.net>)
+Subject: =?utf-8?Q?We=27ve=20updated=20our=20Privacy=20Policy?=
+From: =?utf-8?Q?MailChimp=20System=20Alerts?= <systemalert@mailchimp.com>
+Reply-To: =?utf-8?Q?MailChimp=20System=20Alerts?= <systemalert@mailchimp.com>
+To: <asantana@softcaribe.com.mx>
+Date: Thu, 29 Sep 2016 19:07:11 +0000
+Message-ID: <165abe0a1aa09263bc6ad13977ac2c759d3.20160929185441@mail144.atl171.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CIDea75cb88537ac2c759d3**
+X-Campaign: mailchimp165abe0a1aa09263bc6ad1397.ea75cb8853
+X-campaignid: mailchimp165abe0a1aa09263bc6ad1397.ea75cb8853
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=165abe0a1aa09263bc6ad1397&id=ea75cb8853&e=7ac2c759d3
+X-MC-User: 165abe0a1aa09263bc6ad1397
+X-Feedback-ID: 52632641:52632641.812221:us12:mc
+List-ID: 165abe0a1aa09263bc6ad1397mc list <165abe0a1aa09263bc6ad1397.147861.list-id.mcsv.net>
+X-Accounttype: pr
+List-Unsubscribe: <mailto:unsubscribe-mc.us12_165abe0a1aa09263bc6ad1397.ea75cb8853-7ac2c759d3@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://mailchimp.us12.list-manage.com/unsubscribe?u=165abe0a1aa09263bc6ad1397&id=74edc275c0&e=7ac2c759d3&c=ea75cb8853>
+Sender: "MailChimp System Alerts" <systemalert=mailchimp.com@mail144.atl171.mcdlv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1516535865"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1516535865
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+http://mailchimp.us12.list-manage.com/track/click?u=3D165abe0a1aa09263bc6a=
+d1397&id=3D44a7421949&e=3D7ac2c759d3
+We=E2=80=99re writing to let you know that we=E2=80=99ve made some changes=
+ to our Privacy Policy (http://mailchimp.us12.list-manage.com/track/click?=
+u=3D165abe0a1aa09263bc6ad1397&id=3D7d3b9b963b&e=3D7ac2c759d3) =2C an=
+d that we=E2=80=99ve added a Cookie Statement (http://mailchimp.us12.list-=
+manage.com/track/click?u=3D165abe0a1aa09263bc6ad1397&id=3D50742ecb2b&e=3D=
+7ac2c759d3) to our legal policies. In addition to a number of revisio=
+ns to make our Policy clearer and more readable=2C here is an overview of=
+ some of the changes:
+* We added provisions in order to comply with the new EU-US Privacy Shield=
+ Framework and to make the ways we are complying more obvious. (Numerous s=
+ections=2C but in particular=2C Section 16)
+* We made general revisions for clarity around the information we collect=
+=2C including clarifying the difference between information you voluntaril=
+y provide to us and information we collect automatically. (Section 5)
+* We made general revisions for clarity around how we do and do not use th=
+e information that we collect from you. (Sections 6=2C 9=2C 12)
+* We added a California Privacy Statement. (Section 18)
+* Finally=2C we added a Cookie Statement (http://mailchimp.us12.list-manag=
+e.com/track/click?u=3D165abe0a1aa09263bc6ad1397&id=3Da48290e352&e=3D=
+7ac2c759d3) that explains in more detail how we use cookies and similar te=
+chnologies.
+
+We encourage you to read the entire Privacy Policy and Cookie Statement=2C=
+ as these documents explain what kind of information we collect and how we=
+ use the information you give us.
+
+If you have any questions=2C please email legal@mailchimp.com (mailto:lega=
+l@mailchimp.com) . As always=2C thanks for using MailChimp.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+This is a one-time notice about changes to MailChimp's Privacy Policy.
+
+=C2=A9 2001-2016 MailChimp=C2=AE=2C All Rights Reserved.
+675 Ponce De Leon Ave NE =E2=80=A2 Suite 5000 =E2=80=A2 Atlanta=2C GA 3030=
+8 USA
+** Terms of Use (http://mailchimp.us12.list-manage1.com/track/click?u=3D16=
+5abe0a1aa09263bc6ad1397&id=3D7235607c49&e=3D7ac2c759d3)
+=E2=80=A2  ** View in Browser (http://us12.campaign-archive1.com/?u=3D165a=
+be0a1aa09263bc6ad1397&id=3Dea75cb8853&e=3D7ac2c759d3)
+=E2=80=A2  ** Log in to MailChimp (http://mailchimp.us12.list-manage1.com/=
+track/click?u=3D165abe0a1aa09263bc6ad1397&id=3Dba1cb3f047&e=3D=
+7ac2c759d3)
+=E2=80=A2  ** Unsubscribe (http://mailchimp.us12.list-manage.com/unsubscri=
+be?u=3D165abe0a1aa09263bc6ad1397&id=3D74edc275c0&e=3D7ac2c759d3&c=3Dea75cb88=
+53)
+--_----------=_MCPart_1516535865
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-micros=
+oft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+=09<head>
+=09=09<!-- NAME: 1 COLUMN -->
+=09=09<!--[if gte mso 15]>
+=09=09<xml>
+=09=09=09<o:OfficeDocumentSettings>
+=09=09=09<o:AllowPNG/>
+=09=09=09<o:PixelsPerInch>96</o:PixelsPerInch>
+=09=09=09</o:OfficeDocumentSettings>
+=09=09</xml>
+=09=09<![endif]-->
+=09=09<meta charset=3D"UTF-8">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial=
+-scale=3D1">
+=09=09<title>We've updated our Privacy Policy</title>
+
+    <style type=3D"text/css">
+=09=09p{
+=09=09=09margin:10px 0;
+=09=09=09padding:0;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09display:block;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100%;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100%;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09}
+=09=09table{
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cblockquote{
+=09=09=09mso-line-height-rule:exactly;
+=09=09}
+=09=09a[href^=3Dtel]=2Ca[href^=3Dsms]{
+=09=09=09color:inherit;
+=09=09=09cursor:default;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cbody=2Ctable=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass td=2C.ExternalCla=
+ss div=2C.ExternalClass span=2C.ExternalClass font{
+=09=09=09line-height:100%;
+=09=09}
+=09=09a[x-apple-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-decoration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=09font-family:inherit !important;
+=09=09=09font-weight:inherit !important;
+=09=09=09line-height:inherit !important;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding-top:20px;
+=09=09=09padding-right:10px;
+=09=09=09padding-bottom:20px;
+=09=09=09padding-left:10px;
+=09=09}
+=09=09.templateContainer{
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09a.mcnButton{
+=09=09=09display:block;
+=09=09}
+=09=09.mcnImage{
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.mcnTextContent{
+=09=09=09word-break:break-word;
+=09=09}
+=09=09.mcnTextContent img{
+=09=09=09height:auto !important;
+=09=09}
+=09=09.mcnDividerBlock{
+=09=09=09table-layout:fixed !important;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09h1{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:26px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:22px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:20px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:18px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09padding-top:40px;
+=09=09=09padding-right:20px;
+=09=09=09padding-left:20px;
+=09=09=09padding-bottom:21px;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#FFFFFF;
+=09=09=09padding-top:0;
+=09=09=09padding-right:2px;
+=09=09=09padding-bottom:31px;
+=09=09=09padding-left:2px;
+=09=09}
+=09=09#templateBody .mcnTextContent=2C#templateBody .mcnTextContent p{
+=09=09=09color:#3A3A3A;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09line-height:169%;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateBody .mcnTextContent a=2C#templateBody .mcnTextContent p a{
+=09=09=09color:#2C9AB7;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#FFFFFF;
+=09=09=09padding-top:31px;
+=09=09=09padding-right:20px;
+=09=09=09padding-left:20px;
+=09=09=09padding-bottom:30px;
+=09=09}
+=09=09#templateFooter=2C#templateFooter p{
+=09=09=09color:#3A3A3A;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:12px;
+=09=09=09font-weight:400;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09}
+=09=09#templateFooter a=2C#templateFooter p a{
+=09=09=09color:#2C9AB7;
+=09=09=09text-decoration:none;
+=09=09}
+=09@media only screen and (min-width:768px){
+=09=09.templateContainer{
+=09=09=09width:600px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#bodyCell{
+=09=09=09padding-top:10px !important;
+=09=09=09padding-right:5px !important;
+=09=09=09padding-left:5px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateFooter a{
+=09=09=09display:block;
+=09=09=09padding-top:10px;
+=09=09=09padding-bottom:10px;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mobileHide{
+=09=09=09display:none;
+=09=09=09visibility:hidden;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImage{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnCaptionTopContent=2C.mcnCaptionBottomContent=2C.mcnTextContentCo=
+ntainer=2C.mcnBoxedTextContentContainer=2C.mcnImageGroupContentContainer=
+=2C.mcnCaptionLeftTextContentContainer=2C.mcnCaptionRightTextContentContai=
+ner=2C.mcnCaptionLeftImageContentContainer=2C.mcnCaptionRightImageContentC=
+ontainer=2C.mcnImageCardLeftTextContentContainer=2C.mcnImageCardRightTextC=
+ontentContainer{
+=09=09=09max-width:100% !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnBoxedTextContentContainer{
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupContent{
+=09=09=09padding:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnCaptionLeftContentOuter .mcnTextContent=2C.mcnCaptionRightConten=
+tOuter .mcnTextContent{
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardTopImageContent=2C.mcnCaptionBlockInner .mcnCaptionTopC=
+ontent:last-child .mcnTextContent{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardBottomImageContent{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlockInner{
+=09=09=09padding-top:0 !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlockOuter{
+=09=09=09padding-top:9px !important;
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnTextContent=2C.mcnBoxedTextContentColumn{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardLeftImageContent=2C.mcnImageCardRightImageContent{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcpreview-image-uploader{
+=09=09=09display:none !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h1{
+=09=09=09font-size:22px;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h2{
+=09=09=09font-size:20px;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h3{
+=09=09=09font-size:18px;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h4{
+=09=09=09font-size:16px;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnBoxedTextContentContainer .mcnTextContent=2C.mcnBoxedTextContent=
+Container .mcnTextContent p{
+=09=09=09font-size:14px;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateHeader .mcnTextContent=2C#templateHeader .mcnTextContent p{
+=09=09=09font-size:16px;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateBody .mcnTextContent=2C#templateBody .mcnTextContent p{
+=09=09=09font-size:16px;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateFooter=2C#templateFooter p{
+=09=09=09font-size:13px;
+=09=09=09line-height:125%;
+=09=09}
+
+}=09@media screen{
+=09=09font-familyOpen Sansfont-style:normalfont-weight:400src:local('Open=
+ Sans')=2ClocalOpenSans=2Curlhttpfonts.gstatic.comsopensansv10cJZKeOuBrn4k=
+ERxqtaUH3ZBw1xU1rKptJj_0jans920.woff2 formatwoff2unicode-range:U+0000-00FF=
+=2CU+0131=2CU+0152-0153=2CU+02C6=2CU+02DA=2CU+02DC=2CU+2000-206F=2CU+2074=
+=2CU+20AC=2CU+2212=2CU+2215=2CU+E0FF=2CU+EFFD=2CU+F000{
+=09=09=09font-family:'Open Sans';
+=09=09=09font-style:normal;
+=09=09=09font-weight:700;
+=09=09=09src:local('Open Sans Bold')=2C
+=09=09=09=09=09=09local('OpenSans-Bold')=2C
+=09=09=09=09=09=09url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJ=
+c3WVjuplzBampu5_7CjHW5spxoeN3Vs.woff2) format('woff2');
+=09=09=09unicode-range:U+0000-00FF=2C U+0131=2C U+0152-0153=2C U+02C6=2C U=
++02DA=2C U+02DC=2C U+2000-206F=2C U+2074=2C U+20AC=2C U+2212=2C U+2215=2C=
+ U+E0FF=2C U+EFFD=2C U+F000;
+=09=09}
+
+}=09@media screen{
+=09=09font-familyOpen Sansfont-style:normalfont-weight:400src:local('Open=
+ Sans')=2ClocalOpenSans=2Curlhttpfonts.gstatic.comsopensansv10u-WUoqrET9fU=
+eobQW7jkRZBw1xU1rKptJj_0jans920.woff2 formatwoff2unicode-range:U+0100-024F=
+=2CU+1E00-1EFF=2CU+20A0-20AB=2CU+20AD-20CF=2CU+2C60-2C7F=2CU+A720-A7FF{
+=09=09=09font-family:'Open Sans';
+=09=09=09font-style:normal;
+=09=09=09font-weight:700;
+=09=09=09src:local('Open Sans Bold')=2C
+=09=09=09=09=09=09local('OpenSans-Bold')=2C
+=09=09=09=09=09=09url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJ=
+c3WVjuplzCYtBUPDK3WL7KRKS_3q7OE.woff2) format('woff2');
+=09=09=09unicode-range:U+0100-024F=2C U+1E00-1EFF=2C U+20A0-20AB=2C U+20AD=
+-20CF=2C U+2C60-2C7F=2C U+A720-A7FF;
+=09=09}
+
+}=09@media screen{
+=09=09p=2Ch1=2Ch2=2Ch3=2Ch4=2Ch5=2Ctd=2C.mcnTextContent{
+=09=09=09font-family:Helvetica=2C Arial=2C sans-serif !important;
+=09=09}
+
+}</style></head>
+    <body style=3D"height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF=
+;">
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;pad=
+ding: 0;width: 100%;background-color: #FFFFFF;">
+                <tr>
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;padding=
+-top: 20px;padding-right: 10px;padding-bottom: 20px;padding-left: 10px;">
+                        <!-- BEGIN TEMPLATE // -->
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" valign=3D"top" width=3D"600" style=
+=3D"width:600px;">
+=09=09=09=09=09=09<![endif]-->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" class=3D"templateContainer" style=3D"border-collapse=
+: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;max-width: 600px !important;">
+                            <tr>
+                                <td valign=3D"top" id=3D"templateHeader" s=
+tyle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;background-color: #FFFFFF;padding-top: 40px;padding-=
+right: 20px;padding-left: 20px;padding-bottom: 21px;">
+=09=09=09=09=09=09=09=09=09<a href=3D"http://mailchimp.us12.list-manage2.c=
+om/track/click?u=3D165abe0a1aa09263bc6ad1397&id=3Dd16612710d&e=3D=
+7ac2c759d3" target=3D"_blank" title=3D"" style=3D"text-decoration: none;mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;"><img src=3D"http://cdn-images.mailchimp.com/template_images/logo_new=
+script_dark.png" alt=3D"" width=3D"150" class=3D"logoImage" style=3D"borde=
+r: 0;color: #000000;font-family: 'Helvetica Neue'=2C Helvetica=2C Arial=2C=
+ sans-serif;font-size: 24px;font-weight: bold;height: auto !important;lett=
+er-spacing: -2px;line-height: 100%;text-align: center;outline: none;text-d=
+ecoration: none;-ms-interpolation-mode: bicubic;"></a>
+=09=09=09=09=09=09=09=09</td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateBody" sty=
+le=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;background-color: #FFFFFF;padding-top: 0;padding-right=
+: 2px;padding-bottom: 31px;padding-left: 2px;"><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=
+=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-ta=
+ble-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContent=
+Container">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #3A3A3A;font-family: Helve=
+tica;font-size: 16px;line-height: 169%;text-align: left;">
+
+                            We=E2=80=99re writing to let you know that we=
+=E2=80=99ve made some changes to our <a href=3D"http://mailchimp.us12.list=
+-manage.com/track/click?u=3D165abe0a1aa09263bc6ad1397&id=3Daf5d97ded7&e=3D=
+7ac2c759d3" target=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #2C9AB7;font-=
+weight: normal;text-decoration: underline;">Privacy Policy</a>=2C and that=
+ we=E2=80=99ve added a <a href=3D"http://mailchimp.us12.list-manage1.com/t=
+rack/click?u=3D165abe0a1aa09263bc6ad1397&id=3Daa60635158&e=3D7ac2c759d3"=
+ target=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;color: #2C9AB7;font-weight: norm=
+al;text-decoration: underline;">Cookie Statement</a> to our legal policies=
+=2E In addition to a number of revisions to make our Policy clearer and more=
+ readable=2C here is an overview of some of the changes:
+
+<ul style=3D"list-style-type:disc; padding-top:5px; padding-bottom:5px;">
+=09<li dir=3D"ltr" style=3D"padding-top: 10px;padding-bottom: 10px;mso-lin=
+e-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;">We added provisions in order to comply with the new EU-US Privacy=
+ Shield Framework and to make the ways we are complying more obvious. (Num=
+erous sections=2C but in particular=2C Section 16)</li>
+    <li dir=3D"ltr" style=3D"padding-top: 10px;padding-bottom: 10px;mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">We made general revisions for clarity around the information we=
+ collect=2C including clarifying the difference between information you vo=
+luntarily provide to us and information  we collect automatically. (Sectio=
+n 5)</li>
+=09<li dir=3D"ltr" style=3D"padding-top: 10px;padding-bottom: 10px;mso-lin=
+e-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;">We made general revisions for clarity around how we do and do not=
+ use the information that we collect from you. (Sections 6=2C 9=2C 12)</li=
+>
+=09<li dir=3D"ltr" style=3D"padding-top: 10px;padding-bottom: 10px;mso-lin=
+e-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;">We added a California Privacy Statement. (Section 18)</li>
+=09<li dir=3D"ltr" style=3D"padding-top: 10px;padding-bottom: 10px;mso-lin=
+e-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;">Finally=2C we added a <a href=3D"http://mailchimp.us12.list-manag=
+e.com/track/click?u=3D165abe0a1aa09263bc6ad1397&id=3D101b5ad7a9&e=3D=
+7ac2c759d3" target=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;color: #2C9AB7;font-weight=
+: normal;text-decoration: underline;">Cookie Statement</a> that explains i=
+n more detail how we use cookies and similar technologies.</li>
+</ul>
+We encourage you to read the entire Privacy Policy and Cookie Statement=2C=
+ as these documents explain what kind of information we collect and how we=
+ use the information you give us.<br>
+<br>
+If you have any questions=2C please email <a href=3D"mailto:legal@mailchim=
+p.com" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;color: #2C9AB7;font-weight: normal;text-deco=
+ration: underline;">legal@mailchimp.com</a>. As always=2C thanks for using=
+ MailChimp.
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"top" id=3D"template=
+Footer" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;background-color: #FFFFFF;padding-top: 31px=
+;padding-right: 20px;padding-left: 20px;padding-bottom: 30px;color: #3A3A3=
+A;font-family: Helvetica;font-size: 12px;font-weight: 400;line-height: 150=
+%;text-align: center;">
+=09=09=09=09=09=09=09=09=09<p style=3D"margin: 10px 0;padding: 0;mso-line-=
+height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;color: #3A3A3A;font-family: Helvetica;font-size: 12px;font-weight: 4=
+00;line-height: 150%;text-align: center;">This is a one-time notice about=
+ changes to MailChimp&#39;s Privacy Policy.</p>
+=09=09=09=09=09=09=09=09=09<p style=3D"margin: 10px 0;padding: 0;mso-line-=
+height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;color: #3A3A3A;font-family: Helvetica;font-size: 12px;font-weight: 4=
+00;line-height: 150%;text-align: center;">&copy; 2001-2016 MailChimp<span=
+ style=3D"font-size:9px;">&reg;</span>=2C All Rights Reserved.
+=09=09=09=09=09=09=09=09=09<br>675 Ponce De Leon Ave NE &bull; Suite 5000=
+ &bull; Atlanta=2C GA 30308 USA</p>
+=09=09=09=09=09=09=09=09=09<a href=3D"http://mailchimp.us12.list-manage.co=
+m/track/click?u=3D165abe0a1aa09263bc6ad1397&id=3D69e55d4364&e=3D=
+7ac2c759d3" target=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;color: #2C9AB7;text-decoration=
+: none;">Terms of Use</a><span class=3D"mobileHide">&nbsp;&nbsp;&bull;&nbs=
+p;&nbsp;</span><a href=3D"http://us12.campaign-archive1.com/?u=3D165abe0a1=
+aa09263bc6ad1397&id=3Dea75cb8853&e=3D7ac2c759d3" target=3D"_blank" style=3D"=
+mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;color: #2C9AB7;text-decoration: none;">View in Browser</a><s=
+pan class=3D"mobileHide">&nbsp;&nbsp;&bull;&nbsp;&nbsp;</span><a href=3D"h=
+ttp://mailchimp.us12.list-manage.com/track/click?u=3D165abe0a1aa09263bc6ad=
+1397&id=3D4eec25af7f&e=3D7ac2c759d3" target=3D"_blank" style=3D"mso-line-=
+height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;color: #2C9AB7;text-decoration: none;">Log in to MailChimp</a><span=
+ class=3D"mobileHide">&nbsp;&nbsp;&bull;&nbsp;&nbsp;</span><a href=3D"http=
+://mailchimp.us12.list-manage.com/unsubscribe?u=3D165abe0a1aa09263bc6ad139=
+7&id=3D74edc275c0&e=3D7ac2c759d3&c=3Dea75cb8853" target=3D"_blank" style=3D"=
+mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;color: #2C9AB7;text-decoration: none;">Unsubscribe</a>
+=09=09=09=09=09=09=09=09</td>
+                            </tr>
+                        </table>
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<![endif]-->
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://mailchimp.us12.list-manage.com/track/open.php?u=3D1=
+65abe0a1aa09263bc6ad1397&id=3Dea75cb8853&e=3D7ac2c759d3" height=3D"1" wid=
+th=3D"1"></body>
+</html>
+--_----------=_MCPart_1516535865--

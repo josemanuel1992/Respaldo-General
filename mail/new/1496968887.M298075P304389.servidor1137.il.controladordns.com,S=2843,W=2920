@@ -1,0 +1,77 @@
+Return-Path: <>
+Delivered-To: softcari@servidor1137.il.controladordns.com
+Received: from servidor1137.il.controladordns.com
+	by servidor1137.il.controladordns.com (Dovecot) with LMTP id IbmXEbfuOVkFpQQAFHSP0A
+	for <softcari@servidor1137.il.controladordns.com>; Thu, 08 Jun 2017 19:41:27 -0500
+Return-path: <>
+Envelope-to: softcari@servidor1137.il.controladordns.com
+Delivery-date: Thu, 08 Jun 2017 19:41:27 -0500
+Received: from mailnull by servidor1137.il.controladordns.com with local (Exim 4.89)
+	id 1dJ7zT-001IMW-8j
+	for softcari@servidor1137.il.controladordns.com; Thu, 08 Jun 2017 19:41:27 -0500
+X-Failed-Recipients: yourname@yourdomain.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@servidor1137.il.controladordns.com>
+To: softcari@servidor1137.il.controladordns.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1496968887-eximdsn-1250724212
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1dJ7zT-001IMW-8j@servidor1137.il.controladordns.com>
+Date: Thu, 08 Jun 2017 19:41:27 -0500
+
+--1496968887-eximdsn-1250724212
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  yourname@yourdomain.com
+    host smtp.anti-spam-premium.com [67.227.206.138]
+    SMTP error from remote mail server after end of data:
+    550 High probability of spam
+
+--1496968887-eximdsn-1250724212
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; servidor1137.il.controladordns.com
+
+Action: failed
+Final-Recipient: rfc822;yourname@yourdomain.com
+Status: 5.0.0
+Remote-MTA: dns; smtp.anti-spam-premium.com
+Diagnostic-Code: smtp; 550 High probability of spam
+
+--1496968887-eximdsn-1250724212
+Content-type: message/rfc822
+
+Return-path: <softcari@servidor1137.il.controladordns.com>
+Received: from softcari by servidor1137.il.controladordns.com with local (Exim 4.89)
+	(envelope-from <softcari@servidor1137.il.controladordns.com>)
+	id 1dJ7zS-001IKt-AR
+	for yourname@yourdomain.com; Thu, 08 Jun 2017 19:41:26 -0500
+To: yourname@yourdomain.com
+Subject: Website Contact Form:  inuhuj
+X-PHP-Script: softcaribe.com.mx/mail/contact_me.php for 187.189.49.61
+X-PHP-Filename: /home/softcari/public_html/mail/contact_me.php REMOTE_ADDR: 187.189.49.61
+From: noreply@yourdomain.com
+Reply-To: jkjinil@latinmail.com
+Message-Id: <E1dJ7zS-001IKt-AR@servidor1137.il.controladordns.com>
+Sender:  <softcari@servidor1137.il.controladordns.com>
+Date: Thu, 08 Jun 2017 19:41:26 -0500
+
+You have received a new message from your website contact form.
+
+Here are the details:
+
+Name: inuhuj
+
+Email: jkjinil@latinmail.com
+
+Phone: kmkko
+
+Message:
+ ,knknhui
+
+--1496968887-eximdsn-1250724212--

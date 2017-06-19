@@ -1,0 +1,374 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201706 will be lost/reset.
+# Last config file used to build this data file was /home/softcari/tmp/awstats/awstats.admin.softcaribe.com.mx.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2707                
+POS_VISITOR 14776               
+POS_DAY 15097               
+POS_DOMAIN 3284                
+POS_LOGIN 3539                
+POS_ROBOT 3694                
+POS_WORMS 3826                
+POS_EMAILSENDER 3957                
+POS_EMAILRECEIVER 4100                
+POS_SESSION 15228               
+POS_SIDER 15384               
+POS_FILETYPES 4235                
+POS_DOWNLOADS 4503                
+POS_OS 4732                
+POS_BROWSER 4847                
+POS_SCREENSIZE 4986                
+POS_UNKNOWNREFERER 5060                
+POS_UNKNOWNREFERERBROWSER 5173                
+POS_ORIGIN 5281                
+POS_SEREFERRALS 5420                
+POS_PAGEREFS 5564                
+POS_SEARCHWORDS 5712                
+POS_KEYWORDS 5864                
+POS_MISC 2371                
+POS_ERRORS 5923                
+POS_CLUSTER 3395                
+POS_SIDER_404 6042                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170617210850 4210 1108164 17350106695437
+FirstTime 20170615202927
+LastTime 20170617210850
+LastUpdate 20170618072545 4210 0 4210 0 0
+TotalVisits 7                   
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 1 1 291 0 1 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 3 3 6559 0 1 0
+14 5 32 1230019 1 41 245
+15 72 924 37002893 7 28 119731
+16 8 49 1852995 6 107 253
+17 30 395 14536123 0 14 0
+18 78 313 8775551 4 1152 180080
+19 73 123 2190523 1 148 0
+20 98 381 15737014 5 555 0
+21 6 17 691239 1 34 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+mx 370 2227 82019148
+us 4 9 3953
+gb 0 2 106
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+gif 1 184 0 0
+woff 1 23424 0 0
+css 750 31722312 0 0
+html 128 3146925 0 0
+txt 7 393 0 0
+php 198 515843 0 0
+png 100 5968416 0 0
+woff2 38 649008 0 0
+jpg 190 911635 0 0
+map 9 1084388 0 0
+js 816 38000679 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/D3532E8E1E596B4ED7C3D534EB3B6791.txt 4 0 212
+/03D98D285BF1409D9061BF2E84422A2B.txt 1 0 64
+/62FF88ACC2D45BFA7E2E3A0324FE17AA.txt 1 0 53
+/7FE9805508DD235630747713ABCE69D1.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+winnt 2138 281
+macosx 89 89
+linux 4 4
+Unknown 7 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+chrome49.0.2623.75 4 4
+Unknown 7 0
+chrome55.0.2883.87 2138 281
+chrome58.0.3029.110 89 89
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+COMODO_DCV 20170615201659
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+COMODO_DCV 20170615201659
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 162 169
+From1 0 0
+From2 0 0
+From3 0 0
+From4 212 2069
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 2 498
+404 1992 0
+206 12 299811
+500 5 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 95
+/page/plugins/slimScroll/jquery.slimscroll.min.js 7 http://admin.softcaribe.com.mx/page/status.php
+/page/plugins/jQuery/jquery-2.2.3.min.js 4 http://admin.softcaribe.com.mx/page/status.php
+/page/status.php 2 http://admin.softcaribe.com.mx/
+/page/plugins/knob/jquery.knob.js 7 http://admin.softcaribe.com.mx/page/status.php
+/page/admin/plugins/iCheck/flat/blue.css 4 http://admin.softcaribe.com.mx/page/status.php
+/plugins/jvectormap/jquery-jvectormap-1.2.2.css 61 http://admin.softcaribe.com.mx/servicios.php
+/administrador/plugins/morris/morris.min.js 4 http://admin.softcaribe.com.mx/administrador/
+/administrador/dist/img/user2-160x160.jpg 3 http://admin.softcaribe.com.mx/administrador/
+/index2.html 1 http://admin.softcaribe.com.mx/admin/index.html
+/dist/img/user2-160x160.jpg 38 http://admin.softcaribe.com.mx/
+/admin/https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css 42 http://admin.softcaribe.com.mx/
+/plugins/datepicker/datepicker3.css 61 http://admin.softcaribe.com.mx/index.php
+/plugins/slimScroll/jquery.slimscroll.min.js 90 http://admin.softcaribe.com.mx/nivel.php
+/page/plugins/morris/morris.min.js 7 http://admin.softcaribe.com.mx/page/status.php
+/administrador/plugins/datepicker/bootstrap-datepicker.js 5 http://admin.softcaribe.com.mx/administrador/
+/page/admin/dist/css/AdminLTE.min.css 4 http://admin.softcaribe.com.mx/page/status.php
+/administrador/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js 5 http://admin.softcaribe.com.mx/administrador/
+/page/admin/bootstrap/css/bootstrap.min.css 4 http://admin.softcaribe.com.mx/page/status.php
+/plugins/fastclick/fastclick.js 91 http://admin.softcaribe.com.mx/nivel.php
+/dist/img/user3-128x128.jpg 2 http://admin.softcaribe.com.mx/
+/page/plugins/datepicker/bootstrap-datepicker.js 7 http://admin.softcaribe.com.mx/page/status.php
+/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js 88 http://admin.softcaribe.com.mx/nivel.php
+/page/plugins/fastclick/fastclick.js 7 http://admin.softcaribe.com.mx/page/status.php
+/admin/index2.html 7 http://admin.softcaribe.com.mx/admin/
+/dist/js/pages/dashboard.js 65 http://admin.softcaribe.com.mx/
+/administrador/plugins/daterangepicker/daterangepicker.js 5 http://admin.softcaribe.com.mx/administrador/
+/administrador/plugins/knob/jquery.knob.js 5 http://admin.softcaribe.com.mx/administrador/
+/administrador/plugins/morris/morris.css 2 http://admin.softcaribe.com.mx/administrador/index.php
+/administrador/img/SoftCaribe.png 2 http://admin.softcaribe.com.mx/administrador/index.php
+/page/dist/js/app.min.js 7 http://admin.softcaribe.com.mx/page/status.php
+/index.html 4 http://admin.softcaribe.com.mx/admin/index.html
+/dist/js/demo.js 65 http://admin.softcaribe.com.mx/
+/administrador/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js 5 http://admin.softcaribe.com.mx/administrador/
+/administrador/plugins/fastclick/fastclick.js 5 http://admin.softcaribe.com.mx/administrador/
+/administrador/plugins/jvectormap/jquery-jvectormap-world-mill-en.js 5 http://admin.softcaribe.com.mx/administrador/
+/page/plugins/sparkline/jquery.sparkline.min.js 7 http://admin.softcaribe.com.mx/page/status.php
+/plugins/jQuery/jquery-2.2.3.min.js 73 http://admin.softcaribe.com.mx/nivel.php
+/administrador/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css 2 http://admin.softcaribe.com.mx/administrador/index.php
+/admin/dist/css/AdminLTE.min.css 1 http://admin.softcaribe.com.mx/
+/bootstrap/css/bootstrap.min.css 1 http://admin.softcaribe.com.mx/
+/administrador/plugins/jQuery/jquery-2.2.3.min.js 3 http://admin.softcaribe.com.mx/administrador/
+/page/admin/plugins/datepicker/datepicker3.css 4 http://admin.softcaribe.com.mx/page/status.php
+/plugins/jvectormap/jquery-jvectormap-world-mill-en.js 89 http://admin.softcaribe.com.mx/nivel.php
+/plugins/knob/jquery.knob.js 89 http://admin.softcaribe.com.mx/nivel.php
+/administrador/dist/img/user3-128x128.jpg 3 http://admin.softcaribe.com.mx/administrador/
+/admin/dist/css/skins/_all-skins.min.css 1 http://admin.softcaribe.com.mx/
+/page/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js 7 http://admin.softcaribe.com.mx/page/status.php
+/administrador/bootstrap/css/bootstrap.min.css 2 http://admin.softcaribe.com.mx/administrador/index.php
+/servicios.php 1 http://admin.softcaribe.com.mx/status.php
+/page/bootstrap/js/bootstrap.min.js 5 http://admin.softcaribe.com.mx/page/status.php
+/admin/https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css 42 http://admin.softcaribe.com.mx/
+/page/plugins/daterangepicker/daterangepicker.js 7 http://admin.softcaribe.com.mx/page/status.php
+/page/admin/dist/css/skins/_all-skins.min.css 4 http://admin.softcaribe.com.mx/page/status.php
+/administrador/dist/js/demo.js 5 http://admin.softcaribe.com.mx/administrador/
+/administrador/plugins/iCheck/flat/blue.css 2 http://admin.softcaribe.com.mx/administrador/index.php
+/plugins/sparkline/jquery.sparkline.min.js 87 http://admin.softcaribe.com.mx/nivel.php
+/img/SoftCaribe.png 15 http://admin.softcaribe.com.mx/
+/dist/js/app.min.js 63 http://admin.softcaribe.com.mx/
+/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js 91 http://admin.softcaribe.com.mx/nivel.php
+/dist/img/user4-128x128.jpg 2 http://admin.softcaribe.com.mx/
+/administrador/dist/css/AdminLTE.min.css 2 http://admin.softcaribe.com.mx/administrador/index.php
+/admin/bootstrap/css/bootstrap.min.css 3 http://admin.softcaribe.com.mx/
+/page/admin/plugins/morris/morris.css 4 http://admin.softcaribe.com.mx/page/status.php
+/plugins/datepicker/bootstrap-datepicker.js 90 http://admin.softcaribe.com.mx/nivel.php
+/administrador/plugins/sparkline/jquery.sparkline.min.js 5 http://admin.softcaribe.com.mx/administrador/
+/page/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css 4 http://admin.softcaribe.com.mx/page/status.php
+/plugins/iCheck/flat/blue.css 61 http://admin.softcaribe.com.mx/index.php
+/administrador/dist/css/skins/_all-skins.min.css 2 http://admin.softcaribe.com.mx/administrador/index.php
+/bootstrap/js/bootstrap.min.js 53 http://admin.softcaribe.com.mx/
+/administrador/dist/js/pages/dashboard.js 5 http://admin.softcaribe.com.mx/administrador/
+/administrador/dist/js/app.min.js 5 http://admin.softcaribe.com.mx/administrador/
+/ 3 -
+/administrador/plugins/jvectormap/jquery-jvectormap-1.2.2.css 2 http://admin.softcaribe.com.mx/administrador/index.php
+/page/admin/https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css 4 http://admin.softcaribe.com.mx/page/status.php
+/administrador/bootstrap/js/bootstrap.min.js 3 http://admin.softcaribe.com.mx/administrador/
+/page/img/SoftCaribe.png 4 http://admin.softcaribe.com.mx/page/status.php
+/plugins/daterangepicker/daterangepicker.js 89 http://admin.softcaribe.com.mx/nivel.php
+/administrador/dist/img/user4-128x128.jpg 3 http://admin.softcaribe.com.mx/administrador/
+/plugins/morris/morris.css 61 http://admin.softcaribe.com.mx/index.php
+/page/plugins/jvectormap/jquery-jvectormap-world-mill-en.js 7 http://admin.softcaribe.com.mx/page/status.php
+/administrador/plugins/datepicker/datepicker3.css 2 http://admin.softcaribe.com.mx/administrador/index.php
+/page/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js 7 http://admin.softcaribe.com.mx/page/status.php
+/administrador/plugins/slimScroll/jquery.slimscroll.min.js 5 http://admin.softcaribe.com.mx/administrador/
+/page/dist/js/pages/dashboard.js 7 http://admin.softcaribe.com.mx/page/status.php
+/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css 61 http://admin.softcaribe.com.mx/index.php
+/page/dist/img/user2-160x160.jpg 4 http://admin.softcaribe.com.mx/page/status.php
+/page/admin/https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css 4 http://admin.softcaribe.com.mx/page/status.php
+/administrador/plugins/daterangepicker/daterangepicker.css 2 http://admin.softcaribe.com.mx/administrador/index.php
+/page/dist/js/demo.js 7 http://admin.softcaribe.com.mx/page/status.php
+/dist/css/AdminLTE.min.css 1 http://admin.softcaribe.com.mx/
+/plugins/daterangepicker/daterangepicker.css 61 http://admin.softcaribe.com.mx/index.php
+/plugins/morris/morris.min.js 85 http://admin.softcaribe.com.mx/nivel.php
+/dist/css/skins/_all-skins.min.css 1 http://admin.softcaribe.com.mx/
+/page/admin/plugins/daterangepicker/daterangepicker.css 4 http://admin.softcaribe.com.mx/page/status.php
+/page/admin/plugins/jvectormap/jquery-jvectormap-1.2.2.css 4 http://admin.softcaribe.com.mx/page/status.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+189.221.45.3 281 2138 81935541 20170617210850 20170617141530 /views/usuarios.php
+200.68.136.157 66 66 67116 20170616194800
+200.68.137.211 23 23 16491 20170615205954
+66.249.88.39 4 4 3666 20170616194547
+67.225.221.33 0 5 287 
+91.199.212.132 0 2 106 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20170615 24 31 17111 2
+20170616 69 69 70555 3
+20170617 281 2138 81935541 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 4
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/views/usuarios.php 103 108219 2 5
+/ 61 747018 1 0
+/admin/ 44 1778732 0 0
+/usuarios.php 38 70356 3 1
+/admin/bootstrap/fonts/glyphicons-halflings-regular.woff2 38 649008 0 0
+/administrador/ 20 469286 0 0
+/status.php 16 101115 0 0
+/nivel.php 13 85344 0 0
+/actions/insertarUsuario.php 11 158 1 0
+/admin/bootstrap/css/bootstrap.min.css.map 6 542194 0 0
+/servicios.php 6 40599 0 0
+/status_one.php 5 32985 0 0
+/page/status.php 4 36646 0 0
+/bootstrap/css/bootstrap.min.css.map 3 542194 0 0
+/admin/pages/tables/simple.html 2 84810 0 0
+/administrador/index.php 1 31295 0 0
+/admin/bootstrap/fonts/glyphicons-halflings-regular.woff 1 23424 0 0
+/index.php 1 9126 0 0
+/admin/index2.html 1 67079 0 0
+END_SIDER

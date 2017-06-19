@@ -1,0 +1,2100 @@
+# Webalizer V2.23-05 Incremental Data - 06/18/2017 06:14:33
+2017 6 18 6 14 33
+5892 4294 389 265 67 73 329569244 484 278 0
+3 2 596 1 18
+105 102 2890342 12 15 14
+107 106 3199017 17 11 11
+25 20 502903 7 6 5
+148 148 4560674 10 27 18
+158 148 4247466 9 22 18
+222 218 6524809 15 16 10
+241 238 6898087 13 21 12
+2086 1510 122363236 121 97 25
+741 579 62086752 95 37 23
+202 137 14042291 36 25 15
+134 54 5507885 25 22 6
+287 180 18366054 39 26 15
+320 90 8807297 32 21 15
+224 141 13496382 40 29 22
+502 368 35791888 37 31 17
+146 124 10937253 22 26 18
+232 126 9195664 25 46 31
+12 5 151244 3 6 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+126 96 9427101 10
+223 127 7186144 11
+31 24 587238 10
+52 9 397490 38
+25 13 229662 8
+11 7 234826 3
+95 49 4268480 5
+64 50 4264691 9
+83 60 3756530 7
+277 232 17159295 17
+331 259 16216477 11
+228 186 8178170 16
+95 53 2839027 10
+243 217 14473137 32
+554 457 23163087 43
+317 208 13857545 30
+497 368 31301517 26
+284 238 17644827 12
+301 241 24925256 19
+674 514 39707751 56
+900 567 58990715 64
+119 61 5076486 16
+160 105 9538259 17
+202 153 16145533 14
+0
+0
+0
+4294
+0
+0
+0
+0
+0
+59
+0
+4
+4
+0
+930
+0
+0
+0
+0
+0
+0
+591
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+2
+0
+# -urls- 
+/wp-content/uploads/2016/10/Lenovo-1-300x300.jpg
+0 2 7867340375392871795 29364 0 0
+/wp-content/themes/alchem/js/jquery.easing.min.js
+0 13 4121973439315574784 72332 0 0
+/mi-cuenta/
+0 1 3833180303047930157 554 1 1
+/wp-content/uploads/2016/10/PC-de-Torre-Slim-HP-280-G1-3-247x300.png
+0 1 0 36014 0 0
+/wp-content/uploads/2016/10/cropped-sentry-bot-180x180.png
+0 2 0 67126 0 0
+/wp-content/themes/alchem/css/scheme.less
+0 18 0 100384 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-flot/jquery.flot.stack.min.js
+0 1 0 1315 0 0
+/producto/all-in-one-hp-22-3102la/
+0 2 0 50624 2 2
+/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css
+0 17 0 116977 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-flot/jquery.flot.time.min.js
+0 1 0 4637 0 0
+/img/img10.jpg
+0 10 0 380175 0 0
+/tienda/
+0 7 0 203552 7 5
+/wp-content/uploads/2016/10/programming.png
+0 11 0 13112 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js
+0 1 0 3191 0 0
+/wp-content/uploads/2016/10/desktop-optiplex-3040-1-247x300.jpg
+0 1 0 10878 0 0
+/wp-content/themes/alchem/images/bg-1.jpg
+0 6 0 760434 0 0
+/wp-content/uploads/2016/10/Compaq-247x300.png
+0 1 0 49448 0 0
+/wp-content/plugins/magee-shortcodes/assets/css/shortcode.css
+0 17 0 1643594 0 0
+/css/estilos.css
+0 23 0 75962 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js
+0 1 0 2015 0 0
+/wp-content/plugins/magee-shortcodes/assets/js/admin.js
+0 1 0 43551 0 0
+/wp-content/uploads/2016/10/Slider-1-1.jpg
+0 11 0 354002 0 0
+/img/portfolio/startup-framework.png
+0 124 0 18652416 0 0
+/wp-content/plugins/magee-shortcodes/assets/js/magee-modal.js
+0 14 0 26362 0 0
+/wp-admin/update-core.php
+0 3 0 146939 0 0
+/wp-content/plugins/magee-shortcodes/assets/js/audioplayer.js
+0 14 3328502271204196352 121954 0 0
+/pdf/Terminos_y_Condiciones_de_Uso.pdf
+0 2 88 441662 0 0
+/producto/lenovo-p310-formato-compacto/
+0 1 3544387886616936448 48562 1 1
+/wp-content/uploads/2016/10/HP1-300x300.jpg
+0 1 3329625989149963314 13676 0 0
+/login.php
+0 2 3543542577682265137 2422 0 0
+/wp-content/plugins/magee-shortcodes/assets/js/jquery.event.move.js
+0 13 3474581183778874473 191217 0 0
+/tienda/page/3/
+0 1 0 54418 2 2
+/wp-content/uploads/2016/10/iMac-1-300x300.jpg
+0 2 0 16563 0 0
+/2016/10/06/escorpion-vs-zub-zero-en-mortal-kombat-x/
+0 2 0 84796 4 1
+/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js
+0 3 0 5295 0 0
+/wp-content/uploads/2016/10/HP-All-in-One-3.jpg
+0 3 0 139644 0 0
+/en-US/
+0 22 0 689553 4 8
+/wp-content/uploads/2016/10/HP.jpg
+0 1 0 25136 0 0
+/wp-content/themes/alchem/js/main.js
+0 13 0 184288 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 2 0 5310 0 0
+/wp-content/plugins/magee-shortcodes/assets/css/admin.css
+0 1 0 11061 0 0
+/wp-content/themes/alchem/css/woo.css
+0 23 0 217879 0 0
+/img/portfolio/golden-preview.png
+0 75 0 9456477 0 0
+/wp-admin/load-scripts.php
+0 9 0 708785 0 0
+/img/portfolio/escape-preview.png
+0 73 0 8598616 0 0
+/wp-admin/about.php
+0 1 0 50379 0 0
+/wp-content/uploads/2016/10/Lenovo-2-1-300x300.jpg
+0 3 0 20640 0 0
+/wp-content/uploads/2016/10/Lenovo-300x300.jpg
+0 3 0 49887 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js
+0 13 0 3601 0 0
+/wp-content/plugins/woocommerce/assets/css/menu.css
+0 1 0 1933 0 0
+/wp-content/uploads/2016/10/PC-de-Torre-Slim-HP-280-G1-247x300.png
+0 1 0 23443 0 0
+/shop/
+0 1 0 10139 0 1
+/img/portfolio/dreams-preview.png
+0 73 0 5827120 0 0
+/img/logos/SoftCaribe.png
+0 198 0 10753195 0 0
+/img/portfolio/roundicons.png
+0 131 0 12628201 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
+0 13 0 22971 0 0
+/wp-content/themes/alchem/plugins/less.min.js
+0 13 97598626791728 1793779 0 0
+/wp-content/themes/alchem/plugins/font-awesome/fonts/fontawesome-webfont.ttf
+0 1 4121124849209912684 138204 0 0
+/img/img1.jpg
+0 13 3345452569977517428 1448092 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js
+0 1 7939411172093161065 6873 0 0
+/wp-includes/js/mediaelement/bigplay.svg
+0 1 7146778732808725038 1029 0 0
+/categoria-producto/todo-en-uno/
+0 6 3832894735977180787 132176 6 6
+/wp-content/uploads/2016/10/cropped-sentry-bot-32x32.png
+0 8 7165897045451880504 18888 0 0
+/wp-content/plugins/woocommerce/assets/css/dashboard.css
+0 1 0 4550 0 0
+/categoria-producto/laptops/
+0 3 0 154452 3 3
+/js/contact_me.js
+0 94 0 207462 0 0
+/wp-content/plugins/magee-shortcodes/assets/css/prettyPhoto.css
+0 24 0 664344 0 0
+/vendor/font-awesome/css/font-awesome.min.css
+0 98 0 2166877 0 0
+/img/img5.png
+0 13 0 3478 0 0
+/img/portfolio/golden.png
+0 103 0 7568325 0 0
+/wp-content/uploads/2016/10/hp-chromebox-1-247x300.png
+0 1 0 19196 0 0
+/wp-content/uploads/2016/10/Dell-Vostro-14-Serie-3000-2.jpg
+0 2 0 57152 0 0
+/img/logos/envato.jpg
+0 94 0 143672 0 0
+/wp-content/plugins/magee-shortcodes/assets/js/jquery.waypoints.js
+0 13 0 224952 0 0
+/wp-content/plugins/woocommerce/assets/css/woocommerce.css
+0 17 0 915841 0 0
+/wp-content/themes/alchem/plugins/animate.css
+0 23 0 1681783 0 0
+/producto/pc-hp-280-g2-microtorre/
+0 2 0 50355 1 2
+/producto/all-in-one-hp-pavilion-27-a001la/
+0 1 0 52210 4 1
+/wp-content/plugins/magee-shortcodes/assets/images/menu-icon-slider.png
+0 1 0 1352 0 0
+/wp-content/uploads/2016/10/hp-300x300.jpg
+0 2 0 37278 0 0
+/wp-admin/
+0 1 0 71804 0 1
+/img/img12.jpg
+0 13 0 3689758 0 0
+/wp-content/plugins/magee-shortcodes/assets/js/jquery.prettyPhoto.js
+0 13 0 458848 0 0
+/wp-admin/load-styles.php
+0 5 0 691338 0 0
+/wp-content/uploads/2016/10/All-in-One-HP-22-b000la-1-180x180.png
+0 1 0 32369 0 0
+/vendor/bootstrap/css/bootstrap.min.css
+0 98 0 9049845 0 0
+/wp-content/themes/alchem/js/respond.min.js
+0 13 22842 56901 0 0
+/wp-content/uploads/2016/10/mobile-app-developing.png
+0 11 3978984341944624128 16302 0 0
+/2016/
+0 1 7146770009915223657 554 1 1
+/wp-content/uploads/2016/10/HP3-300x300.jpg
+0 1 3544945571799379249 8319 0 0
+/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css
+0 17 3832894468746195000 249356 0 0
+/wp-content/uploads/2016/10/cropped-sentry-bot-192x192.png
+0 14 7018142236591272493 506884 0 0
+/wp-content/uploads/2016/10/All-in-One-HP-Pavilion-27-a001la.jpg
+0 2 35428992 110872 0 0
+/favicon.ico
+0 1 0 0 0 0
+/wp-content/uploads/2016/10/PC-de-Torre-Slim-HP-280-G1-3.png
+0 1 0 59756 0 0
+/wp-includes/js/mediaelement/controls.svg
+0 1 0 10344 0 0
+/signup.php
+0 1 0 1144 0 0
+/wp-content/themes/alchem/js/jquery.nav.js
+0 13 0 79976 0 0
+/wp-content/plugins/magee-shortcodes/assets/jquery-easy-pie-chart/jquery.easypiechart.min.js
+0 13 0 51870 0 0
+/wp-content/uploads/2016/10/HP-1-114x130.png
+0 1 0 7856 0 0
+/wp-content/uploads/2016/10/Slider-3-2.jpg
+0 11 0 1911492 0 0
+/vendor/font-awesome/fonts/fontawesome-webfont.eot
+0 1 0 76518 0 0
+/wp-content/plugins/magee-shortcodes/assets/bootstrap/js/bootstrap.min.js
+0 13 0 467441 0 0
+/img/logos/creative-market.jpg
+0 93 0 123620 0 0
+/wp-content/uploads/2016/10/PC-de-Torre-Slim-HP-280-G1.png
+0 1 0 43714 0 0
+/wp-content/themes/shapely/screenshot.png
+0 1 0 1092559 0 0
+/wp-content/plugins/magee-shortcodes/assets/jquery-countdown/jquery.classycountdown.css
+0 17 0 8772 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js
+0 13 0 31213 0 0
+/wp-content/uploads/2016/10/pc-computer-with-monitor.png
+0 11 0 4015 0 0
+/wp-content/uploads/2016/10/cloud-connections.png
+0 11 0 20746 0 0
+/img/img6.jpg
+0 13 0 70516 0 0
+/wp-content/plugins/magee-shortcodes/assets/jquery-countdown/jquery.throttle.js
+0 15 0 11085 0 0
+/wp-content/uploads/2016/10/HP.png
+0 1 0 46533 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js
+0 13 0 18356 0 0
+/producto/notebook-hp-probook-470-g4/
+0 1 0 48927 2 3
+/wp-content/themes/alchem/images/search.png
+0 1 3330192232585101312 17532 0 0
+/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.init.min.js
+0 3 24740241042650937 951 0 0
+/wp-content/uploads/2016/10/HP-All-in-One-4-180x180.jpg
+0 1 3328221907748126720 2851 0 0
+/wp-content/uploads/2016/10/Dell-Vostro-14-Serie-3000.jpg
+0 1 8031170983517749248 54869 0 0
+/wp-content/themes/alchem/plugins/font-awesome/fonts/fontawesome-webfont.svg
+0 1 3687943647387923761 355981 0 0
+/wp-content/plugins/magee-shortcodes/assets/js/moment.js
+0 15 80 1889820 0 0
+/img/img9.jpg
+0 13 0 62162 0 0
+/wp-content/uploads/2016/10/All-in-One-HP-22-b000la-1-300x300.png
+0 2 0 154002 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.css
+0 1 0 4022 0 0
+/css/style.css
+0 96 0 21157 0 0
+/wp-content/uploads/2016/10/desktop-optiplex-3040-e1476292015369-247x300.jpg
+0 2 0 11825 0 0
+/wp-content/uploads/2016/10/Wyse-All-In-One-thin-client-serie-5000-2-247x300.jpg
+0 2 0 9811 0 0
+/wp-content/themes/alchem/plugins/owl-carousel/owl.carousel.min.js
+0 13 0 525213 0 0
+/wp-includes/js/comment-reply.min.js
+0 4 0 4312 0 0
+/wp-content/plugins/magee-shortcodes/assets/jquery-countdown/jquery.classycountdown.min.js
+0 13 0 246584 0 0
+/wp-content/uploads/2016/10/All-in-One-300x300.png
+0 2 0 154002 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 13 0 130728 0 0
+/js/jqBootstrapValidation.js
+0 94 0 2568141 0 0
+/wp-content/uploads/2016/10/HP2-1-300x300.jpg
+0 1 0 12992 0 0
+/vendor/jquery/jquery.min.js
+0 94 0 6898573 0 0
+/wp-admin/upgrade.php
+0 1 0 1 0 0
+/wp-content/uploads/2016/10/sentry-bot.png
+0 12 0 2487360 0 0
+/wp-content/plugins/magee-shortcodes/assets/js/chart.min.js
+0 13 0 259714 0 0
+/categoria-producto/ordenadores/
+0 3 0 154614 4 2
+/wp-content/uploads/2016/10/man-working-on-a-laptop-from-side-view.png
+0 11 0 13838 0 0
+/wp-content/uploads/2016/10/Slider-2.jpg
+0 11 0 809688 0 0
+/wp-login.php
+0 1 0 3278 0 0
+/wp-content/themes/alchem/js/jquery.infinitescroll.js
+0 13 0 529022 0 0
+/wp-content/themes/alchem/js/jquery.parallax.js
+0 14 0 24780 0 0
+/wp-content/themes/alchem/screenshot.png
+0 1 0 522602 0 0
+/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+0 2 0 1694 0 0
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+0 18 0 22860 0 0
+/img/about/2.jpg
+0 96 0 1101877 0 0
+/wp-content/plugins/magee-shortcodes/assets/css/animate.css
+0 23 0 1661957 0 0
+/img/logos/designmodo.jpg
+0 94 0 120416 0 0
+/producto/all-in-one-hp-205-g2/
+0 1 0 51070 1 1
+/wp-content/themes/alchem/css/prettyPhoto.css
+0 23 0 624542 0 0
+/carro/
+0 1 0 70530 1 1
+/wp-includes/js/jquery/jquery.js
+0 13 0 1263392 0 0
+/wp-content/uploads/2016/10/hp-chromebox-247x300.png
+0 2 0 38567 0 0
+/img/portfolio/dreams.png
+0 76 0 3392532 0 0
+/pdf/Aviso_de_Privacidad.pdf
+0 8 0 1400054 0 0
+/wp-includes/js/wp-embed.min.js
+0 17 0 21020 0 0
+/wp-content/plugins/woocommerce/assets/js/admin/reports.min.js
+0 1 0 3285 0 0
+/img/map-image.png
+0 89 0 24026508 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-flot/jquery.flot.min.js
+0 1 0 35859 0 0
+/producto/all-in-one-hp-pavilion-23-q153la/
+0 7 0 206010 12 8
+/wp-content/plugins/contact-form-7/includes/js/scripts.js
+0 13 0 159107 0 0
+/wp-content/uploads/2016/10/Compaq-1-247x300.png
+0 1 0 53908 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-flot/jquery.flot.resize.min.js
+0 1 0 1197 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 16 0 178072 0 0
+/wp-content/themes/alchem/plugins/font-awesome/fonts/fontawesome-webfont.woff2
+0 11 0 709104 0 0
+/wp-admin/images/w-logo-white.png
+0 1 0 5395 0 0
+/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js
+0 3 0 65037 0 0
+/wp-content/themes/alchem/plugins/YTPlayer/css/jquery.mb.YTPlayer.min.css
+0 23 0 199088 0 0
+/wp-content/themes/alchem/plugins/owl-carousel/assets/owl.carousel.css
+0 18 0 83052 0 0
+/wp-content/themes/alchem/plugins/font-awesome/css/font-awesome.min.css
+0 18 0 480798 0 0
+/wp-includes/js/jquery/ui/datepicker.min.js
+0 1 0 36508 0 0
+/img/header-bg.jpg
+0 91 0 23297616 0 0
+/vendor/font-awesome/fonts/fontawesome-webfont.woff
+0 5 0 452060 0 0
+/img/portfolio/escape.png
+0 77 0 4707265 0 0
+/wp-content/themes/alchem/js/jquery.prettyPhoto.js
+0 13 8391050530721366016 458848 0 0
+/img/img2.png
+0 13 3473402312121122816 10640 0 0
+/vendor/bootstrap/js/bootstrap.min.js
+0 96 7956002841123710063 2651438 0 0
+/wp-includes/js/mediaelement/controls.png
+0 1 3975887063939379813 1892 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+0 1 0 15238 0 0
+/wp-content/uploads/2016/10/hp1-300x266.jpg
+0 2 0 30756 0 0
+/wp-content/uploads/2016/10/HP2.jpg
+0 1 0 49725 0 0
+/wp-content/uploads/2016/10/HP-All-in-One-3-180x180.jpg
+0 1 0 4617 0 0
+/wp-content/uploads/2016/10/Wyse-All-In-One-thin-client-serie-5000-247x300.jpg
+0 1 0 11923 0 0
+/wp-content/uploads/2016/10/All-in-One.png
+0 1 0 129039 0 0
+/img/img7.jpg
+0 13 0 51638 0 0
+/js/agency.min.js
+0 94 0 44943 0 0
+/wp-admin/images/wordpress-logo.svg
+0 1 0 1521 0 0
+/wp-content/uploads/2016/10/business-leader-holding-magnifying-glass-with-other-workers-on-background.png
+0 11 0 3267 0 0
+/cpanel
+0 6 35587520 203496 2 2
+/wp-content/themes/alchem/style.css
+0 24 0 935280 0 0
+/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js
+0 13 0 198224 0 0
+/wp-content/plugins/magee-shortcodes/assets/js/combodate.js
+0 2 0 36350 0 0
+/wp-content/uploads/2016/10/iMac-300x300.jpg
+0 1 0 16563 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-flot/jquery.flot.pie.min.js
+0 1 0 8076 0 0
+/wp-content/plugins/magee-shortcodes/assets/css/twentytwenty.css
+0 23 0 154008 0 0
+/img/portfolio/startup-framework-preview.png
+0 75 0 14158530 0 0
+/wp-content/plugins/siteorigin-panels/css/front.css
+0 17 0 13447 0 0
+/
+0 210 0 5971035 130 46
+/producto/dell-vostro-3458/
+0 3 0 147710 5 4
+/wp-content/uploads/2016/10/hp-1-300x300.jpg
+0 2 0 37278 0 0
+/wp-content/themes/alchem/css/shortcode.css
+0 18 0 1181520 0 0
+/wp-content/uploads/2016/10/HP-1.jpg
+0 1 0 25136 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+0 2 0 28352 0 0
+/wp-includes/js/mediaelement/bigplay.png
+0 1 0 3001 0 0
+/wp-content/uploads/2016/10/HP-300x281.jpg
+0 2 0 27914 0 0
+/wp-admin/css/colors/midnight/colors.min.css
+0 2 0 23106 0 0
+/wp-content/themes/alchem/js/jquery.waypoints.js
+0 13 0 225030 0 0
+/wp-content/themes/alchem/plugins/bootstrap/css/bootstrap.css
+0 23 0 3390890 0 0
+/vendor/font-awesome/fonts/fontawesome-webfont.woff2
+0 82 0 4601344 0 0
+/producto/pc-de-torre-slim-hp-280-g1/
+0 1 0 49647 3 2
+/css/agency.min.css
+0 98 0 979295 0 0
+/wp-content/uploads/2016/10/HP-3-114x130.png
+0 1 0 13486 0 0
+/comments/feed/
+0 1 0 729 1 0
+/mail/contact_me.php
+0 9 0 0 0 0
+/img/about/1.jpg
+0 96 0 504503 0 0
+/wp-content/plugins/magee-shortcodes/assets/bootstrap/css/bootstrap.min.css
+0 17 0 1994185 0 0
+/img/img11.jpg
+0 13 0 811876 0 0
+/img/img8.jpg
+0 13 0 84904 0 0
+/wp-content/themes/sydney/screenshot.png
+0 1 0 613137 0 0
+/wp-content/uploads/2016/10/PC-HP-280-G2-Microtorre-247x300.png
+0 2 0 30943 0 0
+/wp-content/uploads/2016/10/Inspiron-24-3000-247x300.jpg
+0 3 0 31646 0 0
+/wp-content/plugins/magee-shortcodes/assets/css/audioplayer.css
+0 24 0 148512 0 0
+/img/portfolio/treehouse.png
+0 126 0 8202456 0 0
+/producto/all-in-one-hp-22-b000la/
+0 10 0 479287 12 8
+/wp-content/plugins/magee-shortcodes/assets/jquery-countdown/jquery.countdown.min.js
+0 13 0 59176 0 0
+/wp-admin/images/wordpress-logo-white.svg
+0 1 0 1639 0 0
+/img/team/1.jpg
+0 95 0 749520 0 0
+/wp-content/uploads/2016/10/hp-600x509.jpg
+0 1 0 54713 0 0
+/img/logos/themeforest.jpg
+0 94 0 119919 0 0
+/wp-content/plugins/magee-shortcodes/assets/js/jquery.twentytwenty.js
+0 15 0 57540 0 0
+/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css
+0 5 0 43385 0 0
+/wp-content/plugins/magee-shortcodes/assets/font-awesome/css/font-awesome.css
+0 17 0 549406 0 0
+/wp-admin/edit-comments.php
+0 2 0 135842 0 0
+/wp-content/plugins/magee-shortcodes/assets/font-awesome/fonts/fontawesome-webfont.ttf
+0 1 8029124753830800640 138204 0 0
+/wp-content/uploads/2016/10/Hp-All-in-One-2-180x180.png
+0 1 8241980338435339821 33333 0 0
+/wp-includes/js/mediaelement/mediaelementplayer.min.css
+0 1 87881976613386286 20431 0 0
+/img/portfolio/treehouse-preview.png
+0 77 3345452569977517428 8258870 0 0
+/wp-content/themes/alchem/css/custom.css
+0 23 8388357179923392813 159275 0 0
+/home.html
+0 28 0 55418 3 1
+/wp-content/themes/alchem/plugins/font-awesome/fonts/fontawesome-webfont.woff
+0 1 0 81284 0 0
+/robots.txt
+0 13 0 871 0 0
+/wp-content/plugins/magee-shortcodes/assets/js/magee-shortcodes.js
+0 14 0 342174 0 0
+/img/portfolio/roundicons-free.png
+0 77 0 14085835 0 0
+/feed/
+0 27 0 219994 37 37
+/wp-content/uploads/2016/10/Inspiron-24-3000-2-247x300.jpg
+0 2 0 13304 0 0
+/producto/latitude-3470/
+0 2 0 49424 1 1
+/img/team/2.jpg
+0 94 0 55782978 0 0
+/producto/pc-hp-prodesk-400-g3-microtorre/
+0 3 0 100255 2 1
+/wp-content/themes/alchem/plugins/YTPlayer/jquery.mb.YTPlayer.js
+0 14 0 1179248 0 0
+/wp-cron.php
+0 66 0 0 0 0
+/wp-content/plugins/magee-shortcodes/assets/weathericons/css/weather-icons.min.css
+0 23 0 613663 0 0
+/wp-content/uploads/2016/10/HP-2-114x130.png
+0 1 0 5325 0 0
+/wp-admin/admin-ajax.php
+0 62 0 10569 0 0
+/wp-content/uploads/2016/10/All-in-One-HP-Pavilion-27-a001la-300x300.jpg
+0 3 0 29424 0 0
+/wp-content/uploads/2016/10/All-in-One-HP-Pavilion-27-a001la-1-300x300.jpg
+0 3 0 25564 0 0
+/img/team/3.jpg
+0 95 0 4604297 0 0
+/wp-content/themes/alchem/plugins/jquery-masonry/jquery.masonry.min.js
+0 13 0 68965 0 0
+/img/img4.png
+0 13 0 13846 0 0
+/wp-content/plugins/magee-shortcodes/assets/jquery-countdown/jquery.knob.js
+0 14 0 156338 0 0
+/wp-content/uploads/2016/10/HP-1-300x281.jpg
+0 2 0 27914 0 0
+/contacto/
+0 3 0 92698 2 3
+/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
+0 13 0 124319 0 0
+/wp-content/uploads/2016/10/Lenovo-2-300x300.jpg
+0 2 0 16538 0 0
+# End Of Table - urls
+# -sites- (monthly)
+173.252.90.121
+0 2 2 307630 0 0
+-
+173.252.124.122
+0 3 3 207185 0 0
+-
+mj8.naefmarco.ch
+0 3 0 0 1 1497276782
+-
+173.252.124.30
+0 1 1 93325 0 0
+-
+173.252.124.78
+0 1 1 120066 0 0
+-
+173.252.124.20
+0 3 3 164922 1 1496952511
+/
+31.13.110.116
+0 1 1 62171 0 0
+-
+173.252.114.119
+0 6 6 1146429 0 0
+-
+google-proxy-66-102-6-144.google.com
+0 58 58 6076016 2 1497038775
+/
+69.171.225.16
+0 1 1 62171 0 0
+-
+200.68.137.173
+0 19 19 2804968 0 0
+-
+173.252.124.71
+0 2 2 182237 0 0
+-
+dsl-201-123-32-95-dyn.prod-infinitum.com.mx
+0 1 1 28576 0 0
+-
+173.252.123.133
+0 1 1 62171 0 0
+-
+69.171.225.91
+0 2 2 142499 0 0
+-
+dsl-187-153-60-14-dyn.prod-infinitum.com.mx
+0 36 35 3879254 1 1496938108
+/
+173.252.84.196
+0 2 2 240132 0 0
+-
+173.252.124.237
+0 1 0 0 0 0
+-
+66.220.146.24
+0 1 1 80328 0 0
+-
+dsl-187-153-59-154-dyn.prod-infinitum.com.mx
+0 30 28 2546725 2 1497715272
+/cpanel
+173.252.124.75
+0 1 1 9000 0 0
+-
+17-142-153-28.applebot.apple.com
+0 1 1 36383 1 1497470092
+/
+dsl-189-149-50-249-dyn.prod-infinitum.com.mx
+0 29 28 2525192 1 1497606742
+/en-US/
+baiduspider-180-76-15-9.crawl.baidu.com
+0 2 0 0 0 0
+-
+static.93.154.243.136.clients.your-server.de
+0 2 2 22226 1 1497704556
+/
+crawl-66-249-73-199.googlebot.com
+0 21 21 624865 3 1496922538
+/producto/dell-vostro-3458/
+66.220.146.27
+0 2 2 200394 0 0
+-
+fixed-187-189-49-121.totalplay.net
+0 36 0 0 1 1497529686
+/
+66.220.152.130
+0 1 1 93325 0 0
+-
+173.252.124.228
+0 2 1 93325 0 0
+-
+173.252.124.219
+0 1 1 120066 0 0
+-
+170.81.140.79
+0 1 0 0 0 0
+-
+173.252.124.26
+0 1 1 35856 1 1496953996
+/
+200.68.137.207
+0 80 80 2506505 2 1496344773
+/
+69.171.225.49
+0 1 1 62171 0 0
+-
+dsl-187-221-10-71-dyn.prod-infinitum.com.mx
+0 1 0 0 0 0
+-
+crawl-66-249-75-16.googlebot.com
+0 10 4 116537 4 1497037771
+/feed/
+69.171.225.79
+0 1 1 93325 0 0
+-
+69.63.188.119
+0 1 1 62171 0 0
+-
+msnbot-157-55-39-245.search.msn.com
+0 13 13 176223 0 0
+-
+200.68.137.197
+0 1 1 35856 1 1496942191
+/
+173.252.90.230
+0 2 2 307630 0 0
+-
+pc2007691101.optele.net
+0 2 2 187907 0 0
+-
+173.252.124.216
+0 1 0 0 0 0
+-
+31.13.113.79
+0 1 0 0 0 0
+-
+69.63.188.120
+0 2 2 124342 0 0
+-
+69.63.188.198
+0 1 1 187564 0 0
+-
+google-proxy-66-249-88-23.google.com
+0 22 20 1026281 2 1496990899
+/
+173.252.74.107
+0 1 1 62171 0 0
+-
+nat-service.aws.kontera.com
+0 2 1 36383 1 1497470098
+/
+69.171.225.39
+0 1 1 187564 0 0
+-
+173.252.120.119
+0 1 1 120066 0 0
+-
+173.252.90.164
+0 1 1 80328 0 0
+-
+63.243.252.91
+0 1 0 0 0 0
+-
+173.252.114.117
+0 1 1 62171 0 0
+-
+69.63.188.212
+0 1 1 62171 0 0
+-
+64.246.178.34
+0 2 1 36312 1 1497109437
+/
+189.221.45.3.cable.dyn.cableonline.com.mx
+0 118 85 7064179 5 1497731594
+/
+69.171.225.74
+0 1 1 93325 0 0
+-
+173.252.90.236
+0 2 2 200394 0 0
+-
+173.252.120.120
+0 2 2 307630 0 0
+-
+173.252.120.115
+0 2 2 124342 0 0
+-
+pc2007691140.optele.net
+0 1 1 1689 0 0
+-
+pc2007691208.optele.net
+0 9 9 1180909 0 0
+-
+31.13.114.66
+0 1 0 0 0 0
+-
+69.63.188.208
+0 2 2 307630 0 0
+-
+fixed-189-203-218-210.totalplay.net
+0 37 2 57563 1 1496948005
+/
+google-proxy-66-249-88-27.google.com
+0 28 27 2744475 0 0
+-
+31.13.113.76
+0 2 0 0 0 0
+-
+crawl-66-249-69-64.googlebot.com
+0 23 8 191937 6 1497754928
+/carro/
+69.171.225.46
+0 1 1 187564 0 0
+-
+baiduspider-180-76-15-161.crawl.baidu.com
+0 1 1 729 1 1496315208
+/comments/feed/
+crawl-66-249-73-203.googlebot.com
+0 3 3 88933 2 1496853065
+/producto/all-in-one-hp-22-b000la/
+201.160.143.81.cable.dyn.cableonline.com.mx
+0 37 36 3923609 1 1497137964
+/
+173.252.120.100
+0 1 1 62171 0 0
+-
+pc2007683244.optele.net
+0 8 8 551354 0 0
+-
+173.252.124.227
+0 1 1 62171 0 0
+-
+173.252.74.112
+0 1 1 187564 0 0
+-
+173.252.120.102
+0 1 1 62171 0 0
+-
+customer-mor-209-59.megared.net.mx
+0 108 106 3146847 2 1496862836
+/contacto/
+69.63.188.114
+0 1 1 62171 0 0
+-
+dynamic-ip-1868315484.cable.net.co
+0 1 0 0 0 0
+-
+msnbot-65-55-210-205.search.msn.com
+0 1 1 6274 0 0
+-
+199.16.157.180
+0 2 1 36383 1 1497470088
+/
+66.220.151.88
+0 2 2 318636 0 0
+-
+b142.crawl.yahoo.net
+0 2 1 0 1 1497471393
+/
+66.220.152.179
+0 1 0 0 0 0
+-
+173.252.84.197
+0 1 1 62171 0 0
+-
+69.63.188.105
+0 4 4 405231 0 0
+-
+google-proxy-66-102-6-3.google.com
+0 57 56 2357208 1 1496755178
+/producto/all-in-one-hp-pavilion-23-q153la/
+69.63.188.112
+0 2 2 124342 0 0
+-
+pc2007691179.optele.net
+0 1 1 71896 0 0
+-
+173.252.74.109
+0 1 1 62171 0 0
+-
+66.220.151.176
+0 1 1 80328 0 0
+-
+69.63.188.218
+0 2 2 142499 0 0
+-
+pc200769119.optele.net
+0 1 1 187564 0 0
+-
+200.68.136.202
+0 36 36 3897850 1 1497469383
+/en-US/
+173.252.124.212
+0 1 0 0 0 0
+-
+173.252.124.81
+0 3 3 24987 0 0
+-
+baiduspider-180-76-15-30.crawl.baidu.com
+0 1 1 42398 1 1496661537
+/2016/10/06/escorpion-vs-zub-zero-en-mortal-kombat-x/
+pc200769189.optele.net
+0 4 4 180298 0 0
+-
+fixed-187-189-49-145.totalplay.net
+0 108 102 10407631 5 1497550592
+/en-US/
+baiduspider-180-76-15-158.crawl.baidu.com
+0 2 0 0 0 0
+-
+baiduspider-180-76-15-11.crawl.baidu.com
+0 1 1 58570 1 1496606991
+/
+p17n14.trendiction.de
+0 2 1 36383 1 1497470106
+/
+200.68.137.177
+0 26 26 2478893 1 1497703596
+/
+baiduspider-180-76-15-145.crawl.baidu.com
+0 1 0 0 1 1497383692
+/2016/10/06/escorpion-vs-zub-zero-en-mortal-kombat-x/
+69.63.188.121
+0 2 2 124342 0 0
+-
+173.252.124.69
+0 2 2 124342 0 0
+-
+fixed-187-189-49-61.totalplay.net
+0 1111 710 72952945 6 1497639252
+/
+69.63.188.213
+0 1 1 62171 0 0
+-
+69.63.188.122
+0 3 3 244408 0 0
+-
+69.63.188.115
+0 1 1 62171 0 0
+-
+187-163-47-84.static.axtel.net
+0 2 0 0 0 0
+-
+173.252.124.27
+0 1 1 62171 0 0
+-
+173.252.90.241
+0 1 1 187564 0 0
+-
+173.252.90.81
+0 1 1 80328 0 0
+-
+173.252.123.138
+0 1 1 120066 0 0
+-
+msnbot-157-55-39-120.search.msn.com
+0 24 24 1237844 0 0
+-
+173.252.120.113
+0 1 1 62171 0 0
+-
+173.252.90.82
+0 1 1 80328 0 0
+-
+google-proxy-66-102-6-29.google.com
+0 53 50 3825151 2 1497553964
+/
+173.252.120.109
+0 1 0 0 0 0
+-
+173.252.124.211
+0 1 1 93325 0 0
+-
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 1 35856 1 1496966424
+/
+173.252.124.210
+0 1 0 0 0 0
+-
+173.252.124.205
+0 1 0 0 0 0
+-
+crawl-66-249-69-192.googlebot.com
+0 75 35 1140769 22 1497620707
+-
+66.220.152.181
+0 1 1 62171 0 0
+-
+173.252.90.125
+0 1 1 120066 0 0
+-
+mail.mobileiphone6.tk
+0 1 1 22226 1 1497704568
+/
+31.13.110.98
+0 1 1 62171 0 0
+-
+google-proxy-66-102-6-31.google.com
+0 43 41 2824621 2 1497030760
+/
+173.252.120.116
+0 1 1 187564 0 0
+-
+66.220.152.182
+0 1 1 62171 0 0
+-
+baiduspider-180-76-15-31.crawl.baidu.com
+0 2 2 63023 1 1497055247
+/
+69.63.188.110
+0 1 1 62171 0 0
+-
+69.63.188.104
+0 2 2 213391 0 0
+-
+fixed-187-190-29-80.totalplay.net
+0 5 4 84882 1 1496755287
+/producto/all-in-one-hp-pavilion-23-q153la/
+baiduspider-180-76-15-140.crawl.baidu.com
+0 1 0 0 1 1497619975
+/en-US/
+31.13.113.86
+0 1 1 93325 0 0
+-
+173.252.90.109
+0 1 1 187564 0 0
+-
+ec2-54-77-239-36.eu-west-1.compute.amazonaws.com
+0 1 1 36383 1 1497470099
+/
+69.171.225.68
+0 1 1 62171 0 0
+-
+173.252.74.106
+0 1 1 62171 0 0
+-
+31.13.113.171
+0 1 1 120066 0 0
+-
+173.252.114.113
+0 4 4 284424 0 0
+-
+pc2007691155.optele.net
+0 1 1 262195 0 0
+-
+crawl-66-249-69-221.googlebot.com
+0 166 81 2860235 25 1497583747
+/producto/all-in-one-hp-pavilion-27-a001la/
+173.252.124.223
+0 2 2 213391 0 0
+-
+pc2007691202.optele.net
+0 1 1 120066 0 0
+-
+cm-93-156-104-230.telecable.es
+0 1 1 46548 0 0
+-
+173.252.124.123
+0 1 1 93325 0 0
+-
+pc200769110.optele.net
+0 2 2 344657 0 0
+-
+ec2-50-112-194-65.us-west-2.compute.amazonaws.com
+0 1 1 22226 1 1497704595
+/
+pc200769161.optele.net
+0 3 3 163330 0 0
+-
+crawl-66-249-69-93.googlebot.com
+0 75 4 320131 8 1497766473
+/
+66.220.151.92
+0 1 1 187564 0 0
+-
+66.220.148.164
+0 1 1 93325 0 0
+-
+173.252.84.199
+0 1 1 15309 1 1497611352
+/
+p3n12.trendiction.de
+0 2 1 22226 1 1497704556
+/
+173.252.114.116
+0 4 4 451798 0 0
+-
+pc2007683141.optele.net
+0 1 1 121200 0 0
+-
+69.63.188.101
+0 6 5 310855 0 0
+-
+173.252.124.21
+0 1 1 9000 0 0
+-
+173.252.90.235
+0 1 1 80328 0 0
+-
+wd179.bfl39.vectant.ne.jp
+0 1 0 0 0 0
+-
+ec2-34-239-254-135.compute-1.amazonaws.com
+0 1 1 36383 1 1497470098
+/
+pc2007691236.optele.net
+0 2 2 7255 0 0
+-
+mj3.naefmarco.ch
+0 3 0 0 1 1497587097
+/categoria-producto/todo-en-uno/
+fixed-187-189-49-114.totalplay.net
+0 38 37 4189377 1 1496939766
+/
+173.252.124.230
+0 1 0 0 0 0
+-
+173.252.124.15
+0 3 3 186513 0 0
+-
+69.63.188.106
+0 1 1 93325 0 0
+-
+173.252.123.135
+0 1 1 93325 0 0
+-
+69.63.188.116
+0 2 2 249735 0 0
+-
+173.252.88.84
+0 3 3 240984 0 0
+-
+baiduspider-180-76-15-27.crawl.baidu.com
+0 5 2 257143 1 1497297826
+/
+173.252.90.127
+0 1 0 0 0 0
+-
+173.252.124.124
+0 3 3 271222 0 0
+-
+69.30.234.2
+0 3 0 0 1 1497511298
+/categoria-producto/todo-en-uno/
+google-proxy-66-249-88-25.google.com
+0 24 24 3987863 1 1497528912
+/
+173.252.90.242
+0 2 2 213391 0 0
+-
+173.252.120.121
+0 2 2 142499 0 0
+-
+google-proxy-66-102-6-143.google.com
+0 51 46 4278727 1 1496952177
+/
+173.252.123.141
+0 2 2 124342 0 0
+-
+173.252.124.67
+0 1 1 62171 0 0
+-
+173.252.90.83
+0 1 1 80328 0 0
+-
+69.30.198.202
+0 3 0 0 1 1497413488
+/categoria-producto/todo-en-uno/
+msnbot-207-46-13-0.search.msn.com
+0 1 0 0 1 1497459207
+/producto/all-in-one-hp-pavilion-23-q153la/
+69.63.188.118
+0 2 2 124342 0 0
+-
+173.252.90.166
+0 1 1 93325 0 0
+-
+189.221.40.113.cable.dyn.cableonline.com.mx
+0 192 187 14140189 4 1497120132
+/en-US/
+69.63.188.109
+0 1 1 62171 0 0
+-
+173.252.90.123
+0 2 1 187564 0 0
+-
+msnbot-157-55-39-222.search.msn.com
+0 12 11 299506 1 1496394702
+/
+173.252.88.94
+0 1 1 80328 0 0
+-
+173.252.120.122
+0 1 1 62171 0 0
+-
+google-proxy-66-102-7-235.google.com
+0 4 3 103638 2 1497366326
+/
+192.0.91.147
+0 1 1 0 1 1497397268
+/
+69.171.225.29
+0 1 1 187564 0 0
+-
+173.252.124.66
+0 2 2 124342 0 0
+-
+173.252.124.213
+0 1 1 80328 0 0
+-
+173.252.84.194
+0 1 1 62171 0 0
+-
+customer-187-217-107-98.uninet-ide.com.mx
+0 2 0 0 0 0
+-
+124.24.34.95.customer.cdi.no
+0 18 0 0 1 1497151666
+-
+static-190.11.77.215.supernet.com.bo
+0 1 1 55436 0 0
+-
+173.252.90.165
+0 1 1 131072 0 0
+-
+google-proxy-66-102-7-233.google.com
+0 2 1 22226 1 1497727644
+/
+static.151.79.9.5.clients.your-server.de
+0 7 0 0 1 1497065412
+-
+173.252.74.99
+0 1 1 62171 0 0
+-
+baiduspider-180-76-15-33.crawl.baidu.com
+0 1 1 22226 1 1497579952
+/
+66.220.152.187
+0 1 0 0 0 0
+-
+173.252.124.203
+0 1 1 120066 0 0
+-
+pc2007691107.optele.net
+0 2 2 168280 0 0
+-
+173.252.124.13
+0 2 2 200394 0 0
+-
+dsl-187-153-27-99-dyn.prod-infinitum.com.mx
+0 328 253 19302961 10 1497366347
+/
+69.171.225.77
+0 1 1 93325 0 0
+-
+pc2007683223.optele.net
+0 1 1 112060 0 0
+-
+carbon051.a.ahrefs.com
+0 2 0 0 0 0
+-
+google-proxy-66-102-7-157.google.com
+0 1 0 0 0 0
+-
+66.220.152.163
+0 1 0 0 0 0
+-
+69.63.188.219
+0 1 1 187564 0 0
+-
+crawl-66-249-69-145.googlebot.com
+0 12 5 271042 4 1497420089
+/
+31.13.114.64
+0 1 1 62171 0 0
+-
+crawl-66-249-69-207.googlebot.com
+0 1 1 42398 1 1496578579
+/2016/10/06/escorpion-vs-zub-zero-en-mortal-kombat-x/
+66.220.152.184
+0 1 1 93325 0 0
+-
+baiduspider-180-76-15-138.crawl.baidu.com
+0 1 1 739 0 0
+-
+crawl-66-249-73-201.googlebot.com
+0 6 5 25761 2 1496871487
+/feed/
+173.252.124.22
+0 1 1 62171 0 0
+-
+173.252.124.215
+0 1 0 0 0 0
+-
+dsl-187-150-218-209-dyn.prod-infinitum.com.mx
+0 246 168 19042520 5 1497525385
+/
+66.220.159.116
+0 1 1 93325 0 0
+-
+173.252.90.239
+0 1 1 80328 0 0
+-
+pc2007683253.optele.net
+0 1 1 165358 0 0
+-
+173.252.114.115
+0 1 1 259234 0 0
+-
+31.13.113.80
+0 1 1 93325 0 0
+-
+173.252.124.241
+0 1 1 80328 0 0
+-
+66.220.152.141
+0 1 0 0 0 0
+-
+dsl-189-149-188-105-dyn.prod-infinitum.com.mx
+0 39 37 3934091 1 1497051205
+/
+31.13.113.188
+0 1 0 0 0 0
+-
+69.171.225.40
+0 1 1 187564 0 0
+-
+69.63.188.126
+0 1 1 62171 0 0
+-
+baiduspider-180-76-15-23.crawl.baidu.com
+0 3 2 45158 0 0
+-
+msnbot-40-77-167-93.search.msn.com
+0 23 23 743293 0 0
+-
+baiduspider-180-76-15-22.crawl.baidu.com
+0 3 2 3653 0 0
+-
+31.13.110.106
+0 1 0 0 0 0
+-
+crawl-66-249-69-223.googlebot.com
+0 117 55 1889338 26 1497624859
+/tienda/
+pc2007691189.optele.net
+0 1 1 93325 0 0
+-
+200.68.137.172
+0 37 35 3861438 1 1497046604
+/home.html
+dynamic-ip-1868319151.cable.net.co
+0 1 1 18639 0 0
+-
+69.171.225.23
+0 1 1 62171 0 0
+-
+173.252.120.123
+0 1 1 62171 0 0
+-
+173.252.74.119
+0 1 1 120066 0 0
+-
+173.252.124.68
+0 1 1 62171 0 0
+-
+ec2-52-4-182-208.compute-1.amazonaws.com
+0 1 1 22226 1 1497704559
+/
+31.13.113.172
+0 1 1 187564 0 0
+-
+pc2007683189.optele.net
+0 6 6 438406 0 0
+-
+173.252.90.237
+0 1 0 0 0 0
+-
+66.220.152.176
+0 1 0 0 0 0
+-
+69.171.225.87
+0 1 1 93325 0 0
+-
+baiduspider-180-76-15-18.crawl.baidu.com
+0 1 0 0 0 0
+-
+173.252.90.246
+0 1 1 80328 0 0
+-
+pc2007683200.optele.net
+0 1 1 342612 0 0
+-
+66.220.152.183
+0 1 1 62171 0 0
+-
+69.63.188.123
+0 2 2 124342 0 0
+-
+31.13.113.191
+0 1 0 0 0 0
+-
+msnbot-207-46-13-205.search.msn.com
+0 1 0 0 0 0
+-
+31.13.110.122
+0 1 1 93325 0 0
+-
+199.16.157.182
+0 2 1 22226 1 1497704538
+/
+servidor1137.il.controladordns.com
+0 69 67 28583 0 0
+-
+66.220.152.160
+0 1 1 93325 0 0
+-
+173.252.124.126
+0 4 4 419026 0 0
+-
+66.220.152.170
+0 1 0 0 0 0
+-
+173.252.88.85
+0 1 1 80328 0 0
+-
+fixed-187-189-49-240.totalplay.net
+0 29 28 2525192 1 1497641423
+/
+173.252.124.79
+0 3 3 186513 0 0
+-
+69.63.188.103
+0 2 2 124342 0 0
+-
+201.160.128.169.cable.dyn.cableonline.com.mx
+0 447 192 14496726 7 1497449527
+/
+crawl-66-249-69-144.googlebot.com
+0 19 8 100924 2 1497234599
+/producto/all-in-one-hp-22-b000la/
+173.252.124.16
+0 1 1 9000 0 0
+-
+173.252.124.11
+0 1 1 62171 0 0
+-
+baiduspider-180-76-15-152.crawl.baidu.com
+0 1 0 0 0 0
+-
+173.252.124.19
+0 1 1 9000 0 0
+-
+pc2007683150.optele.net
+0 3 3 133103 1 1496952141
+/
+helium090.a.ahrefs.com
+0 1 1 22226 1 1497704604
+/
+69.63.188.200
+0 1 1 120066 0 0
+-
+static.234.144.9.5.clients.your-server.de
+0 7 0 0 1 1497239173
+-
+dsl-187-136-250-191-dyn.prod-infinitum.com.mx
+0 5 4 135664 2 1497742789
+/cpanel
+173.252.123.184
+0 1 1 120066 0 0
+-
+baiduspider-180-76-15-148.crawl.baidu.com
+0 2 2 103076 2 1496847209
+/categoria-producto/ordenadores/
+google-proxy-66-102-7-156.google.com
+0 1 1 36383 1 1497481265
+/
+173.252.90.122
+0 1 0 0 0 0
+-
+baiduspider-180-76-15-157.crawl.baidu.com
+0 1 1 58570 1 1496403185
+/
+69.63.188.107
+0 3 3 186513 0 0
+-
+173.252.124.83
+0 1 1 187564 0 0
+-
+66.220.152.180
+0 1 1 62171 0 0
+-
+173.252.90.168
+0 1 1 120066 0 0
+-
+69.63.188.117
+0 1 1 62171 0 0
+-
+baiduspider-180-76-15-14.crawl.baidu.com
+0 1 1 24441 0 0
+-
+173.252.90.169
+0 1 1 187564 0 0
+-
+173.252.74.117
+0 1 1 80328 0 0
+-
+173.252.124.231
+0 1 0 0 0 0
+-
+23.96.208.137
+0 1 1 36383 1 1497470146
+/
+173.252.123.143
+0 1 1 120066 0 0
+-
+69.171.225.90
+0 1 1 93325 0 0
+-
+145.226.197.104.bc.googleusercontent.com
+0 3 2 148443 1 1497470165
+/
+69.63.188.210
+0 1 1 62171 0 0
+-
+google-proxy-66-102-7-231.google.com
+0 1 0 0 0 0
+-
+173.252.120.106
+0 1 1 62171 0 0
+-
+69.171.225.72
+0 1 0 0 0 0
+-
+63.243.252.107
+0 1 0 0 0 0
+-
+173.252.84.200
+0 1 1 62171 0 0
+-
+173.252.124.74
+0 4 4 200237 0 0
+-
+173.252.88.87
+0 3 3 348220 0 0
+-
+173.252.124.120
+0 4 4 1301897 0 0
+-
+crawl-66-249-69-95.googlebot.com
+0 32 6 294601 6 1497758299
+/categoria-producto/todo-en-uno/
+173.252.124.220
+0 1 0 0 0 0
+-
+baiduspider-180-76-15-137.crawl.baidu.com
+0 1 1 6925 0 0
+-
+crawl-66-249-69-143.googlebot.com
+0 15 8 341401 2 1497493201
+/producto/all-in-one-hp-pavilion-27-a001la/
+pc2007683218.optele.net
+0 4 4 404519 0 0
+-
+dsl-189-149-6-59-dyn.prod-infinitum.com.mx
+0 36 35 3860738 1 1496938292
+/
+173.252.124.72
+0 1 1 62171 0 0
+-
+ec2-54-82-213-235.compute-1.amazonaws.com
+0 11 10 374037 1 1497364250
+/
+173.252.114.118
+0 3 3 84134 0 0
+-
+173.252.74.105
+0 1 1 120066 0 0
+-
+baiduspider-180-76-15-16.crawl.baidu.com
+0 2 2 59973 1 1496310579
+/
+dsl-201-155-206-24-sta.prod-empresarial.com.mx
+0 322 318 10084465 2 1496933601
+/tienda/
+200.68.137.211
+0 4 4 90090 1 1497557624
+/
+pc2007691115.optele.net
+0 1 1 37045 0 0
+-
+69.63.188.111
+0 1 1 62171 0 0
+-
+173.252.98.83
+0 1 1 120066 0 0
+-
+ec2-54-245-23-174.us-west-2.compute.amazonaws.com
+0 1 1 58570 1 1496622222
+/
+173.252.120.99
+0 1 1 62171 0 0
+-
+ec2-34-204-112-113.compute-1.amazonaws.com
+0 1 1 8877 1 1497704553
+/
+173.252.90.234
+0 1 1 187564 0 0
+-
+69.171.225.54
+0 1 1 93325 0 0
+-
+173.252.124.234
+0 1 1 93325 0 0
+-
+66.220.146.30
+0 1 0 0 0 0
+-
+dsl-189-149-82-166-dyn.prod-infinitum.com.mx
+0 79 79 2490276 1 1496572298
+/
+baiduspider-180-76-15-25.crawl.baidu.com
+0 1 0 0 0 0
+-
+dsl-189-163-4-54-dyn.prod-infinitum.com.mx
+0 1 1 46548 0 0
+-
+static.41.84.9.5.clients.your-server.de
+0 2 2 36383 1 1497470090
+/
+pc2007683209.optele.net
+0 2 2 65234 0 0
+-
+40.78.146.128
+0 2 1 35796 1 1496938297
+/
+173.252.124.10
+0 1 1 62171 0 0
+-
+crawl-66-249-75-15.googlebot.com
+0 24 1 51411 4 1497389939
+/producto/pc-de-torre-slim-hp-280-g1/
+173.252.84.195
+0 1 1 62171 0 0
+-
+baiduspider-180-76-15-155.crawl.baidu.com
+0 1 1 58570 1 1496741373
+/
+173.252.90.108
+0 1 1 187564 0 0
+-
+66.220.152.129
+0 1 0 0 0 0
+-
+baiduspider-180-76-15-153.crawl.baidu.com
+0 3 1 65640 0 0
+-
+200.79.231.162.static.cableonline.com.mx
+0 81 81 2498707 1 1496749575
+/
+31.13.110.118
+0 1 1 120066 0 0
+-
+pc2007683188.optele.net
+0 4 4 935342 0 0
+-
+google-proxy-66-102-6-145.google.com
+0 37 36 5089729 2 1497046549
+/home.html
+69.171.225.52
+0 1 1 62171 0 0
+-
+msnbot-157-55-39-3.search.msn.com
+0 2 2 134 0 0
+-
+173.252.114.112
+0 2 2 205489 0 0
+-
+69.63.188.100
+0 1 1 187564 0 0
+-
+173.252.88.93
+0 2 1 80328 0 0
+-
+69.63.188.125
+0 2 2 124342 0 0
+-
+173.252.88.95
+0 2 1 80328 0 0
+-
+customer-187-217-125-34.uninet-ide.com.mx
+0 314 235 18744367 5 1497546929
+/
+173.252.90.231
+0 1 1 80328 0 0
+-
+baiduspider-180-76-15-159.crawl.baidu.com
+0 1 1 1270 0 0
+-
+173.252.90.89
+0 1 1 62171 0 0
+-
+dsl-189-149-46-166-dyn.prod-infinitum.com.mx
+0 76 72 7795529 2 1497048338
+/
+dsl-187-136-117-81-dyn.prod-infinitum.com.mx
+0 90 90 2636041 1 1496856982
+/producto/all-in-one-hp-22-b000la/
+173.252.90.116
+0 1 1 187564 0 0
+-
+66.220.151.211
+0 1 1 80328 0 0
+-
+crawl-66-249-75-17.googlebot.com
+0 13 6 124971 8 1496966983
+-
+75-134-141-72.dhcp.roch.mn.charter.com
+0 3 0 0 1 1497321747
+-
+31.13.110.109
+0 1 1 62171 0 0
+-
+baiduspider-180-76-15-26.crawl.baidu.com
+0 1 1 11167 0 0
+-
+b107.crawl.yahoo.net
+0 8 6 0 4 1497714803
+/
+pc2007683219.optele.net
+0 2 2 50234 0 0
+-
+69.171.225.86
+0 1 1 80328 0 0
+-
+173.252.124.14
+0 2 2 124342 0 0
+-
+150-70-173-10.trendmicro.com
+0 1 1 36383 1 1497470206
+/
+31.13.110.120
+0 1 1 120066 0 0
+-
+dsl-187-140-206-10-dyn.prod-infinitum.com.mx
+0 1 1 55436 0 0
+-
+201.160.140.182.cable.dyn.cableonline.com.mx
+0 42 38 4119540 3 1497546808
+/
+baiduspider-180-76-15-20.crawl.baidu.com
+0 1 0 0 0 0
+-
+69.171.225.48
+0 1 1 62171 0 0
+-
+173.252.124.119
+0 5 5 138853 0 0
+-
+31.13.114.67
+0 1 1 120066 0 0
+-
+69.171.225.84
+0 1 1 93325 0 0
+-
+31.13.113.181
+0 1 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-69-64.googlebot.com
+0 4 1 1696 1 1497754928
+/carro/
+crawl-66-249-69-93.googlebot.com
+0 2 1 62 1 1497766473
+/
+crawl-66-249-69-95.googlebot.com
+0 6 3 149486 1 1497758299
+/categoria-producto/todo-en-uno/
+# End Of Table - sites (daily)
+# -referrers- 
+http://softcaribe.com.mx/home.html
+0 172
+http://www.softcaribe.com.mx/
+0 32
+http://softcaribe.com.mx/contacto/
+0 38
+http://softcaribe.com.mx/home
+0 1
+http://softcaribe.com.mx/2016/
+0 7
+http://softcaribe.com.mx/tienda/page/3/
+0 5
+http://softcaribe.com.mx/vendor/font-awesome/css/font-awesome.min.css
+0 78
+http://softcaribe.com.mx/categoria-producto/ordenadores/
+0 4
+http://softcaribe.com.mx/wp-login.php
+0 1
+http://softcaribe.com.mx/mi-cuenta/
+0 5
+http://tienda.softcaribe.com.mx/
+0 2
+http://softcaribe.com.mx/signup.php
+0 1
+https://www.google.com.mx/
+0 34
+http://www.softcaribe.com.mx/vendor/font-awesome/css/font-awesome.min.css
+0 1
+http://softcaribe.com.mx/producto/pc-hp-prodesk-400-g3-microtorre/
+0 123
+http://softcaribe.com.mx/login.php
+0 1
+http://softcaribe.com.mx/wp-includes/js/mediaelement/mediaelementplayer.min.css
+0 4
+http://softcaribe.com.mx/shop/
+0 1
+http://admin.softcaribe.com.mx/admin/
+0 3
+http://softcaribe.com.mx/wp-content/themes/alchem/plugins/font-awesome/css/font-awesome.min.css
+0 11
+http://softcaribe.com.mx/producto/all-in-one-inspiron-24-3000/
+0 19
+http://softcaribe.com.mx/tienda/
+0 56
+http://softcaribe.com.mx/en-US/index.html
+0 36
+http://softcaribe.com.mx/producto/latitude-3470/
+0 1
+https://www.google.co.jp/
+0 1
+http://softcaribe.com.mx/producto/all-in-one-hp-pavilion-23-q153la/
+0 87
+http://softcaribe.com.mx/wp-content/plugins/woocommerce/assets/css/menu.css
+0 1
+http://www.tienda.softcaribe.com.mx/
+0 2
+http://admin.softcaribe.com.mx/
+0 2
+https://www.google.com/
+0 1
+- (Direct Request)
+0 905
+http://softcaribe.com.mx/producto/equipo-convertible-hp-x360-310-g2/
+0 34
+http://softcaribe.com.mx/wp-admin/about.php
+0 52
+http://softcaribe.com.mx/producto/wyse-all-in-one-thin-client-serie-5000/
+0 14
+http://softcaribe.com.mx/wp-admin/upgrade.php
+0 1
+http://softcaribe.com.mx/img/logos/SoftCaribe.png
+0 1
+http://whois.domaintools.com/softcaribe.com.mx
+0 1
+http://softcaribe.com.mx/producto/thinkcentre-m700z/
+0 12
+http://softcaribe.com.mx/carro/
+0 5
+http://softcaribe.com.mx/producto/hp-chromebox/
+0 1
+http://softcaribe.com.mx/producto/all-in-one-hp-22-b000la/
+0 92
+http://softcaribe.com.mx/wp-admin/
+0 24
+https://www.google.com.co/
+0 2
+http://www.softcaribe.com.mx/css/agency.min.css
+0 2
+http://www.softcaribe.com.mx/en-US/index.html
+0 1
+http://softcaribe.com.mx/wp-admin/update-core.php
+0 11
+http://softcaribe.com.mx/producto/pc-hp-280-g2-microtorre/
+0 13
+http://softcaribe.com.mx/producto/lenovo-c20-all-in-one/
+0 37
+http://softcaribe.com.mx/wp-admin/edit-comments.php
+0 9
+http://softcaribe.com.mx/wp-content/plugins/woocommerce/assets/css/woocommerce.css
+0 1
+http://softcaribe.com.mx/categoria-producto/todo-en-uno/
+0 27
+http://softcaribe.com.mx/producto/all-in-one-hp-205-g2/
+0 8
+http://softcaribe.com.mx/wp-content/themes/alchem/style.css
+0 1
+https://www.google.es/
+0 1
+http://softcaribe.com.mx/wp-admin/load-styles.php
+0 3
+http://softcaribe.com.mx/categoria-producto/laptops/
+0 59
+http://softcaribe.com.mx/producto/all-in-one-hp-22-3102la/
+0 3
+http://softcaribe.com.mx:2082/cpsess5514641255/frontend/paper_lantern/softaculous/index.live.php
+0 3
+http://softcaribe.com.mx/producto/dell-vostro-3458/
+0 36
+https://outlook.live.com/
+0 2
+https://m.facebook.com/
+0 1
+http://softcaribe.com.mx/en-US/index.php
+0 2
+http://softcaribe.com.mx/index.html
+0 31
+http://softcaribe.com.mx/
+0 3535
+http://softcaribe.com.mx/css/agency.min.css
+0 161
+http://softcaribe.com.mx/wp-cron.php
+0 68
+http://softcaribe.com.mx/pdf/Aviso_de_Privacidad.pdf
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Android 5.0.2; Mobile; rv:53.0) Gecko/53.0 Firefox/53.0
+0 79
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 5
+WordPress/4.8; http://softcaribe.com.mx
+0 3
+Twitterbot/1.0
+0 4
+MetaURI API/2.0 +metauri.com
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 118
+Mozilla/5.0 (Linux; Android 5.1; HTC Desire 626s Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mob
+0 100
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+0 440
+Mozilla/5.0 (Linux; Android 6.0; XT1580 Build/MPKS24.78-8-6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobil
+0 37
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 353
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.6) Gecko/20050225 Firefox/1.0.1
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0
+0 233
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36
+0 3
+facebookexternalhit/1.1
+0 11
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 42
+Mozilla/5.0 (Linux; Android 6.0.1; LG-H840 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Sa
+0 93
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/41.0.2272.118 Safari/537.36 (compatib
+0 10
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.7; http://mj12bot.com/)
+0 47
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 2
+CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)
+0 11
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 740
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; Yeah-Plus Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5
+0 37
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 551
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 76
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J700M Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile S
+0 29
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Mobile Saf
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 OPR/45.0.
+0 489
+Googlebot-Image/1.0
+0 40
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D680 Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Sa
+0 153
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.5
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+0 252
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.0 Mobile/14F89 Sa
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebo
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/601.5.17 (KHTML, like Gecko) Version/9.1 Safari/601.5.17
+0 38
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.104 Safari/537.36
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 227
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 294
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 106
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+0 53
+WordPress/4.6.6; http://softcaribe.com.mx
+0 66
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 10
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+0 1
+Mozilla/5.0 (Linux; Android 5.0.2; SM-G530H Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile S
+0 36
+Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.0.10) Gecko/2009042708 Fedora/3.0.10-1.fc10 Firefox/3.0.10
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 11
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 193
+WhatsApp/2.17.190 A
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 10
+Java/1.8.0_121
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+0 173
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 80
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5
+0 79
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 36
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+0 2
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 1
+Mozilla/5.0 (Linux; Android 6.0; LG-H542 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safa
+0 110
+WordPress.com; http://softcaribe.com.mx
+0 1
+Yeah-Plus/V1 Linux/3.4.67 Android/4.4.2 Release/ Browser/AppleWebKit537.36 Mobile Safari/537.36 MBBMS/2.2 System/Android 4.4.
+0 35
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Sa
+0 90
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 140
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

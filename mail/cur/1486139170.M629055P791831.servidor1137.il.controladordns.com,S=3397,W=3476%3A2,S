@@ -1,0 +1,79 @@
+Return-Path: <>
+Delivered-To: softcari@servidor1137.il.controladordns.com
+Received: from servidor1137.il.controladordns.com
+	by servidor1137.il.controladordns.com (Dovecot) with LMTP id mbVGJSKvlFgXFQwAFHSP0A
+	for <softcari@servidor1137.il.controladordns.com>; Fri, 03 Feb 2017 10:26:10 -0600
+Return-path: <>
+Envelope-to: softcari@servidor1137.il.controladordns.com
+Delivery-date: Fri, 03 Feb 2017 10:26:10 -0600
+Received: from mailnull by servidor1137.il.controladordns.com with local (Exim 4.88)
+	id 1cZggc-003Kqx-IQ
+	for softcari@servidor1137.il.controladordns.com; Fri, 03 Feb 2017 10:26:10 -0600
+X-Failed-Recipients: erickalor.92@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@servidor1137.il.controladordns.com>
+To: softcari@servidor1137.il.controladordns.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1486139170-eximdsn-1738882930
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1cZggc-003Kqx-IQ@servidor1137.il.controladordns.com>
+Date: Fri, 03 Feb 2017 10:26:10 -0600
+
+--1486139170-eximdsn-1738882930
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  erickalor.92@gmail.com
+    host smtp.anti-spam-premium.com [67.227.144.30]
+    SMTP error from remote mail server after end of data:
+    550 Subject contains invalid characters.
+
+--1486139170-eximdsn-1738882930
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; servidor1137.il.controladordns.com
+
+Action: failed
+Final-Recipient: rfc822;erickalor.92@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; smtp.anti-spam-premium.com
+Diagnostic-Code: smtp; 550 Subject contains invalid characters.
+
+--1486139170-eximdsn-1738882930
+Content-type: message/rfc822
+
+Return-path: <softcari@servidor1137.il.controladordns.com>
+Received: from softcari by servidor1137.il.controladordns.com with local (Exim 4.88)
+	(envelope-from <softcari@servidor1137.il.controladordns.com>)
+	id 1cZggc-003Kqa-53
+	for erickalor.92@gmail.com; Fri, 03 Feb 2017 10:26:10 -0600
+To: erickalor.92@gmail.com
+Subject: Recuperar contraseña
+X-PHP-Script: andres.softcaribe.com.mx/andres/tickets/validaremail.php for 189.149.46.82
+X-PHP-Filename: /home/softcari/andres.softcaribe.com.mx/andres/tickets/validaremail.php REMOTE_ADDR: 189.149.46.82
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Codedrinks <mimail@codedrinks.com>
+Message-Id: <E1cZggc-003Kqa-53@servidor1137.il.controladordns.com>
+Sender:  <softcari@servidor1137.il.controladordns.com>
+Date: Fri, 03 Feb 2017 10:26:10 -0600
+
+<html>
+     <head>
+        <title>Restablece tu contraseña</title>
+     </head>
+     <body>
+       <p>Hemos recibido una petición para restablecer la contraseña de tu cuenta.</p>
+       <p>Si hiciste esta petición, haz clic en el siguiente enlace, si no hiciste esta petición puedes ignorar este correo.</p>
+       <p>
+         <strong>Enlace para restablecer tu contraseña</strong><br>
+         <a href="andres.softcaribe.com.mx/pass/restablecer.php?idusuario=77de68daecd823babbb58edb1c8e14d7106e83bb&token=c15abab704ea4b73b1ac7a81c5b7fca024542f58"> Restablecer contraseña </a>
+       </p>
+     </body>
+    </html>
+
+--1486139170-eximdsn-1738882930--

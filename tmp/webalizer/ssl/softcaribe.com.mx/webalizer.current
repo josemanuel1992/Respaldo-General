@@ -1,0 +1,177 @@
+# Webalizer V2.23-05 Incremental Data - 06/15/2017 05:28:14
+2017 6 15 5 28 14
+28 7 12 3 2 4 457872 8 8 0
+3 4 5 3 15
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 1 69218 3 1 1
+5 2 103780 3 1 1
+4 1 103780 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 2 103519 4 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 1 77575 5 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 0 0 3 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 0 0
+3 1 69218 1
+0 0 0 0
+4 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 1 77575 2
+0 0 0 0
+0 0 0 0
+5 2 103519 1
+4 0 0 1
+0 0 0 0
+0 0 0 0
+5 2 103780 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 1 103780 1
+0 0 0 0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+19
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+# -urls- 
+/
+0 1 7814716426037852777 36312 1 0
+/robots.txt
+0 4 0 268 0 0
+/wp-cron.php
+0 2 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-69-209.googlebot.com
+0 5 2 134 0 0
+-
+crawl-66-249-69-79.googlebot.com
+0 2 0 0 1 1497188453
+-
+crawl-66-249-73-215.googlebot.com
+0 2 0 68944 1 1496924586
+-
+jobqueue-listener.jobqueue.netcraft.com-uf565241e1b55448ea6b201b78b68d21du-digitalocean
+0 1 0 41263 1 1497171633
+-
+crawl-66-249-73-216.googlebot.com
+0 1 1 67 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-u94f91086c3094fe58bb83f3ae28f8f51u-digitalocean
+0 1 1 36312 1 1497171640
+/
+crawl-66-249-73-213.googlebot.com
+0 1 0 34508 0 0
+-
+crawl-66-249-69-81.googlebot.com
+0 1 0 0 0 0
+-
+crawl-66-249-69-207.googlebot.com
+0 2 0 34595 1 1497504494
+-
+crawl-66-249-69-205.googlebot.com
+0 9 1 242049 3 1496700790
+-
+servidor1137.il.controladordns.com
+0 2 2 0 0 0
+-
+crawl-66-249-69-77.googlebot.com
+0 1 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-69-209.googlebot.com
+0 2 0 0 0 0
+-
+crawl-66-249-69-207.googlebot.com
+0 1 0 0 1 1497504494
+-
+crawl-66-249-69-205.googlebot.com
+0 1 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 26
+https://softcaribe.com.mx/wp-cron.php
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 24
+WordPress/4.8; https://softcaribe.com.mx
+0 1
+WordPress/4.6.6; https://softcaribe.com.mx
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

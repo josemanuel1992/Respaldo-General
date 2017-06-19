@@ -1,0 +1,401 @@
+Return-Path: <bounce-md_10612303.57fc354e.v1-3eee8ed6b1c64e89974b2e3816c6ada6@systemalerts.mailchimp.com>
+Delivered-To: asantana@softcaribe.com.mx
+Received: from servidor1137.il.controladordns.com
+	by servidor1137.il.controladordns.com (Dovecot) with LMTP id WSSJHXU1/FdApAEAFHSP0A
+	for <asantana@softcaribe.com.mx>; Mon, 10 Oct 2016 19:42:29 -0500
+Return-path: <bounce-md_10612303.57fc354e.v1-3eee8ed6b1c64e89974b2e3816c6ada6@systemalerts.mailchimp.com>
+Envelope-to: asantana@softcaribe.com.mx
+Delivery-date: Mon, 10 Oct 2016 19:42:29 -0500
+Received: from systemalerts3.mailchimp.com ([205.201.134.254]:61079)
+	by servidor1137.il.controladordns.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounce-md_10612303.57fc354e.v1-3eee8ed6b1c64e89974b2e3816c6ada6@systemalerts.mailchimp.com>)
+	id 1btl9J-000SYX-CO
+	for asantana@softcaribe.com.mx; Mon, 10 Oct 2016 19:42:29 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=mailchimp.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=imports@mailchimp.com;
+ bh=6KK1eiSVIGh6Av6jklCTvoIijC4=;
+ b=HAKGRMB9muStBLsg9j4S+4v+xsLcNfR8J6M/k19EX8q2sAtKXmoXkWbZKXcfN1zSX4DOmnNUnBQk
+   W/LNhRCSQuboYOIiviEJ32I0VJQtxWzr22V+C7pESOTjuM87IH9h64ObQbisfdg3W9t9HF5Xy8yd
+   1oStKNJAt7rMQw3GuiI=
+Received: from pmta01.mandrill.prod.atl01.rsglab.com (127.0.0.1) by systemalerts3.mailchimp.com id hvgqna1mquku for <asantana@softcaribe.com.mx>; Tue, 11 Oct 2016 00:41:48 +0000 (envelope-from <bounce-md_10612303.57fc354e.v1-3eee8ed6b1c64e89974b2e3816c6ada6@systemalerts.mailchimp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1476146510; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : From : 
+ Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=iP5qdlSzA6CZ+PF3kRkA6ghmsLzh/DnjLWU2xpPbfE4=; 
+ b=CBtjGulOeTJ2ghymwug4jNxwydEwQ4qXujKTG2eJUtGqV0MrSUBiEYhL+Bnp+4/tKiro7j
+ sngUW2v9Fypp+c++gIeQpbR8NfJmWVksYKTN0PRHF9GHoebmpv1erNterr57wPMForaihJRo
+ NnbFXFFqOCuryNYTHOHAYUnYBeMeE=
+From: <imports@mailchimp.com>
+Subject: MailChimp List Import Complete: Tecnologia Web
+X-Accounttype: ff
+X-Auto-Response-Suppress: OOF, AutoReply
+Auto-Submitted: auto-generated
+To: <asantana@softcaribe.com.mx>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=10612303.3eee8ed6b1c64e89974b2e3816c6ada6
+X-Mandrill-User: md_10612303
+Message-Id: <10612303.20161011004150.57fc354e10ed90.36255980@systemalerts3.mailchimp.com>
+Date: Tue, 11 Oct 2016 00:41:50 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-8drP_TwolJ97810EIlsi0g"
+
+--_av-8drP_TwolJ97810EIlsi0g
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Your list import is complete.
+
+A total of 21 emails have been successfully added to the list, Tecnologia Web, on the account Softcaribe.
+
+
+--------------------
+View Imported List: https://us14.admin.mailchimp.com/lists/members?id=24039&segment=source,source_is,4,24943
+--------------------
+
+
+
+
+
+
+
+
+---------------------------------------- 
+http://www.mailchimp.com
+675 Ponce De Leon Ave NE Suite 5000 Atlanta, GA 30308 USA
+
+Contact Us [http://www.mailchimp.com/contact/]
+Terms of Use [http://mailchimp.com/legal/terms/]
+Privacy Policy [http://mailchimp.com/legal/privacy/]
+Log In to MailChimp [https://login.mailchimp.com]
+--_av-8drP_TwolJ97810EIlsi0g
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html>
+    <head>
+=09=09<!-- IMPORT COMPLETE -->
+    =09<meta charset=3D"UTF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1" />
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+=09=09<title>MailChimp List Import Complete: Tecnologia Web</title>
+=09=09<style type=3D"text/css">
+=09=09=09/*////// RESET STYLES //////*/
+=09=09=09p{margin:1em 0;}
+=09=09=09a{word-wrap:break-word;}
+=09=09=09table{border-collapse:collapse;}
+=09=09=09h1, h2, h3, h4, h5, h6{display:block; margin:0; padding:0;}
+=09=09=09img, a img{border:0; height:auto; outline:none; text-decoration:no=
+ne;}
+=09=09=09body, #bodyTable, #bodyCell{height:100%; margin:0; padding:0; widt=
+h:100%;}
+
+=09=09=09/*////// CLIENT-SPECIFIC STYLES //////*/
+=09=09=09#outlook a{padding:0;} /* Force Outlook 2007 and up to provide a "=
+view in browser" message. */
+=09=09=09@-ms-viewport{width:device-width;} /* Force IE "snap mode" to rend=
+er widths normally. */
+=09=09=09img{-ms-interpolation-mode:bicubic;} /* Force IE to smoothly rende=
+r resized images. */
+=09=09=09table{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spaci=
+ng between tables in Outlook Desktop. */
+=09=09=09.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Out=
+look.com to display emails at full width. */
+=09=09=09p, a, li, td, blockquote{mso-line-height-rule:exactly;} /* Force O=
+utlook Desktop to render line heights as they're originally set. */
+=09=09=09a[href^=3D"tel"], a[href^=3D"sms"]{color:inherit; cursor:default; =
+text-decoration:none;} /* Force mobile devices to inherit declared link sty=
+les. */
+=09=09=09p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -=
+webkit-text-size-adjust:100%;} /* Prevent Windows- and Webkit-based mobile =
+platforms from changing declared text sizes. */
+=09=09=09.ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClas=
+s p, .ExternalClass span, .ExternalClass font{line-height:100%;} /* Force O=
+utlook.com to display line heights normally. */
+=09=09=09a[x-apple-data-detectors]{color:inherit !important; text-decoratio=
+n:none !important; font-size:inherit !important; font-family:inherit !impor=
+tant; font-weight:inherit !important; line-height:inherit !important;} /* F=
+orce iOS devices to heed link styles set in CSS. */
+
+=09=09=09/*////// EMAIL STYLES //////*/
+=09=09=09#bodyCell{padding-top:20px !important; padding-right:10px !importa=
+nt; padding-bottom:20px !important; padding-left:10px !important;}
+=09=09=09.emailContainer{max-width:640px;}
+            .footerContent a{color:#606060; font-weight:normal; text-decora=
+tion:none !important;}
+
+=09=09=09@media screen and (min-width:768px){
+=09=09=09=09.emailContainer{width:640px !important;}
+=09=09=09}
+
+=09=09=09@media only screen and (max-width:480px){
+=09=09=09=09body{width:100% !important; min-width:100% !important;} 
+=09=09=09=09#bodyCell{padding-top:10px !important; padding-bottom:10px !imp=
+ortant;}
+=09=09=09=09h1{font-size:26px !important; line-height:28px !important;}
+=09=09=09=09.warningIcon{display:block !important; padding-left:0 !importan=
+t; text-align:center !important;}
+=09=09=09=09.warningText{display:block !important; padding-top:10px !import=
+ant;}
+=09=09=09=09.warningText h3, .warningText p{text-align:center !important;}
+=09=09=09=09.footerContent p{border-bottom:1px solid #E5E5E5; font-size:13p=
+x !important; padding-bottom:20px !important;}
+=09=09=09=09.utilityLink{border-bottom:1px solid #E5E5E5; display:block; fo=
+nt-size:13px !important; padding-top:16px; padding-bottom:16px;}
+=09=09=09=09.mobileHide{display:none; visibility:hidden;}
+=09=09=09}
+
+=09=09=09@media screen{
+=09=09=09=09@font-face{ /* latin */
+=09=09=09=09=09font-family:'Open Sans';
+=09=09=09=09=09font-style:normal;
+=09=09=09=09=09font-weight:400;
+=09=09=09=09=09src:local('Open Sans'),
+=09=09=09=09=09=09local('OpenSans'),
+=09=09=09=09=09=09url(http://fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kE=
+RxqtaUH3ZBw1xU1rKptJj_0jans920.woff2) format('woff2');
+=09=09=09=09=09unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02=
+DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+=
+F000;
+=09=09=09=09}
+
+=09=09=09=09@font-face{ /* latin */
+=09=09=09=09=09font-family:'Open Sans';
+=09=09=09=09=09font-style:normal;
+=09=09=09=09=09font-weight:700;
+=09=09=09=09=09src:local('Open Sans Bold'),
+=09=09=09=09=09=09local('OpenSans-Bold'),
+=09=09=09=09=09=09url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc=
+3WVjuplzBampu5_7CjHW5spxoeN3Vs.woff2) format('woff2');
+=09=09=09=09=09unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02=
+DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+=
+F000;
+=09=09=09=09}
+
+=09=09=09=09@font-face{ /* latin-ext */
+=09=09=09=09=09font-family:'Open Sans';
+=09=09=09=09=09font-style:normal;
+=09=09=09=09=09font-weight:400;
+=09=09=09=09=09src:local('Open Sans'),
+=09=09=09=09=09=09local('OpenSans'),
+=09=09=09=09=09=09url(http://fonts.gstatic.com/s/opensans/v10/u-WUoqrET9fUe=
+obQW7jkRZBw1xU1rKptJj_0jans920.woff2) format('woff2');
+=09=09=09=09=09unicode-range:U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-=
+20CF, U+2C60-2C7F, U+A720-A7FF;
+=09=09=09=09}
+
+=09=09=09=09@font-face{ /* latin-ext */
+=09=09=09=09=09font-family:'Open Sans';
+=09=09=09=09=09font-style:normal;
+=09=09=09=09=09font-weight:700;
+=09=09=09=09=09src:local('Open Sans Bold'),
+=09=09=09=09=09=09local('OpenSans-Bold'),
+=09=09=09=09=09=09url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc=
+3WVjuplzCYtBUPDK3WL7KRKS_3q7OE.woff2) format('woff2');
+=09=09=09=09=09unicode-range:U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-=
+20CF, U+2C60-2C7F, U+A720-A7FF;
+=09=09=09=09}
+
+=09=09=09=09*, td{font-family:'Open Sans', 'Helvetica Neue', Helvetica, Ari=
+al, sans-serif !important;}
+=09=09=09}
+=09=09</style>
+=09</head>
+=09<body bgcolor=3D"#F2F2F2">
+=09=09<center>
+=09=09=09<table align=3D"center" bgcolor=3D"#F2F2F2" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable">
+=09=09=09=09<tr>
+=09=09=09=09=09<td align=3D"center" style=3D"padding:10px;" valign=3D"top" =
+id=3D"bodyCell">
+                    =09<span style=3D"color:#F2F2F2; display:none; font-siz=
+e:0px; height:0px; visibility:hidden; width:0px;">List import status update=
+ for the account with the username Softcaribe.</span>
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" style=3D"width:640px;" width=3D"640">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" valign=3D"top">
+=09=09=09=09=09=09<![endif]-->
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" style=3D"max-width:640px;" width=3D"100%" class=3D"emailCon=
+tainer">
+                            
+=09=09=09=09=09=09=09<tr>
+                                <td align=3D"center" valign=3D"top">
+                                    <!-- BEGIN BODY // -->
+                                    <table align=3D"center" bgcolor=3D"#FFF=
+FFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"background-c=
+olor:#FFFFFF; border-bottom:2px solid #E5E5E5; border-radius:4px;" width=3D=
+"100%">
+                                    =09<tr>
+                                    =09=09<td align=3D"center" style=3D"pad=
+ding-right:20px; padding-left:20px;" valign=3D"top">
+                                        =09=09<table border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+                                                        <td align=3D"left" =
+valign=3D"top" style=3D"padding-top:40px; padding-bottom:30px;">
+                                                            <a href=3D"http=
+://click.mailchimpapp.com/track/click/10612303/www.mailchimp.com?p=3DeyJzIj=
+oibHhtaXRlVGJLV29CT0F2WDVCRTVJOGZsYlp3IiwidiI6MSwicCI6IntcInVcIjoxMDYxMjMwM=
+yxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3Lm1haWxjaGltcC5jb21cXFwvXCIs=
+XCJpZFwiOlwiM2VlZThlZDZiMWM2NGU4OTk3NGIyZTM4MTZjNmFkYTZcIixcInVybF9pZHNcIjp=
+bXCIwNzMwZjQ4ODI2NGZiNzk4ZjEyOGQ3YTk2Y2NiMmI2ZDM5MmRmZWM4XCJdfSJ9" target=
+=3D"_blank" title=3D"MailChimp" style=3D"text-decoration:none;"><img src=3D=
+"http://cdn-images.mailchimp.com/template_images/logo_newscript_dark.png" a=
+lt=3D"MailChimp" width=3D"150" class=3D"logoImage" style=3D"border:0; color=
+:#000000; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-=
+size:24px; font-weight:bold; height:auto !important; letter-spacing:-2px; l=
+ine-height:115%; text-align:center; line-height:100%; outline:none; text-de=
+coration:none;" /></a>
+                                                        </td>
+                                                    </tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+                                                    <tr>
+                                                    =09<td style=3D"padding=
+-bottom:20px;" valign=3D"top">
+                                                        =09<h1 style=3D"col=
+or:#606060; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; fon=
+t-size:28px; font-style:normal; font-weight:600; line-height:36px; letter-s=
+pacing:normal; margin:0; padding:0; text-align:left;">Your list import is c=
+omplete.</h1>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                    =09<td style=3D"padding=
+-bottom:0;" valign=3D"top">
+                                                            <p style=3D"col=
+or:#606060; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; fon=
+t-size:16px; font-weight:400; line-height:24px; padding-top:0; margin-top:0=
+; text-align:left;">A total of <strong>21</strong> emails have been success=
+fully added to the list, <em>Tecnologia Web</em>, on the account <strong>So=
+ftcaribe</strong>.</p>
+                                                        </td>
+                                                    </tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+                                                        <td align=3D"center=
+" style=3D"padding-top:20px; padding-bottom:60px;" valign=3D"top">
+                                                            <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tr>
+                                                                    <td ali=
+gn=3D"center" valign=3D"middle">
+                                                                    =09<!--=
+[if gte mso 9]>
+                                                                        <ta=
+ble align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"width:200px" width=3D"200">
+                                                                        <tr=
+>
+                                                                        <td=
+ align=3D"center" bgcolor=3D"#6DC6DD" style=3D"padding:20px;" valign=3D"top=
+">
+                                                                        <![=
+endif]-->
+                                                                        <a =
+href=3D"http://click.mailchimpapp.com/track/click/10612303/us14.admin.mailc=
+himp.com?p=3DeyJzIjoiU05OUlNGSVB3ZWJmdWt4dVZrMFVHV1NTWjFBIiwidiI6MSwicCI6In=
+tcInVcIjoxMDYxMjMwMyxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3VzMTQuYWRta=
+W4ubWFpbGNoaW1wLmNvbVxcXC9saXN0c1xcXC9tZW1iZXJzP2lkPTI0MDM5JnNlZ21lbnQ9c291=
+cmNlLHNvdXJjZV9pcyw0LDI0OTQzXCIsXCJpZFwiOlwiM2VlZThlZDZiMWM2NGU4OTk3NGIyZTM=
+4MTZjNmFkYTZcIixcInVybF9pZHNcIjpbXCI4ZTBjMjk0ZTBiYzRmMzQxZjBmOTcyOWUzNDMzMz=
+Y1ZDM4NzY2MGE5XCJdfSJ9" target=3D"_blank" style=3D"background-color:#6DC6DD=
+; border-collapse:separate !important; border-top:20px solid #6DC6DD; borde=
+r-right:20px solid #6DC6DD; border-bottom:20px solid #6DC6DD; border-left:2=
+0px solid #6DC6DD; border-radius:3px; color:#FFFFFF; display:inline-block; =
+font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:16px;=
+ font-weight:700; text-decoration:none;">View Imported List</a>
+                                                                        <!-=
+-[if gte mso 9]>
+                                                                        </t=
+d>
+                                                                        </t=
+r>
+                                                                        </t=
+able>
+                                                                        <![=
+endif]-->
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+                                    =09=09=09</table>
+                                        =09</td>
+                                        </tr>
+=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09
+                                    </table>
+                                    <!-- // END BODY -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top">
+                                    <!-- BEGIN FOOTER // -->
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%">
+                                        <tr>
+                                        =09<td align=3D"center" valign=3D"t=
+op" class=3D"footerContent" style=3D"color:#606060; font-family:'Helvetica =
+Neue', Helvetica, Arial, sans-serif; font-size:12px; font-weight:400; line-=
+height:24px; padding-top:40px; padding-bottom:40px; text-align:center;">
+                                                <p style=3D"color:#606060; =
+font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px;=
+ font-weight:400; line-height:24px; padding-top:0; margin:0; text-align:cen=
+ter;">&copy; 2001-2016 MailChimp<sup>&reg;</sup>, All Rights Reserved.<br /=
+>675 Ponce De Leon Ave NE &bull; Suite 5000 &bull; Atlanta, GA 30308 USA</p=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://click.mailchimpapp.co=
+m/track/click/10612303/www.mailchimp.com?p=3DeyJzIjoiWl9TbGdtVnh1VThwUHBVZE=
+03dDN5Mkh0UFMwIiwidiI6MSwicCI6IntcInVcIjoxMDYxMjMwMyxcInZcIjoxLFwidXJsXCI6X=
+CJodHRwOlxcXC9cXFwvd3d3Lm1haWxjaGltcC5jb21cXFwvY29udGFjdFxcXC9cIixcImlkXCI6=
+XCIzZWVlOGVkNmIxYzY0ZTg5OTc0YjJlMzgxNmM2YWRhNlwiLFwidXJsX2lkc1wiOltcIjU3ODB=
+kMTBhZGViZmNmMzBjNmNkOTBlYTBjMDM3MzNmNWE2ZTllODdcIl19In0" target=3D"_blank"=
+ style=3D"color:#6DC6DD; text-decoration:none !important;" class=3D"utility=
+Link">Contact Us</a><span class=3D"mobileHide">&nbsp;&nbsp;&bull;&nbsp;&nbs=
+p;</span><a href=3D"http://click.mailchimpapp.com/track/click/10612303/mail=
+chimp.com?p=3DeyJzIjoidjh6X3ljdVk4bzF0LUR5T2tpUm5JdENrWUs4IiwidiI6MSwicCI6I=
+ntcInVcIjoxMDYxMjMwMyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvbWFpbGNoaW1w=
+LmNvbVxcXC9sZWdhbFxcXC90ZXJtc1xcXC9cIixcImlkXCI6XCIzZWVlOGVkNmIxYzY0ZTg5OTc=
+0YjJlMzgxNmM2YWRhNlwiLFwidXJsX2lkc1wiOltcImJkNzM3MTcxY2YxYThlNjgxZDYwMDg0M2=
+Q3YzgxZDVhMjQxNDkyNTZcIl19In0" target=3D"_blank" style=3D"color:#6DC6DD; te=
+xt-decoration:none !important;" class=3D"utilityLink">Terms of Use</a><span=
+ class=3D"mobileHide">&nbsp;&nbsp;&bull;&nbsp;&nbsp;</span><a href=3D"http:=
+//click.mailchimpapp.com/track/click/10612303/mailchimp.com?p=3DeyJzIjoiYVp=
+fSjROdnd0eG1nYjlZaldQeVo2bWFpU3BBIiwidiI6MSwicCI6IntcInVcIjoxMDYxMjMwMyxcIn=
+ZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvbWFpbGNoaW1wLmNvbVxcXC9sZWdhbFxcXC9wc=
+ml2YWN5XFxcL1wiLFwiaWRcIjpcIjNlZWU4ZWQ2YjFjNjRlODk5NzRiMmUzODE2YzZhZGE2XCIs=
+XCJ1cmxfaWRzXCI6W1wiZjE3ODZlNmNlYzk3NTBkMmQzMDM3YWM1M2YyN2RmMGNkZjFlOTAwNFw=
+iXX0ifQ" target=3D"_blank" style=3D"color:#6DC6DD; text-decoration:none !im=
+portant;" class=3D"utilityLink">Privacy Policy</a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END FOOTER -->
+                                </td>
+                            </tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<![endif]-->
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+=09=09</center>
+=09<img src=3D"http://click.mailchimpapp.com/track/open.php?u=3D10612303&id=
+=3D3eee8ed6b1c64e89974b2e3816c6ada6" height=3D"1" width=3D"1"></body>
+</html>
+
+--_av-8drP_TwolJ97810EIlsi0g--
+

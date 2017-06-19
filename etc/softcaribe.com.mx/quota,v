@@ -1,0 +1,24 @@
+head	1.1;
+access;
+symbols;
+locks
+	softcari:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2016.09.22.01.29.28;	author softcari;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@@

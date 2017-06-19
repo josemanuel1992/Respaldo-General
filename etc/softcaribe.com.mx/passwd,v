@@ -1,0 +1,69 @@
+head	1.4;
+access;
+symbols;
+locks
+	softcari:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2016.10.11.00.51.48;	author softcari;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2016.09.22.01.29.43;	author softcari;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2016.09.22.01.29.28;	author softcari;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.09.22.01.29.28;	author softcari;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@ealor:x:1911:1903::/home/softcari/mail/softcaribe.com.mx/ealor:/home/softcari
+asantana:x:1911:1903::/home/softcari/mail/softcaribe.com.mx/asantana:/home/softcari
+dramos:x:1911:1903::/home/softcari/mail/softcaribe.com.mx/dramos:/home/softcari
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

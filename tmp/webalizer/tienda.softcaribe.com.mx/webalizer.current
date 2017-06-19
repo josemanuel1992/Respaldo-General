@@ -1,0 +1,298 @@
+# Webalizer V2.23-05 Incremental Data - 06/18/2017 04:23:19
+2017 6 18 4 23 19
+635 253 27 21 9 20 60381972 57 24 0
+1 1 187 13 18
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+296 46 4047942 3 25 3
+59 55 16509380 9 5 5
+170 98 26566378 14 15 9
+92 38 9936373 3 8 3
+17 15 3317576 5 3 3
+1 1 4323 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+12 11 3301876 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 4323 1
+0 0 0 0
+0 0 0 0
+3 1 4323 1
+0 0 0 0
+154 38 6854134 12
+199 30 3573684 18
+68 15 3436431 6
+40 38 9911549 3
+24 14 3432108 2
+1 0 0 0
+12 11 3301876 1
+0 0 0 0
+0 0 0 0
+12 11 3301876 1
+25 23 6608075 3
+68 46 13338464 6
+0 0 0 0
+4 3 11377 1
+12 11 3301876 1
+0
+0
+0
+253
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+349
+0
+0
+0
+0
+0
+0
+26
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/img/img10.jpg
+0 22 7307499617516878441 380175 0 0
+/css/estilos.css
+0 53 0 217542 0 0
+/login.php
+0 5 0 6055 0 0
+/A736DBA1F54BB0E2EDD8089F4F61ED69.txt
+0 1 0 64 0 0
+/img/img1.jpg
+0 53 0 13224797 0 0
+/img/img5.png
+0 8 0 1739 0 0
+/img/img12.jpg
+0 55 0 33140135 0 0
+/signup.php
+0 3 0 3432 0 0
+/img/img6.jpg
+0 52 0 634644 0 0
+/81D9F8BE04C7C3CA971D12207BF6CB0F.txt
+0 1 0 64 0 0
+/img/img9.jpg
+0 52 0 559458 0 0
+/img/roundicons.png
+0 30 0 2401320 0 0
+/3EB369662C734B7DA86B0F5BFE41592E.txt
+0 1 0 53 0 0
+/img/img2.png
+0 6 0 5320 0 0
+/img/img7.jpg
+0 52 0 464742 0 0
+/F3EC875EFC43B18B9F911706EEC8C4A9.txt
+0 4 0 212 0 0
+/
+0 57 0 145199 24 6
+/img/img11.jpg
+0 52 0 7306884 0 0
+/img/img8.jpg
+0 52 0 764136 0 0
+/img/SoftCaribe.png
+0 43 0 1119078 0 0
+/img/img4.png
+0 7 0 6923 0 0
+# End Of Table - urls
+# -sites- (monthly)
+fixed-187-190-55-235.totalplay.net
+0 12 11 3301876 1 1497481589
+/
+dsl-189-149-50-249-dyn.prod-infinitum.com.mx
+0 68 16 3332621 1 1497606675
+/
+fixed-187-189-49-121.totalplay.net
+0 17 16 3307797 1 1497529705
+/
+secure.comodo.net
+0 2 2 106 0 0
+-
+google-proxy-66-102-6-110.google.com
+0 5 5 795289 1 1497445114
+/
+google-proxy-66-102-7-251.google.com
+0 4 4 806079 1 1497727644
+/
+google-proxy-66-102-7-250.google.com
+0 6 6 2032011 1 1497557465
+/
+200.68.136.202
+0 11 11 3301876 1 1497469245
+/
+fixed-187-189-49-145.totalplay.net
+0 12 11 3301876 1 1497485834
+/
+200.68.137.177
+0 11 11 3301876 1 1497703789
+/
+fixed-187-189-49-61.totalplay.net
+0 67 52 13334141 2 1497639263
+/
+google-proxy-66-249-88-30.google.com
+0 8 5 1144473 2 1497557464
+/
+google-proxy-66-102-6-108.google.com
+0 6 5 2100649 0 0
+-
+baiduspider-180-76-15-10.crawl.baidu.com
+0 1 0 0 0 0
+-
+crawl-66-249-75-18.googlebot.com
+0 2 2 5534 1 1497737175
+/
+dsl-187-150-218-209-dyn.prod-infinitum.com.mx
+0 346 61 10651301 5 1497525506
+/
+google-proxy-66-249-88-28.google.com
+0 9 3 123248 0 0
+-
+google-proxy-66-249-88-3.google.com
+0 10 6 2048644 1 1497445477
+/
+servidor1137.il.controladordns.com
+0 5 5 287 0 0
+-
+fixed-187-189-49-240.totalplay.net
+0 12 11 3301876 1 1497641379
+/
+crawl-66-249-75-19.googlebot.com
+0 2 1 5843 0 0
+-
+crawl-66-249-69-146.googlebot.com
+0 1 1 4323 1 1497759799
+/
+google-proxy-66-102-7-249.google.com
+0 3 2 468109 0 0
+-
+baiduspider-180-76-15-26.crawl.baidu.com
+0 1 0 0 0 0
+-
+google-proxy-66-102-6-106.google.com
+0 1 1 405938 0 0
+-
+201.160.140.182.cable.dyn.cableonline.com.mx
+0 12 11 3301876 1 1497541884
+/
+baiduspider-180-76-15-20.crawl.baidu.com
+0 1 1 4323 1 1497512371
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-69-146.googlebot.com
+0 1 1 4323 1 1497759799
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://softcaribe.mawacle.com/
+0 1
+http://tienda.softcaribe.com.mx/
+0 207
+http://www.google.com/search
+0 1
+http://www.tienda.softcaribe.com.mx/login.php
+0 1
+http://www.tienda.softcaribe.com.mx/
+0 349
+- (Direct Request)
+0 37
+http://www.tienda.softcaribe.com.mx/signup.php
+0 1
+http://softcaribe.com.mx/en-US/index.php
+0 1
+http://softcaribe.com.mx/
+0 37
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/41.0.2272.118 Safari/537.36
+0 11
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+0 414
+Mozilla/5.0 (Linux; Android 6.0; XT1580 Build/MPKS24.78-8-6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobil
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36
+0 12
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 24
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 5
+COMODO DCV
+0 7
+Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Mobile Sa
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 OPR/45.0.
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D680 Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Sa
+0 11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+0 23
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.104 Safari/537.36
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 17
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+0 18
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 4
+Mozilla/5.0 (Linux; Android 5.0.2; LG-K410 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Sa
+0 25
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Sa
+0 11
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

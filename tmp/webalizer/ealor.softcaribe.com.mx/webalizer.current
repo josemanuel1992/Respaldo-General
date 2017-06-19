@@ -1,0 +1,263 @@
+# Webalizer V2.23-05 Incremental Data - 09/25/2016 08:31:13
+2016 9 25 8 31 13
+146 105 10 32 12 11 8422405 32 9 0
+3 7 54 13 25
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 3 1065 1 1 1
+10 7 3833 1 6 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 3 1091 1 1 1
+0 0 0 0 0 0
+112 79 6465417 5 22 3
+0 0 0 0 0 0
+8 7 1681144 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+7 6 269855 3 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+7 6 269855 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+54 29 2149824 10
+5 3 1091 1
+0 0 0 0
+6 4 1757 3
+43 37 3862270 12
+26 23 2136543 4
+0 0 0 0
+4 3 1065 1
+0
+0
+0
+105
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+22
+0
+0
+0
+0
+0
+0
+16
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp/wp-content/themes/pixel-linear/style.css
+0 3 7809634483294272105 27150 0 0
+/wp/wp-content/themes/pixel-linear/js/hover.zoom.js
+0 3 0 7491 0 0
+/wp/wp-includes/js/wp-embed.min.js
+0 3 0 4209 0 0
+/wp/wp-content/themes/pixel-linear/css/wpbase.min.css
+0 3 0 24495 0 0
+/wp/wp-content/themes/pixel-linear/fonts/fontawesome-webfont.woff
+0 3 0 196356 0 0
+/wp/wp-includes/js/jquery/jquery.js
+0 3 0 291552 0 0
+/icons/folder.gif
+0 2 0 450 0 0
+/js/bootstrap.min.js
+0 8 0 184470 0 0
+/js/jquery.js
+0 8 0 421355 0 0
+/sharedApache2Icons/folder.gif
+0 2 0 450 0 0
+/css/landing-page.css
+0 8 0 14630 0 0
+/icons/blank.gif
+0 2 0 296 0 0
+/font-awesome/css/font-awesome.min.css
+0 8 0 109920 0 0
+/wp/wp-includes/js/jquery/jquery-migrate.min.js
+0 3 0 30168 0 0
+/wp/wp-content/themes/pixel-linear/js/magnific.min.js
+0 3 0 62295 0 0
+/wp/wp-cron.php
+0 1 0 0 0 0
+/css/bootstrap.min.css
+0 8 0 606300 0 0
+/wp/wp-includes/js/comment-reply.min.js
+0 1 0 1078 0 0
+/wp/wp-content/themes/pixel-linear/css/magnific.css
+0 3 0 22395 0 0
+/wp/wp-content/themes/pixel-linear/js/main.js
+0 3 0 3297 0 0
+/sharedApache2Icons/blank.gif
+0 2 0 296 0 0
+/wp/check_charset.php
+0 1 0 73 0 0
+/wp/wp-content/themes/pixel-linear/css/font-awesome.min.css
+0 3 0 65952 0 0
+/
+0 17 0 18188 8 1
+/wp/
+0 5 3689343308576992821 60585 0 0
+/wp/blog/2016/09/19/hello-world/
+0 1 72057594037927936 17173 0 1
+/wp/wp-content/themes/pixel-linear/css/bootstrap.min.css
+0 3 3615890447101671473 340494 0 0
+/img/background.jpeg
+0 7 3978417018787474743 5645156 0 0
+/wp/blog/author/admin/
+0 1 7434942922505139757 12139 0 0
+/wp/wp-includes/js/wp-emoji-release.min.js
+0 3 2 31242 0 0
+/wp/wp-content/themes/pixel-linear/js/bootstrap.js
+0 3 0 181617 0 0
+/wp/wp-content/themes/pixel-linear/js/modernizr.custom.js
+0 3 0 40407 0 0
+# End Of Table - urls
+# -sites- (monthly)
+dsl-187-147-253-67-dyn.prod-infinitum.com.mx
+0 5 3 1091 1 1474133826
+/
+dsl-187-155-216-7-dyn.prod-infinitum.com.mx
+0 4 3 1065 1 1473808821
+/
+177.237.155.237.cable.dyn.cableonline.com.mx
+0 52 27 2149751 1 1474302360
+-
+crawl-66-249-69-21.googlebot.com
+0 2 2 86791 1 1474792271
+/
+customer-187-237-105-194.uninet-ide.com.mx
+0 26 23 2136543 1 1474319676
+/
+crawl-66-249-69-29.googlebot.com
+0 2 1 2926 0 0
+-
+dsl-187-147-229-6-dyn.prod-infinitum.com.mx
+0 1 0 0 0 0
+-
+crawl-66-249-69-25.googlebot.com
+0 3 3 180138 0 0
+-
+fixed-189-49-187-189-49-240.iusacell.net
+0 49 41 3864027 4 1474489700
+/
+servidor1137.il.controladordns.com
+0 2 2 73 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-69-21.googlebot.com
+0 2 2 86791 1 1474792271
+/
+crawl-66-249-69-29.googlebot.com
+0 2 1 2926 0 0
+-
+crawl-66-249-69-25.googlebot.com
+0 3 3 180138 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://ealor.softcaribe.com.mx:2082/cpsess9037637219/frontend/paper_lantern/softaculous/index.live.php
+0 2
+http://ealor.softcaribe.com.mx/wp/blog/2016/09/19/hello-world/
+0 1
+http://ealor.softcaribe.com.mx/wp/wp-cron.php
+0 1
+http://ealor.softcaribe.com.mx/css/landing-page.css
+0 7
+http://ealor.softcaribe.com.mx:2082/cpsess2668997257/frontend/paper_lantern/site_publisher/index.html
+0 1
+- (Direct Request)
+0 29
+http://www.ealor.softcaribe.com.mx/
+0 5
+http://ealor.softcaribe.com.mx:2082/cpsess2668997257/frontend/paper_lantern/softaculous/index.live.php
+0 2
+http://ealor.softcaribe.com.mx/
+0 50
+http://ealor.softcaribe.com.mx/wp/blog/author/admin/
+0 1
+http://ealor.softcaribe.com.mx/wp/
+0 44
+http://ealor.softcaribe.com.mx/wp/wp-content/themes/pixel-linear/css/font-awesome.min.css
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+0 31
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D680 Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Sa
+0 26
+Softaculous
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+0 18
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+0 52
+WordPress/4.6.1; http://ealor.softcaribe.com.mx/wp
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/27.0.1453 Safari/537.36 (compatible; 
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

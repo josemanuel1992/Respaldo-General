@@ -1,0 +1,461 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201705 will be lost/reset.
+# Last config file used to build this data file was /home/softcari/tmp/awstats/awstats.softcaribe.com.mx.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2692                
+POS_VISITOR 8377                
+POS_DAY 10816               
+POS_DOMAIN 3499                
+POS_LOGIN 3969                
+POS_ROBOT 4124                
+POS_WORMS 4603                
+POS_EMAILSENDER 4734                
+POS_EMAILRECEIVER 4877                
+POS_SESSION 11572               
+POS_SIDER 11779               
+POS_FILETYPES 5012                
+POS_DOWNLOADS 5318                
+POS_OS 5366                
+POS_BROWSER 5578                
+POS_SCREENSIZE 6191                
+POS_UNKNOWNREFERER 6265                
+POS_UNKNOWNREFERERBROWSER 6695                
+POS_ORIGIN 6946                
+POS_SEREFERRALS 7084                
+POS_PAGEREFS 7240                
+POS_SEARCHWORDS 7388                
+POS_KEYWORDS 7540                
+POS_MISC 2356                
+POS_ERRORS 7599                
+POS_CLUSTER 3825                
+POS_SIDER_404 7755                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170601024035 35 8723 16702672478096
+FirstTime 20170501034534
+LastTime 20170531215026
+LastUpdate 20170601072718 35 0 34 0 0
+TotalVisits 237                 
+TotalUnique 31                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 74                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 9 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 9 58570 9 59 2059425
+1 16 17 187609 19 48 917067
+2 12 12 0 16 62 1792700
+3 9 9 58570 11 57 1908888
+4 11 11 0 11 16 248808
+5 7 8 41473 10 36 773425
+6 4 4 0 7 50 2422430
+7 11 11 117140 10 25 507792
+8 10 10 0 15 33 1029308
+9 21 167 5169451 13 18 309672
+10 32 152 4234382 19 111 3904822
+11 41 277 8452505 17 28 674760
+12 12 27 725272 9 18 427416
+13 6 11 306780 5 16 573006
+14 24 33 344634 24 75 2205758
+15 68 172 5885184 19 108 3074909
+16 24 120 3391764 19 102 2090816
+17 58 271 8081626 11 48 1143649
+18 10 14 498626 5 27 911746
+19 30 253 7848812 9 15 373102
+20 25 124 3639520 13 36 893820
+21 12 13 156145 10 66 2203503
+22 11 14 283998 17 129 3736506
+23 11 12 151929 12 25 677921
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+us 228 234 591575
+mx 213 1379 43449944
+br 12 12 711645
+ie 9 9 407645
+pe 5 95 2992007
+cn 5 5 292850
+gb 1 1 22890
+de 1 1 58570
+ch 0 1 18639
+cy 0 1 129039
+pa 0 1 92484
+ec 0 1 92484
+co 0 4 164985
+ar 0 1 46548
+id 0 3 387117
+sv 0 1 38567
+ae 0 1 129039
+do 0 1 7962
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+googlebot 726 22142547 20170531215217 28
+bot[\s_+:,\.\;\/\\-] 195 4154965 20170529032100 24
+bingpreview 81 2820761 20170524172141 0
+googlebot\-image 58 2181458 20170531141641 0
+spider 48 1683691 20170531183920 0
+php 5 478125 20170529124845 0
+unknown 4 268 20170523191141 4
+msnbot\-media 2 84372 20170507194036 0
+netcraft 2 117140 20170511144518 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+html 134 5103609 0 0
+png 158 8240380 0 0
+jpg 154 6405778 0 0
+less 14 87836 0 0
+css 373 13517651 0 0
+Unknown 2 1108 0 0
+svg 4 3180 0 0
+gif 2 1694 0 0
+js 586 14468263 0 0
+php 304 729494 0 0
+xml 1 1045 0 0
+woff 3 42528 0 0
+woff2 16 1031424 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+linux 20 19
+win8.1 136 31
+win8 1 0
+win7 565 54
+macosx 2 0
+Unknown 305 232
+winnt 531 115
+ios_iphone 5 0
+winxp 11 8
+winlong 1 1
+linuxandroid 174 14
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 29
+chrome58.0.3029.96 298 66
+safari10.1 1 0
+firefox11.0 2 0
+chrome56.0.2924.87 1 0
+firefox53.0.2 1 0
+chrome52.0.2743.116 114 19
+firefox48.0 79 6
+iphone 4 0
+wget 1 1
+firefox3.6.8 8 8
+chrome50.0.2661.94 108 13
+chrome34.0.1847.131 1 1
+Unknown 225 225
+firefox50.0 12 12
+chrome58.0.3029.110 268 22
+msie11.0 1 0
+chrome45.0.2454.93 5 5
+firefox40.1 1 1
+firefox47.0 17 17
+chrome58.0.3029.81 5 0
+firefox27.0 1 1
+chrome57.0.2987.133 230 36
+chrome49.0.2623.75 2 1
+android 1 0
+firefox53.0 190 25
+chrome58.0.3029.83 172 14
+safari10.0 1 0
+firefox3.6.3 1 1
+chrome49.0.2623.112 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+WordPress/4.6.5;_http://softcaribe.com.mx 20170516204728
+WordPress/4.6.6;_http://softcaribe.com.mx 20170531215026
+WordPress.com;_http://softcaribe.com.mx 20170531215007
+Mozilla/5.0_(Android_5.0.2;_Mobile;_rv:53.0.2)_Gecko/53.0.2_Firefox/53.0.2 20170525192302
+Mozilla/5.0_(Android_5.0.2;_Mobile;_rv:53.0)_Gecko/53.0_Firefox/53.0 20170526214311
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WordPress/4.6.5;_http://softcaribe.com.mx 20170516204728
+WordPress.com;_http://softcaribe.com.mx 20170531215007
+WordPress/4.6.6;_http://softcaribe.com.mx 20170531215026
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 59 92
+From1 0 0
+From2 9 52
+From3 0 0
+From4 406 1607
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 9 52
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+500 8 77020
+301 15 724
+504 26 479436
+206 2 32766
+404 20 607934
+302 6 0
+405 1 42
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 8
+/conocenos/ 2 -
+/soporte/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js 6 http://softcaribe.com.mx/soporte/
+/wp-content/themes/alchem/plugins/bootstrap/css/bootstrap.css.map 2 -
+/2082 1 -
+/moises 1 -
+/Tickets 2 -
+/wp-admin/admin-ajax.php 5 http://softcaribe.com.mx/producto/desktop-compaq-230-015la/
+/tickets 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 74
+67.225.221.33 224 224 1 20170531215026
+187.155.110.207 53 178 5100145 20170511180037
+187.190.186.96 48 150 5078311 20170508151811
+187.217.125.34 22 178 5484378 20170524113658
+187.189.50.76 19 187 5833081 20170525202609
+187.147.229.8 19 114 3643427 20170522103958
+187.147.247.80 13 93 2774656 20170529120513
+201.18.18.173 12 12 711645 20170524150739
+189.208.3.182 8 98 3054592 20170503165840
+95.45.252.1 8 8 384755 20170523115637
+201.130.61.222 6 80 2500175 20170525193525
+200.68.136.170 6 79 2470299 20170525192252
+189.163.247.188 5 90 2781384 20170508175607
+189.149.29.213 5 16 676521 20170529125728
+190.42.7.247 5 90 2688421 20170520115923
+200.68.128.30 4 57 1535950 20170522103655
+187.237.231.89 3 34 1121184 20170522102000
+38.80.27.183 1 1 58570 20170522015754
+189.149.247.33 1 1 56102 20170526214311
+54.162.61.226 1 1 58570 20170519070217
+187.189.49.61 1 1 42191 20170511203624
+202.46.53.115 1 1 58570 20170519215259
+89.234.68.118 1 1 22890 20170523231701
+202.46.50.154 1 1 58570 20170524220027
+192.0.85.74 1 1 0 20170531215007
+200.57.119.24 0 1 92484 
+189.226.61.69 0 1 92484 
+217.16.236.250 0 1 129039 
+147.75.117.213 0 1 18639 
+36.77.215.213 0 1 129039 
+187.178.151.247 0 1 14425 
+182.253.72.52 0 1 129039 
+190.236.251.238 0 1 55436 
+73.245.157.139 0 1 61046 
+189.214.6.169 0 1 41473 
+189.173.153.196 0 1 129039 
+74.71.205.211 0 1 92484 
+201.174.12.2 0 1 6728 
+189.156.58.63 0 1 92484 
+187.210.62.162 0 1 46548 
+190.220.158.233 0 1 46548 
+181.50.21.2 0 1 46420 
+202.46.54.15 1 1 58570 20170515190347
+36.75.147.181 0 1 129039 
+200.89.107.181 0 1 9452 
+190.147.180.70 0 1 16629 
+186.66.26.179 0 1 92484 
+177.226.188.79 0 1 46548 
+187.153.105.113 0 3 145219 
+190.233.9.247 0 1 92484 
+136.243.92.105 1 1 58570 20170522005450
+189.206.37.250 0 1 41473 
+187.162.220.73 0 1 83494 
+187.188.169.42 0 1 54674 
+66.102.6.80 0 1 11220 
+200.106.34.105 0 1 92484 
+186.114.250.68 0 1 92484 
+64.233.172.135 0 1 207280 
+186.74.62.147 0 1 92484 
+189.216.59.164 0 1 35343 
+66.102.7.235 1 1 58570 20170517092705
+202.46.53.12 1 1 58570 20170524074447
+179.52.54.219 0 1 7962 
+86.98.148.232 0 1 129039 
+189.166.221.255 0 2 239048 
+189.182.37.211 0 2 103385 
+178.255.87.3 1 1 22890 20170531134446
+66.102.7.233 0 1 2361 
+200.48.184.82 0 1 51448 
+190.86.209.9 0 1 38567 
+202.46.51.106 1 1 58570 20170509031225
+66.249.85.26 0 1 41473 
+179.7.170.235 0 1 11734 
+187.189.200.226 0 3 32699 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170501 5 6 83494 5
+20170502 6 8 239048 5
+20170503 15 108 3112245 7
+20170504 5 5 0 5
+20170505 13 27 419463 8
+20170506 3 3 0 3
+20170507 8 9 11220 8
+20170508 60 250 8004914 9
+20170509 7 9 234029 7
+20170510 10 12 221523 9
+20170511 64 192 5456343 12
+20170512 8 9 46548 8
+20170513 5 6 92484 5
+20170514 7 11 360555 6
+20170515 8 9 151054 8
+20170516 6 6 1 5
+20170517 4 7 164316 4
+20170518 6 7 41473 6
+20170519 7 8 168588 6
+20170520 12 97 2688421 8
+20170521 8 9 46548 7
+20170522 37 219 6846504 12
+20170523 18 22 651555 10
+20170524 42 191 6053516 13
+20170525 40 355 10803555 11
+20170526 14 15 72731 13
+20170527 3 3 0 2
+20170528 8 10 116482 8
+20170529 30 122 3505851 12
+20170530 6 6 0 6
+20170531 9 10 41529 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+2mn-5mn 4
+15mn-30mn 4
+0s-30s 213
+30s-2mn 3
+30mn-1h 6
+5mn-15mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 28
+/wp-cron.php 223 0 204 204
+/wp-admin/admin-ajax.php 62 15500 0 10
+/ 59 2692433 21 16
+/carro/ 17 703783 0 0
+/wp-content/themes/alchem/plugins/font-awesome/fonts/fontawesome-webfont.woff2 15 966960 0 0
+/wp-content/themes/alchem/css/scheme.less 14 87836 3 0
+/finalizar-comprar/ 11 425393 0 0
+/producto/all-in-one-hp-pavilion-23-q153la/ 11 315614 3 0
+/contacto/ 10 245386 0 0
+/xmlrpc.php 10 652030 0 1
+/producto/desktop-compaq-230-015la/ 9 221217 1 1
+/soporte/ 5 6425 2 0
+/producto/all-in-one-hp-22-b000la/ 5 160618 2 0
+/soporte/home.php 4 13032 0 1
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 3 42528 0 1
+/tienda/ 2 107726 0 0
+/mi-cuenta/ 2 69692 0 1
+/categoria-producto/todo-en-uno/ 2 110398 0 0
+/tickets 1 554 0 0
+/wp-includes/wlwmanifest.xml 1 1045 0 0
+/wp-admin/upgrade.php 1 1 1 1
+/soporte/registros.php 1 6266 0 0
+/wp-content/plugins/magee-shortcodes/assets/font-awesome/fonts/fontawesome-webfont.woff2 1 64464 0 0
+/2016/10/ 1 44924 0 0
+/soporte/index.php 1 1285 0 1
+/wp-login.php 1 2737 0 0
+/wp-admin/load-styles.php 1 38643 0 0
+/2082 1 554 0 0
+END_SIDER

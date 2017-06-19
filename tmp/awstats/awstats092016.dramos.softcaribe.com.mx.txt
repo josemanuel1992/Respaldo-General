@@ -1,0 +1,351 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201609 will be lost/reset.
+# Last config file used to build this data file was /home/softcari/tmp/awstats/awstats.dramos.softcaribe.com.mx.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2694                
+POS_VISITOR 6884                
+POS_DAY 7485                
+POS_DOMAIN 3266                
+POS_LOGIN 3554                
+POS_ROBOT 3709                
+POS_WORMS 3876                
+POS_EMAILSENDER 4007                
+POS_EMAILRECEIVER 4150                
+POS_SESSION 7796                
+POS_SIDER 7992                
+POS_FILETYPES 4285                
+POS_DOWNLOADS 4578                
+POS_OS 4626                
+POS_BROWSER 4787                
+POS_SCREENSIZE 5141                
+POS_UNKNOWNREFERER 5215                
+POS_UNKNOWNREFERERBROWSER 5457                
+POS_ORIGIN 5603                
+POS_SEREFERRALS 5741                
+POS_PAGEREFS 5885                
+POS_SEARCHWORDS 6033                
+POS_KEYWORDS 6185                
+POS_MISC 2356                
+POS_ERRORS 6244                
+POS_CLUSTER 3410                
+POS_SIDER_404 6378                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161001140709 1 0 9346338958844
+FirstTime 20160917175051
+LastTime 20160930142533
+LastUpdate 20161002072142 1 0 0 0 0
+TotalVisits 36                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 425 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 2 2 15096 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 2 2 12407 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 25 61 1256832 10 19 22557
+18 100 260 12855789 5 20 249
+19 328 811 18928676 41 204 326834
+20 546 1161 38533856 30 217 17543
+21 177 356 11915429 13 70 76241
+22 2 2 18057 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+mx 1144 2617 83357383
+us 34 34 130293
+ca 2 2 24944
+ru 1 1 12407
+nl 1 1 11115
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+googlebot 6 36536 20160928213848 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+php 927 45556466 0 0
+gif 36 316470 0 0
+swf 1 4045 0 0
+Unknown 1 282 0 0
+html 213 5198867 0 0
+js 737 6342257 0 0
+jpg 163 12499041 0 0
+png 109 9402150 0 0
+css 411 3638303 0 0
+svg 17 90433 0 0
+woff 16 88084 0 0
+woff2 24 399744 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+linux 3 3
+win8 1 1
+ios_ipad 10 1
+Unknown 28 28
+win7 2509 1111
+win8.1 2 2
+winnt 101 35
+winxp 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+chrome53.0.2785.143 50 21
+safari9.0 10 1
+chrome50.0.2661.94 1474 704
+firefox33.0 1 1
+firefox3.5.6 1 1
+firefox47.0 48 30
+chrome52.0.2743.116 27 3
+chrome33.0.1750.517 1 1
+chrome53.0.2785.116 1008 385
+firefox35.0 1 1
+Unknown 25 25
+chrome49.0.2623.75 2 2
+chrome40.0.2214.115 2 2
+msie9.0 2 2
+netscape5.0 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/4.6.1;_http://dramos.softcaribe.com.mx 20160930142533
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20160928210354
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WordPress/4.6.1;_http://dramos.softcaribe.com.mx 20160930142533
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 28 28
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1154 2627
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+500 5 22308
+301 7 1494
+404 16 348983
+206 2 34103
+302 67 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/pago/ 1 http://dramos.softcaribe.com.mx/contacto/
+/wp-amin 1 -
+/pago__trashed/ 12 http://dramos.softcaribe.com.mx/carro__trashed/
+/carro__trashed/ 2 http://dramos.softcaribe.com.mx/pago__trashed/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 13
+187.189.49.240 1092 2509 79906548 20160929184010
+187.147.253.67 31 58 2333830 20160917181639
+67.225.221.33 25 25 15537 20160930142533
+187.179.163.34 21 50 1117005 20160929170946
+70.39.246.37 3 3 19530 20160928210354
+142.4.218.201 2 2 24944 20160928193934
+173.208.175.242 2 2 25680 20160923202103
+66.249.88.10 1 1 18336 20160926181344
+66.249.88.16 1 1 18057 20160929191832
+94.228.142.54 1 1 11115 20160926212407
+216.158.192.38 1 1 15096 20160922071812
+78.85.151.204 1 1 12407 20160930142521
+23.19.78.226 1 1 18057 20160929224330
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20160917 34 61 2349367 2
+20160919 216 303 9975295 2
+20160920 5 15 323744 2
+20160921 299 656 18781705 3
+20160922 383 972 27105289 4
+20160923 7 31 2125492 4
+20160926 10 58 2147599 5
+20160928 197 475 17462474 5
+20160929 29 82 3252770 7
+20160930 2 2 12407 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 4
+5mn-15mn 1
+30mn-1h 4
+0s-30s 24
+1h+ 2
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 52
+/wp-admin/admin-ajax.php 461 5558894 0 1
+/ 114 2504544 14 10
+/wp-admin/load-scripts.php 97 6997005 0 0
+/wp-admin/edit.php 62 4173083 0 0
+/wp-admin/admin.php 42 3627714 0 0
+/wp-admin/post.php 41 5456286 0 0
+/wp-admin/customize.php 33 9513708 0 0
+/contacto/ 33 369903 0 0
+/wp-admin/load-styles.php 31 2883876 0 0
+/wp-content/themes/sydney/fonts/fontawesome-webfont.woff2 24 399744 0 1
+/wp-cron.php 24 0 15 16
+/wp-login.php 24 66140 4 4
+/wp-admin/plugins.php 17 821468 0 0
+/wp-admin/themes.php 16 789047 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 15 70880 0 0
+/tienda/ 13 253481 0 0
+/wp-admin/plugin-install.php 12 809836 0 0
+/carro/ 9 565502 0 0
+/wp-admin/post-new.php 9 1271997 0 0
+/wp-admin/async-upload.php 9 12751 0 0
+/wp-admin/widgets.php 8 790080 0 0
+/wp-admin/index.php 8 281485 0 0
+/wp-admin/profile.php 7 713000 0 0
+/carrito/ 7 319880 0 0
+/wp-admin/ 7 394870 0 0
+/finalizar-comprar/ 2 87672 0 0
+/feed/ 2 3249 1 2
+/wp-admin/export.php 1 37894 0 0
+/mi-cuenta/ 5 152984 0 0
+/2016/09/17/hola-mundo/ 3 89157 1 0
+/finalizar-comprar/carro/ 1 66146 0 0
+/wp-admin/edit-comments.php 1 55003 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 17204 0 0
+/wp-admin/import.php 1 43939 0 0
+/wp-admin/about.php 1 37702 0 0
+/wp-admin/edit-tags.php 3 195712 0 0
+/readme.html 1 7344 0 1
+/2016/09/ 1 40513 0 0
+/wp-admin/tools.php 1 40444 0 0
+/wp-admin/theme-editor.php 1 110348 0 0
+/wp-amin 1 282 0 0
+/wp-admin/theme-install.php 1 45024 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 4 681588 0 0
+/wp-admin/options-general.php 3 209913 0 0
+/pagina-ejemplo/ 2 40717 0 0
+/wp-admin/install.php 2 9668 0 0
+/pago/ 6 142765 0 0
+/wp-admin/nav-menus.php 2 221602 0 0
+/ubicacion/ 7 160140 0 1
+/wp-admin/upload.php 1 85573 0 0
+/wp-admin/setup-config.php 4 15686 1 0
+/wp-content/plugins/woocommerce/assets/js/zeroclipboard/ZeroClipboard.swf 1 4045 0 0
+END_SIDER

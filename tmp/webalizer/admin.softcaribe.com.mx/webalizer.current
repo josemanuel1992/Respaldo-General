@@ -1,0 +1,346 @@
+# Webalizer V2.23-05 Incremental Data - 06/17/2017 21:08:50
+2017 6 17 21 8 50
+4319 2175 7 84 16 4 82323516 147 16 0
+1 54 1455 15 17
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+37 31 17111 5 0 0
+72 69 70555 3 0 0
+4210 2075 82235850 1 147 16
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 1 291 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 3 6559 1
+61 20 756209 3
+960 910 37337475 43
+154 51 2112452 14
+406 356 14297580 24
+1461 315 9180071 38
+284 125 2204626 7
+933 376 15615814 16
+54 18 812439 1
+0 0 0 0
+0 0 0 0
+0
+0
+0
+2175
+0
+0
+0
+0
+0
+12
+0
+2
+0
+0
+63
+0
+0
+0
+0
+0
+0
+2062
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+# -urls- 
+/admin/dist/img/default-50x50.gif
+0 1 12805568 184 0 0
+/admin/plugins/jvectormap/jquery-jvectormap-1.2.2.css
+0 68 12797072 53560 0 0
+/administrador/dist/js/pages/dashboard.js
+0 9 12809584 50715 0 0
+/admin/plugins/morris/morris.min.js
+0 37 12803600 1283472 0 0
+/admin/plugins/knob/jquery.knob.js
+0 37 12803856 943992 0 0
+/administrador/plugins/sparkline/jquery.sparkline.min.js
+0 12 0 518964 0 0
+/admin/dist/js/pages/dashboard.js
+0 37 12802800 202860 0 0
+/admin/bootstrap/fonts/glyphicons-halflings-regular.woff2
+0 38 0 649008 0 0
+/views/usuarios.php
+0 103 7882532104215820905 108219 0 0
+/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+0 37 0 7593552 0 0
+/admin/bootstrap/css/bootstrap.min.css.map
+0 6 12806208 542194 0 0
+/dist/js/app.min.js
+0 43 12810720 426689 0 0
+/admin/plugins/datepicker/bootstrap-datepicker.js
+0 37 12803984 1686168 0 0
+/administrador/
+0 21 12806768 500581 2 2
+/admin/plugins/fastclick/fastclick.js
+0 39 12804128 960705 0 0
+/admin/dist/img/user6-128x128.jpg
+0 1 12805312 4342 0 0
+/admin/dist/img/user7-128x128.jpg
+0 1 12805056 6434 0 0
+/62FF88ACC2D45BFA7E2E3A0324FE17AA.txt
+0 1 0 53 0 0
+/usuarios.php
+0 38 0 70356 0 0
+/administrador/plugins/slimScroll/jquery.slimscroll.min.js
+0 9 0 42516 0 0
+/administrador/dist/js/app.min.js
+0 9 12809456 89307 0 0
+/actions/insertarUsuario.php
+0 11 0 158 0 0
+/admin/plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+0 38 3330473695619854894 5195268 0 0
+/administrador/plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+0 10 0 1443130 0 0
+/admin/plugins/sparkline/jquery.sparkline.min.js
+0 38 12803328 1556892 0 0
+/admin/dist/js/app.min.js
+0 39 12802720 367151 0 0
+/administrador/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+0 9 12809728 1898388 0 0
+/admin/plugins/daterangepicker/daterangepicker.js
+0 37 12802432 2332620 0 0
+/administrador/dist/js/demo.js
+0 9 12808080 155871 0 0
+/administrador/dist/img/user4-128x128.jpg
+0 16 12807104 55632 0 0
+/administrador/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+0 10 0 333230 0 0
+/admin/img/SoftCaribe.png
+0 34 12806080 1927301 0 0
+/admin/dist/img/user2-160x160.jpg
+0 39 12803728 261590 0 0
+/administrador/dist/img/user3-128x128.jpg
+0 16 12807360 56176 0 0
+/admin/plugins/datepicker/datepicker3.css
+0 66 12801680 2193425 0 0
+/admin/dist/img/user3-128x128.jpg
+0 39 12804528 129907 0 0
+/admin/
+0 44 12796480 1778732 2 4
+/admin/plugins/chartjs/Chart.min.js
+0 1 12805952 57275 0 0
+/admin/plugins/morris/morris.css
+0 67 12796944 27820 0 0
+/admin/dist/js/pages/dashboard2.js
+0 1 12805824 8926 0 0
+/admin/dist/img/user8-128x128.jpg
+0 1 12805440 5060 0 0
+/admin/dist/img/user4-128x128.jpg
+0 39 12802928 128649 0 0
+/administrador/plugins/knob/jquery.knob.js
+0 10 12807792 262220 0 0
+/bootstrap/css/bootstrap.min.css.map
+0 3 12811456 542194 0 0
+/status.php
+0 16 12810128 101115 0 0
+/administrador/plugins/jQuery/jquery-2.2.3.min.js
+0 10 12807648 856590 0 0
+/admin/bootstrap/css/bootstrap.min.css
+0 68 12796688 7860725 0 0
+/admin/bootstrap/js/bootstrap.min.js
+0 39 12803472 1370665 0 0
+/7FE9805508DD235630747713ABCE69D1.txt
+0 1 0 64 0 0
+/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+0 65 0 142464 0 0
+/dist/js/pages/dashboard.js
+0 19 12810592 107065 0 0
+/admin/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+0 38 0 1199628 0 0
+/admin/plugins/jQuery/jquery-2.2.3.min.js
+0 42 12801968 3333658 0 0
+/admin/plugins/daterangepicker/daterangepicker.css
+0 66 12801824 433290 0 0
+/dist/js/demo.js
+0 19 12810832 329061 0 0
+/page/status.php
+0 4 12810016 36646 0 0
+/admin/dist/img/user1-128x128.jpg
+0 1 12805696 2879 0 0
+/bootstrap/css/bootstrap.min.css
+0 49 12811328 5938800 0 0
+/administrador/plugins/daterangepicker/daterangepicker.js
+0 10 0 647950 0 0
+/admin/dist/img/user5-128x128.jpg
+0 1 12805184 6446 0 0
+/admin/plugins/iCheck/flat/blue.css
+0 68 12796816 94248 0 0
+/admin/index2.html
+0 1 12804944 67079 3 1
+/admin/bootstrap/fonts/glyphicons-halflings-regular.woff
+0 1 0 23424 0 0
+/
+0 62 0 756144 9 8
+/servicios.php
+0 6 12811696 40599 0 0
+/admin/dist/css/skins/_all-skins.min.css
+0 72 12796144 2701884 0 0
+/nivel.php
+0 13 12811584 85344 0 0
+/bootstrap/js/bootstrap.min.js
+0 13 12810464 481585 0 0
+/dist/img/user2-160x160.jpg
+0 20 12811200 141400 0 0
+/dist/css/AdminLTE.min.css
+0 50 12811072 4429110 0 0
+/administrador/dist/img/user2-160x160.jpg
+0 16 12808352 113120 0 0
+/admin/plugins/slimScroll/jquery.slimscroll.min.js
+0 39 12802576 174788 0 0
+/admin/pages/tables/simple.html
+0 2 12806512 84810 0 0
+/admin/dist/js/demo.js
+0 39 12804416 640803 0 0
+/administrador/plugins/datepicker/bootstrap-datepicker.js
+0 9 0 421542 0 0
+/administrador/plugins/fastclick/fastclick.js
+0 9 12807936 233685 0 0
+/03D98D285BF1409D9061BF2E84422A2B.txt
+0 1 0 64 0 0
+/img/SoftCaribe.png
+0 66 12809904 4041115 0 0
+/administrador/bootstrap/js/bootstrap.min.js
+0 12 12808208 444540 0 0
+/admin/dist/css/AdminLTE.min.css
+0 72 12796560 6071088 0 0
+/D3532E8E1E596B4ED7C3D534EB3B6791.txt
+0 4 0 212 0 0
+/status_one.php
+0 5 12811808 32985 0 0
+/administrador/plugins/morris/morris.min.js
+0 12 12807504 427824 0 0
+/dist/css/skins/_all-skins.min.css
+0 49 12810944 1997093 0 0
+# End Of Table - urls
+# -sites- (monthly)
+google-proxy-66-249-88-41.google.com
+0 3 0 0 0 0
+-
+secure.comodo.net
+0 2 2 106 0 0
+-
+189.221.45.3.cable.dyn.cableonline.com.mx
+0 4210 2087 82235850 16 1497733705
+/
+google-proxy-66-249-88-39.google.com
+0 5 4 3666 0 0
+-
+200.68.136.157
+0 66 66 67116 0 0
+-
+servidor1137.il.controladordns.com
+0 5 5 287 0 0
+-
+200.68.137.211
+0 28 23 16491 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+189.221.45.3.cable.dyn.cableonline.com.mx
+0 4210 2087 82235850 16 1497733705
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://admin.softcaribe.com.mx/usuarios.php
+0 64
+http://admin.softcaribe.com.mx/status.php
+0 273
+http://admin.softcaribe.com.mx/admin/bootstrap/css/bootstrap.min.css
+0 39
+http://admin.softcaribe.com.mx/admin/
+0 1059
+http://admin.softcaribe.com.mx/admin/index.html
+0 33
+http://admin.softcaribe.com.mx/page/status.php
+0 153
+http://admin.softcaribe.com.mx/
+0 1837
+http://admin.softcaribe.com.mx/servicios.php
+0 91
+- (Direct Request)
+0 183
+http://admin.softcaribe.com.mx/administrador/
+0 263
+http://admin.softcaribe.com.mx/admin/index2.html
+0 26
+http://admin.softcaribe.com.mx/nivel.php
+0 178
+http://admin.softcaribe.com.mx/administrador/index.php
+0 41
+http://admin.softcaribe.com.mx/admin/pages/tables/simple.html
+0 17
+http://admin.softcaribe.com.mx/index.php
+0 7
+http://admin.softcaribe.com.mx/status_one.php
+0 55
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 4210
+COMODO DCV
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 94
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 8
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

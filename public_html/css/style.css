@@ -1,0 +1,38 @@
+.navbar-Logo{
+  height: 30px;
+  margin: -5px 0;
+}
+
+.img-team{
+  max-width: 250px;
+}
+
+.nav-lang{
+  display: inline-block !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  color: white;
+}
+
+.nav-lang.selected{
+  font-weight:700 !important;
+}
+
+@media (min-width: 992px){
+  .service-text-size{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .col-md-4 .service-text-size{
+    width: 100%;
+  }
+
+  .col-md-6 .service-text-size{
+    width: 66.66666666%;
+  }
+
+  .col-md-12 .service-text-size{
+    width: %;
+  }
+}

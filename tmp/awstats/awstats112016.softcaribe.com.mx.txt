@@ -1,0 +1,762 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201611 will be lost/reset.
+# Last config file used to build this data file was /home/softcari/tmp/awstats/awstats.softcaribe.com.mx.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2698                
+POS_VISITOR 16260               
+POS_DAY 20277               
+POS_DOMAIN 3596                
+POS_LOGIN 3948                
+POS_ROBOT 4103                
+POS_WORMS 4640                
+POS_EMAILSENDER 4771                
+POS_EMAILRECEIVER 4914                
+POS_SESSION 21109               
+POS_SIDER 21322               
+POS_FILETYPES 5049                
+POS_DOWNLOADS 5423                
+POS_OS 6431                
+POS_BROWSER 6646                
+POS_SCREENSIZE 7288                
+POS_UNKNOWNREFERER 7362                
+POS_UNKNOWNREFERERBROWSER 7751                
+POS_ORIGIN 8051                
+POS_SEREFERRALS 8196                
+POS_PAGEREFS 8352                
+POS_SEARCHWORDS 8615                
+POS_KEYWORDS 8767                
+POS_MISC 2359                
+POS_ERRORS 8826                
+POS_CLUSTER 3804                
+POS_SIDER_404 8979                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161201042344 133 36629 9766551979763
+FirstTime 20161101040438
+LastTime 20161130212617
+LastUpdate 20161201064243 133 0 132 0 0
+TotalVisits 500                 
+TotalUnique 84                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 103                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 1494 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 196 423 2877676 127 499 8534027
+1 30 60 691061 53 111 2710149
+2 7 7 0 36 57 2114839
+3 20 23 50285 42 54 1629951
+4 14 14 0 61 101 2733927
+5 11 27 468670 33 77 1842279
+6 24 92 2098735 34 69 1818062
+7 57 278 6321852 64 180 3821990
+8 72 262 3915968 59 130 2645728
+9 92 177 2408764 105 283 5137212
+10 88 204 3873522 44 142 2461756
+11 57 122 2878992 43 82 2010763
+12 180 580 12779921 60 153 2196311
+13 80 212 6081090 58 122 2575601
+14 59 209 1719018 70 206 3672528
+15 71 191 1902150 90 145 3358100
+16 85 310 5941116 92 172 2099854
+17 73 224 4437528 33 137 2095203
+18 146 541 10768059 43 275 4839496
+19 405 1242 17080461 113 596 5108013
+20 160 436 4621862 67 245 3487223
+21 221 718 8236272 107 339 3737199
+22 315 948 14542749 77 320 4247508
+23 244 679 10590369 94 360 4431808
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+mx 2289 7290 117868854
+us 407 541 1771805
+es 5 56 1626307
+uy 5 85 2526269
+jp 1 1 48795
+uz 0 1 207280
+co 0 1 14712
+tr 0 1 207280
+gb 0 3 14818
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+googlebot 1528 27621900 20161130212626 29
+bot[\s_+:,\.\;\/\\-] 239 8279203 20161130150830 17
+googlebot\-image 231 12252054 20161127020607 0
+php 137 9579190 20161128105346 0
+google[_+\s]web[_+\s]preview 55 1736215 20161118095420 0
+bingpreview 2 12548 20161127153015 0
+unknown 2 134 20161119075930 2
+spider 1 42072 20161119080432 0
+netcraft 1 54579 20161117040118 0
+no_user_agent 1 112872 20161109075417 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+otf 66 4070880 0 0
+svg 4 4148 0 0
+less 46 263508 0 0
+ttf 1 1892 0 0
+css 1352 28928995 0 0
+js 2121 40829068 0 0
+html 864 7400303 0 0
+woff2 40 2385168 0 0
+php 1562 3842523 0 0
+jpg 1016 21733176 0 0
+png 611 13986842 0 0
+Unknown 39 45235 0 0
+gif 124 119847 0 0
+woff 83 313548 0 0
+txt 44 2332 0 0
+eot 6 358655 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 21
+/594C612A901DDCF8FBC22535FBC9A88C.txt 5 0 265
+/79C07F6576FE3ACB951860971ABC10F8.txt 3 0 159
+/D0C071985D5C4333B61A8F5D166E0A98.txt 3 0 159
+/6CFF04070F14A01EED91C882E5F30585.txt 3 0 159
+/06F3DB1F84387C4E7B57831D875D0ABF.txt 3 0 159
+/277DECAA097E0C3341DE63518EE21B03.txt 3 0 159
+/CFBAA3D541CCDCB0A0DD3C6B72C92404.txt 3 0 159
+/C4163B806E4B8E0952FA2B746AC417FD.txt 2 0 106
+/B8FB18E5A6D0CC670C854006335733D7.txt 2 0 106
+/998176A0AC274AE665A455E18744383E.txt 2 0 106
+/77BF35FAC04CBB6F197C8FBE87F0DE27.txt 2 0 106
+/A2A7388C021B0FFA39C2C42BC34DD575.txt 2 0 106
+/62EC16CAB38A92D4847265275C4B9424.txt 2 0 106
+/373FCF37217E92621E9DADB9E52AB16B.txt 2 0 106
+/B995E4E49CE2D20EAABF9238EDBD2418.txt 1 0 53
+/C6AC61208B51563C6F23C860455AB765.txt 1 0 53
+/0CA3C63E7C2035F6B1BBE001569546EB.txt 1 0 53
+/536D4C3D2BBA3A7FB413A7BDB8811BA2.txt 1 0 53
+/4B89DFC1E9AB08D02BD627CF36AB495B.txt 1 0 53
+/2A170B3C2FE2202486436D3DFE878127.txt 1 0 53
+/198FC501A76D0EA04D41A17FAD2530AA.txt 1 0 53
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+ios_ipad 63 13
+win7 2752 868
+linux 26 7
+macosx 151 49
+linuxandroid 389 107
+winnt 3812 1221
+win8.1 177 37
+Unknown 433 387
+ios_iphone 174 17
+winxp 2 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 28
+chrome33.0.0.0 1 1
+opera41.0.2353.69 13 10
+msie8.0 1 1
+chrome54.0.2840.68 241 50
+chrome54.0.2840.71 2728 954
+chrome49.0.2623.112 1 0
+Unknown 426 382
+chrome46.0.2490.76 1 1
+chrome50.0.2661.94 503 113
+firefox50.0 119 55
+msie11.0 166 23
+chrome54.0.2840.87 71 6
+safari9.0 82 16
+safari10.0 153 13
+firefox49.0 1114 197
+chrome53.0.2785.124 26 2
+chrome54.0.2840.85 112 36
+iphone 2 1
+chrome53.0.2785.143 212 48
+opera41.0.2353.56 2 1
+safari10.0.1 31 9
+chrome54.0.2840.98 19 13
+chrome54.0.2840.99 1816 739
+msie9.0 1 0
+firefox48.0 98 8
+chrome51.0.2704.79 6 4
+chrome49.0.2623.75 7 4
+chrome30.0.0.0 27 20
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+COMODO_DCV 20161122002740
+Mozilla/5.0_(Android_5.0.2;_Mobile;_rv:50.0)_Gecko/50.0_Firefox/50.0 20161128232019
+WordPress/4.6.1;_http://softcaribe.com.mx 20161130212617
+WordPress/4.6.1;_https://softcaribe.com.mx 20161123012527
+Cpanel-HTTP-Client/1.0 20161122002511
+facebookexternalhit/1.1 20161110002643
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+facebookexternalhit/1.1 20161110002643
+Cpanel-HTTP-Client/1.0 20161122002511
+WordPress/4.6.1;_https://softcaribe.com.mx 20161123012527
+WordPress/4.6.1;_http://softcaribe.com.mx 20161130212617
+COMODO_DCV 20161122002740
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 706 762
+From1 0 0
+From2 8 19
+From3 116 116
+From4 1877 7082
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 8 19
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://www.facebook.com 81 81
+http://m.facebook.com 32 32
+https://web.facebook.com 2 2
+https://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+500 148 0
+503 9 2592
+206 98 1327277
+404 631 18259011
+301 198 29795
+302 80 85
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 120
+/proyect 1 -
+/aditii/css/style.css 1 http://softcaribe.com.mx/aditii/
+/consulta/ 1 -
+/wp-content/themes/athena/style.css 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/wp-content/themes/athena/inc/js/owl.carousel.min.js 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/proyecto 2 -
+/wp-content/themes/athena/inc/css/font-awesome.css 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/consulta 1 -
+/rule/editausu.php 1 http://softcaribe.com.mx/rule/editarUsuario.php
+/wp-content/themes/athena/inc/js/wow.js 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/Tarea/index.html 5 http://softcaribe.com.mx/Tarea/signin.html
+/Iniciar-Sesion.php 1 -
+/news-sitemap.xml 1 -
+/index.html 1 -
+/apple-app-site-association 1 -
+/formulario 1 -
+/Pagina/admin/images/logo.png 3 http://softcaribe.com.mx/Pagina/admin/addProductos.php
+/aditii/admin/estyles.css 2 http://softcaribe.com.mx/aditii/admin/insertar.php
+/wp-content/themes/athena/inc/css/temps/green.css 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/Aditii 1 -
+/Proyecto/usuaios.html 1 -
+/web/sign-in 1 -
+/wp-content/themes/idolcorp/css/bootstrap.css 1 http://softcaribe.com.mx/2016/09/
+/aditii/admin/signin 1 -
+/dotscancun/actions/usuarios.php 1 http://softcaribe.com.mx/dotscancun/actions/insertarUsuario.php
+/web/sesion.php 1 -
+/JS/jquery-3.1.1.min.js 40 http://softcaribe.com.mx/web/admin.php
+/wp-content/uploads/2016/09/all-in-one-pc-repair-150x150.jpg 1 -
+/categoria-producto/tecnologia/ 10 -
+/Proyect 3 -
+/wp-content/themes/idolcorp/js/bootstrap.js 1 http://softcaribe.com.mx/2016/09/
+/Proyecto/rule 1 -
+/aditii/js/flexslider/flexslider.css 1 http://softcaribe.com.mx/aditii/
+/addproducts.php 1 -
+/Pagina/admin/css/style-index.css 21 http://softcaribe.com.mx/Pagina/admin/addProductos.php
+/Consulta/eliminar.php 4 http://www.softcaribe.com.mx/Consulta/
+/wp-content/themes/athena/inc/css/camera.css 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/Pagina/Sesion.php 3 http://softcaribe.com.mx/Pagina/
+/Pagina/addproducts.php 1 -
+/Sesion.php 1 -
+/rule/actions/validaFormulario.php 1 http://softcaribe.com.mx/rule/
+/Pagina/admin/images/carrito.png 3 http://softcaribe.com.mx/Pagina/admin/addProductos.php
+/wp-content/themes/athena/inc/js/camera.js 1 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/wp-content/themes/alchem/plugins/bootstrap/css/bootstrap.css.map 2 -
+/conocenos/ 2 -
+/Proyecto/admin 1 -
+/web/css/style-singin.css 5 http://softcaribe.com.mx/web/sing-in.php
+/signin/index.html 1 -
+/wp-content/themes/athena/inc/css/bootstrap.css 1 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/wp-content/themes/athena/inc/css/animate.css 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/sitemap.xml 1 -
+/signin/css/style.css 19 http://www.softcaribe.com.mx/signin/
+/aditii:2082 1 -
+/Formulario/css/style.css 2 http://www.softcaribe.com.mx/Formulario/
+/singin 1 -
+/wp-content/themes/athena/js/skip-link-focus-fix.js 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/Pagina/addusuarios.php 1 -
+/Tarea/Index.html 1 -
+/wp-content/themes/athena/inc/css/slicknav.min.css 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/wp-content/themes/idolcorp/js/jquery.bxslider.js 1 http://softcaribe.com.mx/2016/09/
+/Pagina/sing-in.php 1 http://www.softcaribe.com.mx/Pagina/
+/wp-content/plugins/jetpack/modules/wpgroho.js 1 -
+/Proyecto/css/estilos.css 1 http://softcaribe.com.mx/rule/
+/web/Consulta 1 -
+/actions/destruir.php 1 http://softcaribe.com.mx/Proyecto/usuarios.php
+/Proyecto/eliminarUsuario.php 1 http://softcaribe.com.mx/Proyecto/usuarios.php
+/Formulario/Script/script.js 2 http://www.softcaribe.com.mx/Formulario/
+/wp-content/themes/athena/inc/css/style.css 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/Formulario/usuarios.php 2 -
+/aditii/admin/styles1.css 2 http://softcaribe.com.mx/aditii/admin/insertar.php
+/Proyecto/destruir.php 1 http://softcaribe.com.mx/Proyecto/usuarios.php
+/Pagina/admin/js/flexslider/flexslider.css 54 http://softcaribe.com.mx/Pagina/admin/addUsuarios.php
+/wp-content/themes/athena/inc/css/bootstrap-theme.min.css 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/web/Index.php 1 -
+/Proyecto/insertarUsuario.php 3 http://softcaribe.com.mx/Proyecto/usuarios.php
+/2082 3 -
+/JS/bootstrap.min.js 49 http://softcaribe.com.mx/web/admin.php
+/css/style-index.css 16 http://softcaribe.com.mx/Proyecto/eliminarUsuario.php
+/.well-known/assetlinks.json 1 -
+/admin.php 1 -
+/web/sing-in 1 -
+/web/:2086 1 -
+/rule/estilos.css 1 http://softcaribe.com.mx/rule/
+/css/fontello.css 9 http://softcaribe.com.mx/moises/
+/Tarea/signin.php 1 http://softcaribe.com.mx/Tarea/signin.html
+/aditii/admin/jquery-1.7.1.min.js 4 http://www.softcaribe.com.mx/aditii/admin/Index.html
+/2083 1 -
+/web/jquery-1.7.1.min.js 64 http://softcaribe.com.mx/web/Sesion.php
+/Proyecto/js/flexslider/flexslider.css 17 http://softcaribe.com.mx/Proyecto/eliminarUsuario.php
+/assets/js/ie10-viewport-bug-workaround.js 97 http://www.softcaribe.com.mx/signin/
+/Pagina/validation.php 1 http://softcaribe.com.mx/Pagina/sing-in.php
+/.well-known/apple-app-site-association 1 -
+/Sesion/ 1 -
+/rule/editarusuario.php 1 http://softcaribe.com.mx/rule/usuarios.php
+/aditii/admin/css/estilos.css 27 http://www.softcaribe.com.mx/aditii/admin/Index.php
+/wp-content/themes/athena/inc/js/script.js 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/wp-content/themes/athena/js/navigation.js 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/wp-content/themes/athena/inc/js/parallax.min.js 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/Proyect/js/estilos.css 6 http://softcaribe.com.mx/Proyect/
+/rule/destruyesesion.php 1 http://softcaribe.com.mx/rule/usuarios.php
+/rule/eliminarusuario.php 1 http://softcaribe.com.mx/rule/usuarios.php
+/Pagina/admin/sing-in.php 1 http://softcaribe.com.mx/Pagina/admin/addUsuarios.php
+/wp-content/themes/athena/inc/js/slicknav.min.js 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/wp-content/themes/idolcorp/js/custom-scripts.js 1 http://softcaribe.com.mx/2016/09/
+/Formulario/users.php 1 -
+/Proyecto/insertarusuario.php 2 http://softcaribe.com.mx/Proyecto/usuarios.php
+/tarea/index.html 3 -
+/Sesion 2 -
+/css/estilos.css 40 http://softcaribe.com.mx/dotscancun/
+/wp-content/themes/idolcorp/css/font-awesome.css 1 http://softcaribe.com.mx/2016/09/
+/wp-content/themes/idolcorp/style.css 1 http://softcaribe.com.mx/2016/09/
+/Proyecto/actions/InsertarUsuarios.php 1 http://softcaribe.com.mx/Proyecto/insertarUsuarios.php
+/Pagina/addUsuarios.php 1 -
+/wp-content/themes/athena/inc/js/easing.js 2 http://softcaribe.com.mx/categoria-producto/tecnologia/
+/wp-content/themes/idolcorp/js/jquery.nicescroll.min.js 1 http://softcaribe.com.mx/2016/09/
+/2016/09/ 1 -
+/web/sing-in.php 1 -
+/tarea 1 -
+/wp-content/themes/idolcorp/css/generated.css 1 http://softcaribe.com.mx/2016/09/
+/wp-content/themes/athena/inc/js/sticky.min.js 3 http://softcaribe.com.mx/categoria-producto/tecnologia/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 103
+177.237.135.111 633 1394 9665117 20161121234330
+187.189.49.240 398 1269 22828741 20161129194726
+67.225.221.33 380 422 3570 20161130212617
+201.139.253.109 136 394 9305563 20161122125421
+187.191.47.66 135 488 11584206 20161122125423
+177.237.148.47 132 366 2472709 20161129221214
+189.149.31.28 115 281 4217447 20161128210050
+187.190.55.69 86 412 7468877 20161128204958
+189.149.58.80 73 159 1043490 20161110065832
+177.237.136.18 57 238 5257892 20161109165705
+189.149.34.73 45 240 2661590 20161108161858
+187.248.18.233 45 204 5881473 20161122224214
+200.68.137.185 31 289 672470 20161107195845
+187.189.49.121 29 100 1941317 20161130091535
+189.215.80.163 27 94 2750238 20161110134619
+189.214.7.246 27 36 86378 20161121232804
+189.149.62.237 27 105 2519175 20161104010556
+189.214.1.182 26 97 2219950 20161128220306
+201.175.134.181 25 114 3807047 20161110181217
+177.237.152.146 20 22 40747 20161128222903
+189.149.55.57 19 27 9922 20161122005842
+187.147.226.50 19 25 14109 20161121194246
+187.222.40.206 16 108 3263527 20161130130854
+200.68.136.221 14 42 1340203 20161104173117
+177.237.181.124 14 22 48158 20161128232018
+66.249.88.25 5 16 214952 20161119140511
+66.249.88.27 3 21 274062 20161130112955
+66.249.85.175 2 3 10593 20161110010850
+200.76.91.22 0 1 0 
+200.68.137.187 5 22 514117 20161110134322
+201.102.7.96 0 3 50285 
+200.68.136.138 3 19 466977 20161109201132
+189.150.10.149 7 12 13915 20161104211424
+200.76.91.200 2 5 94922 20161119150943
+200.76.91.47 1 2 47830 20161119150940
+187.150.152.72 2 3 1686 20161121120420
+200.76.91.104 0 5 72292 
+177.237.142.231 2 4 11396 20161109111139
+201.160.137.178 1 19 535909 20161108231144
+69.171.228.123 1 1 10245 20161110002643
+187.153.194.41 4 6 1852 20161121201227
+187.153.51.148 1 1 2075 20161128210930
+189.149.22.153 2 3 2675 20161129072753
+187.191.6.151 3 19 466977 20161109201207
+187.189.49.217 7 25 548535 20161129003849
+66.249.88.23 4 18 151329 20161108201804
+187.188.11.62 0 1 14712 
+157.55.39.30 0 1 3542 
+66.249.88.28 0 1 28582 
+200.76.91.42 1 3 250 20161119150943
+66.102.7.194 1 1 8495 20161103170918
+177.237.174.124 4 24 471941 20161109103025
+201.122.17.153 7 58 1746879 20161109123759
+187.185.210.12 1 1 5034 20161107013429
+189.221.130.24 1 1 1158 20161102205448
+189.221.40.98 5 6 6698 20161128223252
+91.199.212.132 0 2 106 
+212.252.56.218 0 1 207280 
+66.249.85.177 0 3 95216 
+200.76.91.81 0 3 16752 
+150.70.188.168 1 1 48795 20161121220617
+190.24.148.157 0 1 14712 
+66.249.83.139 1 8 66509 20161108195954
+189.149.130.159 2 5 89894 20161102124321
+200.76.91.106 1 3 9569 20161118142825
+66.249.85.176 1 1 1871 20161110010912
+189.221.37.226 2 28 531351 20161109125757
+66.249.83.155 0 5 104700 
+189.153.188.208 5 57 1739439 20161108125737
+66.249.83.137 1 11 92377 20161108195959
+189.129.56.103 0 1 11734 
+200.76.91.19 0 2 55638 
+177.237.152.210 5 7 1855 20161121210124
+66.249.83.153 1 6 42820 20161109195708
+66.249.83.135 3 13 332321 20161108201800
+200.68.137.203 1 2 1683 20161121123342
+79.156.17.65 5 56 1626307 20161118063247
+167.56.41.99 5 85 2526269 20161129213412
+200.76.91.1 1 3 11328 20161118142825
+66.249.83.154 2 8 319457 20161109195707
+201.160.133.233 1 2 1683 20161124081522
+178.218.202.104 0 1 207280 
+187.189.49.61 1 14 527389 20161103110641
+187.188.56.171 5 62 1844860 20161119234606
+189.182.45.25 0 1 18639 
+173.252.115.192 1 1 10245 20161110002642
+200.76.91.7 1 2 43955 20161118142822
+189.149.58.152 12 122 2325171 20161106220721
+187.198.104.245 1 9 379067 20161101171135
+189.149.61.6 2 5 5173 20161120012308
+189.221.45.31 1 1 2075 20161129063331
+187.136.248.219 6 9 5058 20161127230421
+187.170.123.201 0 1 18639 
+200.68.136.222 1 1 4024 20161107104934
+189.150.11.154 1 1 777 20161129143031
+51.9.97.42 0 1 14712 
+201.160.131.64 3 4 1853 20161121203828
+200.76.91.163 0 3 8269 
+200.52.61.251 6 64 2000018 20161121220447
+201.160.134.192 3 4 7364 20161128203911
+66.249.88.26 1 1 919 20161125160521
+201.160.136.233 10 13 18505 20161128213212
+201.160.138.105 10 92 2008631 20161110054319
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20161101 7 15 379067 6
+20161102 89 322 4657836 19
+20161103 90 421 9090525 28
+20161104 88 194 2964312 26
+20161105 17 20 5284 12
+20161106 74 156 641182 14
+20161107 78 527 6076218 16
+20161108 223 1159 19006659 26
+20161109 491 1351 17690087 37
+20161110 222 740 14018743 28
+20161111 15 16 18639 13
+20161112 34 79 1623600 19
+20161113 7 7 0 6
+20161114 36 138 3095206 11
+20161115 16 18 2630 15
+20161116 46 135 1836145 17
+20161117 34 107 2271148 11
+20161118 90 272 7589148 18
+20161119 65 236 5664658 23
+20161120 121 168 916427 7
+20161121 183 341 4210372 28
+20161122 94 261 5638616 13
+20161123 10 11 207280 10
+20161124 12 14 3366 9
+20161125 20 31 153310 11
+20161126 8 8 0 7
+20161127 107 263 4914871 15
+20161128 233 413 4477002 28
+20161129 167 432 3799334 17
+20161130 30 124 3334455 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 34
+2mn-5mn 11
+30mn-1h 42
+0s-30s 356
+15mn-30mn 15
+5mn-15mn 19
+30s-2mn 23
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 169
+/wp-cron.php 359 0 295 298
+/Proyecto/actions/validarUsuario.php 190 8010 1 5
+/Consulta/ 175 480792 28 23
+/wp-admin/admin-ajax.php 171 41654 3 14
+/web/ 123 912935 10 10
+/Proyecto/ 91 36355 25 14
+/Proyecto/usuarios.php 80 171802 0 3
+/web/Sesion.php 70 133491 4 3
+/ 69 2640736 12 7
+/rule/ 67 53880 15 8
+/Pagina/sing-in.php 62 114327 4 5
+/aditii/admin/insertar.php 61 126104 1 2
+/Consulta/includes/phpAjaxUsers.inc.php 49 26516 1 3
+/wp-content/themes/alchem/css/scheme.less 46 263508 6 1
+/aditii/ 45 367637 13 1
+/rule/actions/validarUsuario.php 42 1075 0 3
+/rule/usuarios.php 40 143974 0 4
+/wp-content/themes/alchem/plugins/font-awesome/fonts/fontawesome-webfont.woff2 39 2320704 2 0
+/Proyecto/editarUsuario.php 37 56112 0 1
+/Pagina/admin.php 35 77407 1 2
+/aditii/js/flexslider/fonts/flexslider-icon.woff 34 17752 3 5
+/aditii/fonts/bebas_neue/BebasNeue.otf 33 1526580 1 3
+/Pagina/admin/addUsuarios.php 33 107589 0 0
+/Formulario/ 29 21992 8 8
+/Pagina/ 29 276684 9 2
+/Sesion 1 282 0 0
+/Formulario/users.php 1 282 0 0
+/wp-admin/users.php 1 46775 0 0
+/Pagina/js/flexslider/fonts/flexslider-icon.woff 26 16484 0 3
+/producto/all-in-one-hp-pavilion-27-a001la/ 4 107619 1 0
+/Tarea/bienvenido.html 1 311 0 0
+/2016/10/02/conoce-el-nuevo-htc-desire-10/ 1 38040 0 0
+/category/celulares/ 1 33188 0 0
+/950019.BIN_AUTOSSL_CHECK_PL__.T2Ws2F5e.cpaneldcv 1 64 0 1
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot 1 14280 0 0
+/404550.BIN_AUTOSSL_CHECK_PL__.g62z6H2T.cpaneldcv 1 64 1 0
+/dotscancun/actions/validarUsuario.php 23 69 0 0
+/1003478.BIN_AUTOSSL_CHECK_PL__.mQtJ1hrc.cpaneldcv 1 64 0 0
+/tarea 1 282 0 0
+/redes-sociales/ 1 29336 0 0
+/1003478.BIN_AUTOSSL_CHECK_PL__.jPWn4Uzy.cpaneldcv 1 64 0 0
+/2016/10/08/la-liga-de-la-justicia-lo-nuevo-de-warner-bros-y-dc/ 1 38541 0 0
+/contacto/ 12 249600 1 2
+/Proyecto/eliminarUsuario.php 14 23301 0 0
+/web/Consulta 1 282 0 0
+/Proyecto/actions/insertarUsuario.php 20 44 0 2
+/2016/ 1 40816 0 1
+/wp-content/plugins/magee-shortcodes/assets/font-awesome/fonts/fontawesome-webfont.woff2 1 64464 0 0
+/268838.BIN_AUTOSSL_CHECK_PL__.iWo1J4qf.cpaneldcv 1 64 0 0
+/venta/ 2 3342 0 2
+/aditii/index.php 1 8369 0 0
+/web/Index.php 1 282 0 0
+/2082 2 564 1 1
+/web/admin.php 5 5472 0 0
+/venta/main/font/fontawesome-webfont.woff 1 29380 1 0
+/Proyecto/destruir.php 1 554 0 0
+/wp-admin/load-styles.php 8 648184 0 1
+/Formulario/usuarios.php 1 282 0 0
+/aditii/admin/bienvenido.html 1 311 0 0
+/aditii/admin/signin.html 2 2324 0 0
+/Proyecto/actions/eliminaUsuario.php 3 6 0 1
+/Tarea/ 8 16950 0 1
+/Pagina/addproducts.php 1 282 0 0
+/dotscancun/usuarios.php 24 36030 0 1
+/Pagina/admin/ 2 3712 0 0
+/wp-admin/load-scripts.php 13 462603 0 1
+/Proyecto/usuarios.html 1 5438 0 1
+/Pagina/admin/CRUDprod/ 1 1669 0 0
+/wp-admin/profile.php 1 109632 0 1
+/tienda/ 6 169784 2 0
+/mi-cuenta/ 3 34648 0 0
+/Pagina/admin/CRUD/ 1 1661 0 1
+/950019.BIN_AUTOSSL_CHECK_PL__.cqnQRd5_.cpaneldcv 1 64 1 0
+/458268.BIN_AUTOSSL_CHECK_PL__.IbHDeEGS.cpaneldcv 1 64 0 0
+/venta/login.php 1 91 0 0
+/wp-admin/edit.php 3 126208 0 0
+/tarea/ 1 282 0 0
+/rule/actions/validaFormulario.php 1 282 0 0
+/signin/index.php 4 6656 0 0
+/Pagina/index.php 21 215145 5 6
+/aditii/admin/actualizar.php 1 75 0 0
+/producto/all-in-one-hp-22-b000la/ 3 98309 2 1
+/854491.BIN_AUTOSSL_CHECK_PL__.nK_vlTGa.cpaneldcv 1 64 0 0
+/aditii/admin/registro.php 11 2896 0 0
+/268838.BIN_AUTOSSL_CHECK_PL__.NZiGo8Lu.cpaneldcv 1 64 1 0
+/producto/all-in-one-hp-pavilion-23-q153la/ 15 408912 5 4
+/wp-content/themes/alchem/plugins/font-awesome/fonts/fontawesome-webfont.woff 2 162568 0 0
+/854491.BIN_AUTOSSL_CHECK_PL__.aGJoZebs.cpaneldcv 1 64 0 0
+/Tarea/cn.php 1 25 0 0
+/rule/editausu.php 1 554 0 0
+/Pagina/fonts/bebas_neue/BebasNeue.otf 20 1323036 1 0
+/consulta 1 282 0 0
+/proyecto 2 564 0 0
+/proyect 1 282 0 0
+/wp-admin/admin.php 5 315888 0 0
+/web/js/flexslider/fonts/flexslider-icon.ttf 1 1892 0 0
+/Rul%c3%a9/ 2 1838 2 1
+/Project/usuarios.php 5 23630 0 0
+/signin/ 11 18304 1 0
+/web/sign-in 1 282 0 0
+/404550.BIN_AUTOSSL_CHECK_PL__.AQ4g040x.cpaneldcv 1 64 0 0
+/Aditii 1 554 0 0
+/950019.BIN_AUTOSSL_CHECK_PL__.mJyUt9a5.cpaneldcv 1 64 0 0
+/producto/notebook-hp-probook-470-g4/ 2 41460 1 0
+/Proyecto/insertarusuario.php 1 554 0 0
+/web/index.php 2 17084 0 0
+/wp-admin/tools.php 1 44822 0 0
+/web/Validation.php 12 206 1 0
+/Pagina/index.php/admin 3 30735 0 1
+/Sesion/ 1 2281 0 0
+/rule/editarusuario.php 1 554 0 0
+/Pagina/validation.php 1 282 0 0
+/dotscancun/insertarUsuarios.php 6 5021 0 1
+/Project/ 27 23752 0 1
+/wp-content/themes/alchem/plugins/font-awesome/fonts/fontawesome-webfont.eot 3 206625 0 1
+/854491.BIN_AUTOSSL_CHECK_PL__.5AmIWxMp.cpaneldcv 1 64 0 0
+/web/sing-in.php 10 18515 0 0
+/wp-admin/update-core.php 6 267444 0 1
+/dotscancun/ 25 14926 13 8
+/producto/lenovo-p310-formato-compacto/ 4 86545 2 0
+/Tarea/signin.html 9 9296 1 4
+/458268.BIN_AUTOSSL_CHECK_PL__.qHR8vCEX.cpaneldcv 1 64 1 0
+/carro/ 9 556137 0 1
+/1003478.BIN_AUTOSSL_CHECK_PL__.0BK5o0CV.cpaneldcv 1 64 1 0
+/cpanel 1 8936 1 0
+/Tarea/Index.html 18 7633 7 3
+/Pagina/admin/addProductos.php 21 80701 0 0
+/rule/insertarUsuarios.php 2 2968 0 0
+/aditii:2082 1 282 0 0
+/aditii/admin/ 24 90022 1 1
+/web/js/flexslider/fonts/flexslider-icon.woff 14 16484 0 5
+/Tarea/signin.php 1 282 0 0
+/dotscancun/actions/insertarUsuario.php 4 209 0 0
+/signin/validacion.php 12 1849 0 2
+/Proyect/ 9 4277 1 2
+/wp-admin/plugins.php 1 66700 0 0
+/wp-admin/themes.php 4 146756 0 0
+/Pagina/Sesion.php 1 282 0 0
+/Consulta/eliminar.php 2 564 0 0
+/dotscancun/editarUsuario.php 7 10585 0 1
+/aditii/admin/Index.html 6 5204 0 0
+/wp-admin/update.php 2 28634 0 1
+/dotscancun/actions/usuarios.php 1 554 0 0
+/940003.BIN_AUTOSSL_CHECK_PL__.PQo0V9xo.cpaneldcv 1 64 0 0
+/finalizar-comprar/ 2 98757 0 1
+/producto/equipo-convertible-hp-x360-310-g2/ 2 50723 1 0
+/wp-content/plugins/magee-shortcodes/assets/font-awesome/fonts/fontawesome-webfont.eot 2 137750 0 0
+/categoria-producto/todo-en-uno/ 6 130083 0 0
+/268838.BIN_AUTOSSL_CHECK_PL__.bRiGuUoi.cpaneldcv 1 64 0 1
+/Pagina/Validation.php 1 4 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 6 70880 0 0
+/940003.BIN_AUTOSSL_CHECK_PL__.BpREWSdg.cpaneldcv 1 64 1 0
+/wp-login.php 4 11237 0 1
+/moises/ 7 5680 1 3
+/Iniciar-Sesion.php 1 282 0 0
+/web/fonts/bebas_neue/BebasNeue.otf 13 1221264 0 2
+/Proyecto/insertarUsuarios.php 17 13141 0 1
+/wp-admin/ 3 177027 0 0
+/Pagina/admin/CRUDuser/UpdateUser.php 12 60 0 0
+/458268.BIN_AUTOSSL_CHECK_PL__.cqNsv4d3.cpaneldcv 1 64 0 0
+/404550.BIN_AUTOSSL_CHECK_PL__.u_IV18io.cpaneldcv 1 64 0 0
+/aditii/admin/signin 1 282 0 0
+/940003.BIN_AUTOSSL_CHECK_PL__.vgvC84cZ.cpaneldcv 1 64 0 1
+/Proyecto/usuaios.html 1 554 0 0
+/rule/editarUsuario.php 8 17678 0 0
+/aditii/admin/Index.php 8 8748 0 0
+/Project/actions/validarUsuario.php 11 33 0 0
+/formulario 1 282 0 0
+/wp-admin/edit-comments.php 1 55096 0 0
+END_SIDER

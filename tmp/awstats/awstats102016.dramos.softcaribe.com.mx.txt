@@ -1,0 +1,397 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201610 will be lost/reset.
+# Last config file used to build this data file was /home/softcari/tmp/awstats/awstats.dramos.softcaribe.com.mx.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2695                
+POS_VISITOR 7288                
+POS_DAY 8890                
+POS_DOMAIN 3403                
+POS_LOGIN 3733                
+POS_ROBOT 3888                
+POS_WORMS 4162                
+POS_EMAILSENDER 4293                
+POS_EMAILRECEIVER 4436                
+POS_SESSION 9411                
+POS_SIDER 9618                
+POS_FILETYPES 4571                
+POS_DOWNLOADS 4834                
+POS_OS 4882                
+POS_BROWSER 5082                
+POS_SCREENSIZE 5572                
+POS_UNKNOWNREFERER 5646                
+POS_UNKNOWNREFERERBROWSER 5927                
+POS_ORIGIN 6112                
+POS_SEREFERRALS 6250                
+POS_PAGEREFS 6394                
+POS_SEARCHWORDS 6597                
+POS_KEYWORDS 6749                
+POS_MISC 2357                
+POS_ERRORS 6808                
+POS_CLUSTER 3589                
+POS_SIDER_404 6961                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161102222304 1 0 11540429189013
+FirstTime 20161001140720
+LastTime 20161030233853
+LastUpdate 20161103063513 1 0 0 0 0
+TotalVisits 96                  
+TotalUnique 38                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 38                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 452 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 1 224142
+1 1 1 0 1 1 28278
+2 3 3 20460 1 1 0
+3 2 2 18690 0 0 0
+4 3 3 20460 1 1 0
+5 0 0 0 0 0 0
+6 0 0 0 0 1 224142
+7 0 0 0 0 0 0
+8 2 2 0 2 2 37955
+9 3 3 30682 1 1 0
+10 0 0 0 0 1 224142
+11 4 5 42424 3 6 466589
+12 18 60 2891141 4 13 276319
+13 222 481 13458317 15 85 1003624
+14 89 137 3260266 7 14 672963
+15 141 251 6094742 8 37 1125458
+16 131 235 3044465 9 36 0
+17 278 574 18398777 30 128 524042
+18 144 385 6870672 14 125 3840296
+19 281 586 15794789 38 189 1048261
+20 236 457 15430286 21 130 2711619
+21 30 111 7062414 3 7 498726
+22 22 323 11176441 0 15 0
+23 2 2 0 2 2 39376
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+mx 1501 3507 103091293
+us 99 102 271999
+cn 6 6 111106
+nl 2 2 46968
+jp 1 1 20834
+tr 1 1 23714
+ru 1 1 28278
+tw 1 1 20834
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+php 76 9197071 20161030233845 0
+googlebot 10 122392 20161012135007 2
+no_user_agent 4 88397 20161026083235 0
+netcraft 1 28278 20161016015140 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+php 1352 46419158 0 0
+jpg 931 27620563 0 0
+woff 9 113408 0 0
+png 107 6641383 0 0
+html 231 5511610 0 0
+gif 31 138411 0 0
+woff2 20 1065984 0 0
+css 328 5649226 0 0
+svg 12 15763 0 0
+js 600 10439520 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+macosx 264 14
+winxp 11 11
+Unknown 77 74
+linuxandroid 57 6
+winnt 240 89
+win7 2918 1391
+ios_iphone 30 3
+linux 18 18
+win8 4 4
+win8.1 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 23
+firefox17.0 1 1
+msie6.0 8 8
+msie11.0 1 1
+firefox31.0 2 2
+msie8.0 1 1
+chrome49.0.2623.75 15 15
+firefox34.0 1 1
+iphone 30 3
+firefox3.5.6 1 1
+chrome53.0.2785.124 30 3
+chrome39.0.2171.95 1 1
+chrome53.0.2785.116 263 13
+firefox4.0 1 1
+Unknown 73 70
+chrome39.0.2171.93 27 3
+netscape5.0 4 4
+chrome50.0.2661.102 767 345
+chrome50.0.2661.94 291 163
+opera9.00 1 1
+firefox47.0 136 77
+opera12.17 4 4
+chrome53.0.2785.143 1933 891
+chrome51.0.2704.79 30 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+facebookexternalhit/1.1 20161001184302
+WordPress/4.6.1;_http://dramos.softcaribe.com.mx 20161030233853
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20161012134901
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.6.1;_http://dramos.softcaribe.com.mx 20161030233853
+facebookexternalhit/1.1 20161001184302
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 62 62
+From1 0 0
+From2 0 0
+From3 8 8
+From4 1542 3551
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://www.facebook.com 6 6
+http://m.facebook.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 117 82847
+503 1 288
+206 112 3208002
+500 7 194003
+301 15 3237
+404 1 21417
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/hola%20mundo 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 38
+187.179.163.34 903 1831 43330359 20161001202909
+187.189.49.240 536 1134 33733465 20161013110501
+67.225.221.33 67 70 0 20161030233853
+177.237.158.175 28 88 3803409 20161009224711
+189.150.10.149 13 263 8371449 20161012221939
+189.203.0.53 5 33 2299100 20161012134021
+201.160.138.105 4 41 2461909 20161012225045
+23.92.119.166 4 4 40920 20161006024336
+70.39.246.37 4 4 34423 20161012134901
+66.249.88.16 3 3 22576 20161028164154
+66.249.80.28 3 3 6780 20161028183334
+189.232.20.54 3 27 2099610 20161001184312
+189.149.42.128 3 30 2330664 20161012215923
+200.68.137.177 3 30 2330664 20161012211300
+200.68.136.193 3 30 2330664 20161012211233
+66.249.88.10 3 3 6780 20161024180802
+104.160.5.95 2 2 20460 20161008045004
+66.249.88.13 2 2 4520 20161014174643
+66.249.80.30 2 2 4520 20161024173645
+107.170.107.176 2 2 41770 20161012132712
+192.40.93.23 2 2 30682 20161015094924
+106.110.80.57 1 1 18056 20161001203012
+124.207.216.2 1 1 18048 20161001200059
+173.252.115.12 1 1 18016 20161001184302
+173.252.115.38 1 1 18016 20161001184302
+94.228.142.29 1 1 18690 20161013035824
+69.171.228.119 1 1 18016 20161001184302
+78.85.234.135 1 1 28278 20161017174351
+66.249.80.26 1 1 2260 20161028183333
+61.134.120.147 1 1 20834 20161011174502
+122.90.136.169 1 1 18056 20161010150128
+66.102.7.134 1 1 2260 20161018175556
+182.246.110.245 1 1 18056 20161001203754
+78.186.143.204 1 1 23714 20161012134058
+150.70.173.57 1 1 20834 20161011174925
+139.196.177.211 1 1 18056 20161001204626
+175.182.229.38 1 1 20834 20161011174727
+94.228.142.54 1 1 28278 20161012154338
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20161001 928 1880 45575966 16
+20161004 89 166 7544429 3
+20161005 9 52 1174783 3
+20161006 4 4 20460 3
+20161008 28 74 3480786 4
+20161009 6 20 343083 3
+20161010 64 135 2039726 9
+20161011 105 200 6276453 10
+20161012 345 1055 37016666 15
+20161013 7 8 63374 6
+20161014 2 2 2260 2
+20161015 3 3 30682 2
+20161016 1 1 0 1
+20161017 4 4 30538 4
+20161018 2 2 2260 2
+20161020 2 2 2260 2
+20161023 1 1 0 1
+20161024 4 4 4520 3
+20161026 2 2 0 1
+20161028 5 5 6780 5
+20161030 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 4
+30mn-1h 4
+0s-30s 72
+2mn-5mn 1
+30s-2mn 3
+1h+ 11
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 45
+/wp-admin/admin-ajax.php 821 1961655 0 2
+/ 107 1898361 33 24
+/wp-admin/post.php 97 15208277 0 0
+/wp-admin/load-scripts.php 77 6130006 0 0
+/wp-cron.php 67 0 38 38
+/wp-admin/edit.php 60 7067816 0 0
+/wp-login.php 49 125218 20 21
+/tienda/ 37 967029 2 3
+/wp-admin/load-styles.php 36 2633898 0 2
+/wp-admin/async-upload.php 36 59576 0 0
+/wp-admin/post-new.php 31 4951240 0 0
+/wp-admin/admin.php 24 2470561 0 0
+/wp-content/themes/sydney/fonts/fontawesome-webfont.woff2 20 1065984 0 0
+/ubicacion/ 17 367844 0 0
+/wp-admin/ 14 715730 0 0
+/contacto/ 12 271532 0 1
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 9 113408 0 1
+/2016/09/17/hola-mundo/ 9 226943 0 0
+/wp-admin/admin-post.php 8 0 0 0
+/wp-admin/customize.php 7 2324208 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 7 1192779 0 0
+/wp-admin/profile.php 7 798808 0 0
+/carrito/ 6 351548 0 1
+/wp-admin/plugins.php 5 254350 0 0
+/wp-admin/edit-tags.php 5 492855 0 0
+/wp-admin/upload.php 1 83577 0 0
+/category/sin-categoria/ 1 25278 0 0
+/wp-admin/plugin-install.php 4 153963 0 0
+/mi-cuenta/ 3 67134 0 0
+/2016/09/25/zara-lanza-su-nueva-coleccion-de-moda-sostenible/ 1 23369 0 0
+/wp-admin/term.php 1 100298 0 0
+/2016/09/17/lo-mejor-solo-para-ti/ 4 117923 0 0
+/wp-admin/media-new.php 1 32161 0 0
+/wp-admin/index.php 4 206632 0 0
+/2016/10/11/oferta/ 3 85033 0 0
+/producto/camiseta-texto-bordado/ 1 37299 0 0
+/feed/ 4 34423 3 3
+/tienda/page/2/ 1 29313 0 0
+/wp-admin/themes.php 3 138071 0 0
+/tienda/page/3/ 1 20385 0 0
+/2016/09/22/rita-ora-desfila-en-exclusiva-para-mostrar-su-nueva-coleccion-de-lenceria/ 4 131665 0 0
+/2016/10/05/buscas-look-de-invitada-perfecta-de-otono-invierno-2016/ 2 52464 0 0
+/mi-cuenta/lost-password/ 3 58540 0 0
+/producto/vestido-midi-manga-34/ 1 29797 0 0
+/wp-admin/update-core.php 1 33209 0 0
+END_SIDER

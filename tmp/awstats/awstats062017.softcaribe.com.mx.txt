@@ -1,0 +1,583 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201706 will be lost/reset.
+# Last config file used to build this data file was /home/softcari/tmp/awstats/awstats.softcaribe.com.mx.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2695                
+POS_VISITOR 15913               
+POS_DAY 19364               
+POS_DOMAIN 3514                
+POS_LOGIN 3845                
+POS_ROBOT 4000                
+POS_WORMS 4427                
+POS_EMAILSENDER 4558                
+POS_EMAILRECEIVER 4701                
+POS_SESSION 19860               
+POS_SIDER 20068               
+POS_FILETYPES 4836                
+POS_DOWNLOADS 5172                
+POS_OS 5311                
+POS_BROWSER 5552                
+POS_SCREENSIZE 6168                
+POS_UNKNOWNREFERER 6242                
+POS_UNKNOWNREFERERBROWSER 6659                
+POS_ORIGIN 7017                
+POS_SEREFERRALS 7158                
+POS_PAGEREFS 7324                
+POS_SEARCHWORDS 7499                
+POS_KEYWORDS 7651                
+POS_MISC 2359                
+POS_ERRORS 7710                
+POS_CLUSTER 3701                
+POS_SIDER_404 7859                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170618061433 241 54071 9934010398052
+FirstTime 20170601024035
+LastTime 20170617233949
+LastUpdate 20170618072544 241 0 241 0 0
+TotalVisits 169                 
+TotalUnique 64                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 93                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 1 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 75 7817147 5 51 1609954
+1 15 187 6454027 4 36 732117
+2 4 4 0 11 29 587238
+3 2 2 0 37 48 397490
+4 3 3 0 8 23 309990
+5 1 1 0 3 9 154498
+6 2 35 3861438 4 60 407042
+7 4 34 3006416 9 30 1258275
+8 5 5 0 8 80 3764678
+9 34 179 13928668 13 103 3399155
+10 54 272 15057694 9 58 1063835
+11 27 168 6404203 10 54 1692239
+12 7 65 2570712 7 33 1056570
+13 25 189 12623386 19 51 1061496
+14 51 512 22608540 24 47 554547
+15 26 227 13222260 11 85 635285
+16 40 465 31119978 9 33 627866
+17 18 227 16838454 3 63 806373
+18 26 263 23152865 8 35 1836292
+19 63 614 37567294 17 57 2076556
+20 74 734 46485034 17 166 12505681
+21 8 77 3646962 13 42 1429524
+22 13 113 8173725 14 49 1490832
+23 16 149 15751343 2 51 267892
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+mx 420 4151 257221417
+us 101 440 32605392
+de 4 4 80835
+it 1 1 22226
+jp 1 1 36383
+es 0 1 46548
+co 0 1 18639
+bo 0 1 55436
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+php 239 22908647 20170617225205 0
+googlebot 238 8004507 20170618061433 7
+bot[\s_+:,\.\;\/\\-] 79 2732628 20170617130218 6
+spider 37 1293164 20170617035351 0
+googlebot\-image 23 639313 20170618060036 0
+slurp 7 0 20170617140810 0
+bingpreview 1 6274 20170602101250 0
+robot 1 22226 20170617130324 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+Unknown 6 203496 0 0
+jpg 1096 95088239 0 0
+less 14 87836 0 0
+css 740 23876583 0 0
+woff 8 561696 0 0
+php 168 1893288 0 0
+pdf 6 1421421 0 0
+png 1281 132475326 0 0
+svg 4 14533 0 0
+html 237 6096121 0 0
+eot 1 76518 0 0
+woff2 93 5310448 0 0
+js 943 22964439 0 0
+gif 3 16932 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/pdf/Aviso_de_Privacidad.pdf 6 2 1400054
+/pdf/Terminos_y_Condiciones_de_Uso.pdf 3 0 662493
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+win8 1 0
+linuxfedora 1 1
+winnt 1447 120
+linuxandroid 575 40
+win8.1 190 18
+winxp 4 3
+ios_iphone 126 8
+macosx 515 49
+linux 6 6
+java 2 2
+win7 1592 203
+winlong 1 1
+Unknown 142 76
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 30
+chrome50.0.2661.94 246 18
+firefox48.0 138 6
+Unknown 73 73
+chrome55.0.2883.87 98 13
+firefox3.6.3 1 1
+safari8.0.2 36 3
+safari10.0 126 8
+firefox33.0 1 1
+chrome51.0.2704.106 1 1
+netscape5.0 1 1
+firefox11.0 1 0
+msie10.0 1 1
+opera45.0.2552.898 39 5
+firefox1.0.1 1 1
+safari8.0 1 1
+chrome59.0.3071.104 27 3
+chrome47.0.2526.111 1 1
+msie7.0 1 0
+msie8.0 2 2
+chrome58.0.3029.83 540 38
+android 35 2
+opera45.0.2552.888 436 29
+chrome49.0.2623.75 5 5
+msie11.0 35 2
+safari10.1.1 79 6
+safari9.1 37 4
+firefox53.0 890 73
+firefox3.0.10 1 1
+chrome58.0.3029.110 1698 225
+firefox35.0 51 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+WordPress.com;_http://softcaribe.com.mx 20170613234108
+WordPress/4.8;_http://softcaribe.com.mx 20170608155925
+WordPress/4.6.6;_http://softcaribe.com.mx 20170608100116
+Mozilla/5.0_(Android_5.0.2;_Mobile;_rv:53.0)_Gecko/53.0_Firefox/53.0 20170609221557
+WhatsApp/2.17.190_A 20170608171631
+MetaURI_API/2.0__metauri.com 20170617130236
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+WordPress.com;_http://softcaribe.com.mx 20170613234108
+WordPress/4.6.6;_http://softcaribe.com.mx 20170608100116
+WordPress/4.8;_http://softcaribe.com.mx 20170608155925
+Java/1.8.0_121 20170617130233
+WhatsApp/2.17.190_A 20170608171631
+MetaURI_API/2.0__metauri.com 20170617130236
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 150 157
+From1 0 0
+From2 21 28
+From3 1 1
+From4 355 4416
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+live 2 2
+google 19 26
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+404 502 144677
+206 57 3703810
+301 4 238
+302 4 0
+504 2 77046
+500 8 192895
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 119
+/wp-content/themes/alchem/plugins/less.min.js 1 -
+/wp-content/themes/alchem/plugins/bootstrap/css/bootstrap.css 14 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/uploads/2016/10/Lenovo-P310-Formato-Compacto-1.jpg 1 https://www.google.com.mx/
+/wp-content/plugins/magee-shortcodes/assets/css/shortcode.css 5 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/uploads/2016/10/HP-All-in-One-3.jpg 1 https://www.google.com.mx/
+/wp-content/plugins/magee-shortcodes/assets/js/chart.min.js 4 http://softcaribe.com.mx/tienda/
+/Final/images/hotcake.png 2 -
+/wp-content/uploads/2016/10/All-in-One-300x300.png 1 -
+/2016/10/02/conoce-el-nuevo-htc-desire-10/ 1 -
+/2016/10/08/lo-nuevo-de-marvel-doctor-strange/ 5 -
+/wp-content/uploads/2016/10/hp-1-300x300.jpg 1 -
+/wp-content/uploads/2016/10/All-in-One-HP-Pavilion-27-a001la-1.jpg 2 https://www.google.com.mx/
+/wp-content/themes/alchem/css/woo.css 13 http://softcaribe.com.mx/categoria-producto/laptops/
+/producto/notebook-hp-probook-455-g4/feed/ 1 -
+/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css 5 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/uploads/2016/10/Equipo-convertible-HP-x360-310-G2-247x300.png 1 https://www.google.com.mx/
+/vendor/bootstrap/css/bootstrap.min.css.map 15 -
+/wp-cron.php 2 http://softcaribe.com.mx/wp-cron.php
+/carro/ 3 -
+/wp-content/uploads/2016/10/Compaq-247x300.png 1 -
+/wp-content/uploads/2016/10/hp1-300x266.jpg 1 -
+/wp-content/plugins/magee-shortcodes/assets/css/animate.css 13 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/themes/alchem/plugins/YTPlayer/css/jquery.mb.YTPlayer.min.css 13 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/plugins/magee-shortcodes/assets/jquery-easy-pie-chart/jquery.easypiechart.min.js 4 http://softcaribe.com.mx/tienda/
+/wp-content/themes/alchem/css/custom.css 13 http://softcaribe.com.mx/categoria-producto/laptops/
+/2016/10/06/conoce-el-trailer-de-gears-of-war-4-que-xbox-trae-para-ti/ 1 -
+/wp-content/themes/alchem/plugins/font-awesome/css/font-awesome.min.css 5 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-includes/wlwmanifest.xml 1 -
+/categoria-producto/laptops/ 1 -
+/wp-content/themes/alchem/css/shortcode.css 6 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/uploads/2016/10/PC-de-Torre-Slim-HP-280-G1-3-247x300.png 1 -
+/wp-content/plugins/magee-shortcodes/assets/css/audioplayer.css 13 http://softcaribe.com.mx/categoria-producto/laptops/
+/finalizar-comprar/ 1 -
+/home.html 5 -
+/2016/10/06/ 1 -
+/category/celulares/ 1 -
+/2016/10/06/escorpion-vs-zub-zero-en-mortal-kombat-x/ 4 -
+/wp-content/uploads/2016/10/HP-300x281.jpg 1 -
+/2016/10/04/alienware-13-king-of-the-streets/ 1 -
+/wp-content/uploads/2016/10/Lenovo-2-300x300.jpg 1 -
+/producto/thinkcentre-m700z/ 2 -
+/2016/10/02/conoce-lo-nuevo-que-trae-apple-para-ti/ 1 -
+/wp-content/themes/alchem/style.css 13 http://softcaribe.com.mx/categoria-producto/laptops/
+/2016/10/04/nueva-mackbook-pro-2016/ 1 -
+/wp-content/uploads/2016/10/HP-247x300.png 1 https://www.google.com.mx/
+/wp-content/uploads/2016/10/cropped-sentry-bot-192x192.png 1 -
+/wp-content/uploads/2016/10/cropped-sentry-bot-32x32.png 1 -
+/2016/09/22/inicio/feed/ 2 -
+/wp-content/themes/alchem/js/jquery.waypoints.js 1 -
+/wp-includes/js/jquery/jquery.js 1 -
+/category/videojuegos/ 1 -
+/category/accesorios/feed/ 2 -
+/en-US/index.html 1 -
+/wp-content/plugins/contact-form-7/includes/css/styles.css 5 http://softcaribe.com.mx/categoria-producto/laptops/
+/contacto/ 2 -
+/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css 4 http://softcaribe.com.mx/producto/wyse-all-in-one-thin-client-serie-5000/
+/tienda/page/1/ 1 -
+/wp-content/uploads/2016/10/Latitude-3470-1-e1476304493930-247x227.jpg 1 https://www.google.co.jp/
+/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css 6 -
+/wp-content/themes/alchem/css/prettyPhoto.css 14 http://softcaribe.com.mx/categoria-producto/laptops/
+/producto/all-in-one-hp-pavilion-27-a001la/ 3 -
+/Pagina/images/slide.jpg 2 -
+/2016/09/17/60/feed/ 2 -
+/wp-content/plugins/magee-shortcodes/assets/css/twentytwenty.css 12 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/plugins/woocommerce/assets/css/woocommerce.css 4 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-admin/admin-ajax.php 3 -
+/wp-content/uploads/2016/10/All-in-One.png 1 -
+/wp-content/uploads/2016/10/All-in-One-HP-22-b000la-1-300x300.png 1 -
+/index.php 1 -
+/2016/10/04/ 1 -
+/wp-content/plugins/magee-shortcodes/assets/js/jquery.prettyPhoto.js 5 -
+/robots.txt 40 -
+/wp-content/uploads/2016/10/desktop-optiplex-3040-1-247x300.jpg 1 -
+/feed/ 12 -
+/wp-content/plugins/magee-shortcodes/assets/jquery-countdown/jquery.classycountdown.css 5 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/plugins/magee-shortcodes/assets/weathericons/css/weather-icons.min.css 13 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/plugins/magee-shortcodes/assets/js/moment.js 4 http://softcaribe.com.mx/tienda/
+/producto/all-in-one-hp-pavilion-23-q153la/ 6 -
+/wp-content/themes/alchem/plugins/animate.css 13 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/uploads/2016/10/PC-HP-280-G2-Microtorre-1-247x300.png 1 -
+/wp-content/uploads/2016/10/Wyse-All-In-One-thin-client-serie-5000-247x300.jpg 1 -
+/wp-content/plugins/magee-shortcodes/assets/js/jquery.twentytwenty.js 4 http://softcaribe.com.mx/categoria-producto/laptops/
+/2016/10/ 2 -
+/category/peliculas/ 1 -
+/producto/all-in-one-hp-22-b000la/ 4 -
+/categoria-producto/todo-en-uno/ 8 -
+/ 4 https://www.google.com.mx/
+/wp-content/uploads/2016/10/PC-HP-280-G2-Microtorre-247x300.png 1 https://www.google.com.co/
+/author/angel07/feed/ 2 -
+/2016/10/02/ 1 -
+/wp-content/uploads/2016/10/Lenovo-2-1-300x300.jpg 1 -
+/wp-content/plugins/magee-shortcodes/assets/js/jquery.waypoints.js 4 http://softcaribe.com.mx/tienda/
+/wp-content/themes/alchem/plugins/owl-carousel/assets/owl.carousel.css 5 http://softcaribe.com.mx/categoria-producto/laptops/
+/redes-sociales/ 3 -
+/tienda/page/3/ 1 -
+/wp-content/plugins/magee-shortcodes/assets/jquery-countdown/jquery.countdown.min.js 4 http://softcaribe.com.mx/tienda/
+/wp-content/plugins/magee-shortcodes/assets/font-awesome/css/font-awesome.css 5 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/plugins/magee-shortcodes/assets/jquery-countdown/jquery.classycountdown.min.js 1 -
+/wp-content/plugins/magee-shortcodes/assets/js/audioplayer.js 3 http://softcaribe.com.mx/categoria-producto/laptops/
+/category/computadoras/feed/ 2 -
+/tienda/ 3 https://www.google.com.mx/
+/wp-content/plugins/magee-shortcodes/assets/js/jquery.event.move.js 5 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/plugins/magee-shortcodes/assets/css/prettyPhoto.css 13 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/uploads/2016/10/sentry-bot.png 32 -
+/producto/pc-de-torre-slim-hp-280-g1/ 2 -
+/wp-content/plugins/siteorigin-panels/css/front.css 5 http://softcaribe.com.mx/producto/wyse-all-in-one-thin-client-serie-5000/
+/wp-content/plugins/magee-shortcodes/assets/bootstrap/js/bootstrap.min.js 6 http://softcaribe.com.mx/categoria-producto/laptops/
+/wp-content/uploads/2016/10/Lenovo-1-300x300.jpg 1 -
+/categoria-producto/ordenadores/ 3 -
+/2016/10/08/ 1 -
+/2016/10/08/la-liga-de-la-justicia-lo-nuevo-de-warner-bros-y-dc/ 3 -
+/home 1 -
+/categoria-producto/accesorios/ 1 -
+/producto/notebook-hp-probook-470-g4/ 2 -
+/wp-content/plugins/magee-shortcodes/assets/bootstrap/css/bootstrap.min.css 5 http://softcaribe.com.mx/categoria-producto/laptops/
+/2016/09/17/60/ 1 -
+/wp-content/uploads/2016/10/HP-All-in-One-4.jpg 1 -
+/producto/dell-vostro-3458/ 2 -
+/2016/10/08/la-liga-de-la-justicia-lo-nuevo-de-warner-bros-y-dc/feed/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 93
+187.189.49.61 99 1076 72801593 20170616185413
+187.217.125.34 79 304 18701277 20170615171532
+67.225.221.33 67 67 1 20170608155925
+201.155.206.24 29 320 10065937 20170608145324
+187.153.27.99 29 323 19241520 20170613150547
+201.160.128.169 29 436 14496726 20170614141207
+189.221.40.113 15 187 14139951 20170610184212
+187.150.218.209 14 236 19042520 20170615111633
+189.221.45.3 13 98 6846102 20170617203316
+187.189.49.145 13 103 10407631 20170615181632
+177.229.209.59 13 106 3084818 20170607191407
+200.79.231.162 7 81 2498707 20170606114615
+200.68.137.207 6 80 2506505 20170601191940
+189.149.82.166 6 79 2490276 20170604103138
+189.149.46.166 6 72 7795529 20170609224539
+66.102.6.31 5 41 2824621 20170615191246
+187.136.117.81 5 90 2636041 20170607173622
+201.160.140.182 5 39 4119540 20170615171328
+187.190.29.80 4 4 32698 20170606132127
+189.149.188.105 4 37 3934091 20170609233325
+189.149.50.249 4 28 2525192 20170616095222
+66.102.6.144 4 58 6076016 20170609200620
+187.189.49.240 4 28 2525192 20170616193023
+187.136.250.191 4 4 135664 20170617234402
+187.153.59.154 4 28 2546725 20170617160112
+200.68.137.172 2 35 3861438 20170609221556
+144.76.23.79 1 1 36383 20170614195506
+200.68.137.177 2 26 2478893 20170617124727
+144.76.23.141 1 1 22226 20170617130236
+200.76.83.219 0 2 50234 
+200.76.83.209 0 2 65234 
+50.112.194.65 1 1 22226 20170617130315
+23.96.208.137 1 1 36383 20170614195546
+187.189.49.121 2 35 0 20170615122807
+200.76.91.208 0 9 1180909 
+66.249.88.23 3 20 1026281 20170609064819
+187.189.49.114 2 37 4189377 20170608163606
+200.76.91.61 0 3 163330 
+187.153.60.14 2 35 3879254 20170608160830
+54.245.23.174 1 1 58570 20170605002342
+200.76.91.107 0 2 168280 
+200.76.91.10 0 2 344657 
+200.76.83.189 1 6 438406 20170608200226
+66.249.88.27 1 27 2744475 20170609064820
+200.76.83.253 0 1 165358 
+66.102.6.143 2 46 4278727 20170609183717
+189.163.4.54 0 1 46548 
+93.156.104.230 0 1 46548 
+189.203.218.210 2 34 0 20170608185326
+66.102.6.145 2 36 5089729 20170609002814
+200.76.83.150 1 3 133103 20170608200221
+34.239.254.135 1 1 36383 20170614195458
+200.76.91.19 0 1 187564 
+201.123.32.95 0 1 28576 
+200.68.137.173 1 13 1973679 20170608185936
+52.4.182.208 1 1 22226 20170617130239
+52.71.155.178 1 1 36383 20170614195458
+200.76.91.89 0 4 180298 
+200.76.83.141 0 1 121200 
+200.76.83.200 0 1 342612 
+200.76.91.189 0 1 93325 
+190.11.77.215 0 1 55436 
+200.76.91.101 0 2 187907 
+200.76.83.223 0 1 112060 
+66.102.6.3 0 56 2320665 
+189.149.6.59 2 35 3860738 20170608161133
+66.102.7.235 2 3 103638 20170613150526
+200.76.91.155 0 1 262195 
+200.76.91.202 0 1 120066 
+200.76.83.244 0 8 551354 
+150.70.173.10 1 1 36383 20170614195646
+200.68.137.197 1 1 35856 20170608171631
+34.204.112.113 1 1 8877 20170617130233
+200.76.91.179 1 1 71896 20170609075702
+200.68.136.202 3 36 3897850 20170614194303
+66.102.7.156 1 1 36383 20170614230105
+201.160.143.81 2 36 3923609 20170610233925
+192.0.91.147 1 1 0 20170613234108
+186.83.19.151 0 1 18639 
+66.102.7.233 1 1 22226 20170617192724
+200.76.91.140 0 1 1689 
+200.76.83.188 0 4 935342 
+66.102.6.29 2 50 3801540 20170615191244
+86.105.55.126 1 1 22226 20170617130248
+200.76.83.218 0 4 404519 
+40.78.146.128 1 1 35796 20170608161137
+136.243.154.93 2 2 22226 20170617130236
+200.68.137.211 4 4 90090 20170615201344
+200.76.91.236 0 2 7255 
+66.249.88.25 1 24 3987863 20170615121512
+54.77.239.36 1 1 36383 20170614195459
+200.76.91.115 0 1 37045 
+187.140.206.10 0 1 55436 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20170601 13 88 2535081 8
+20170602 7 7 0 7
+20170603 5 5 0 5
+20170604 16 90 2545712 11
+20170605 25 118 3090938 13
+20170606 22 181 5203087 10
+20170607 27 208 5853786 11
+20170608 219 1895 109552801 26
+20170609 44 639 57629925 19
+20170610 14 147 11765647 4
+20170611 2 35 3861438 1
+20170612 17 185 16247158 6
+20170613 15 204 7567142 7
+20170614 19 151 11948273 11
+20170615 40 413 34355306 14
+20170616 14 110 10045705 3
+20170617 28 124 8088147 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 8
+30mn-1h 3
+2mn-5mn 6
+1h+ 3
+30s-2mn 15
+0s-30s 129
+15mn-30mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 34
+/ 174 4977805 93 41
+/vendor/font-awesome/fonts/fontawesome-webfont.woff2 82 4601344 8 39
+/wp-cron.php 66 0 61 61
+/wp-admin/admin-ajax.php 62 10569 0 7
+/home.html 28 55418 0 0
+/en-US/ 16 545115 1 9
+/wp-content/themes/alchem/css/scheme.less 14 87836 0 0
+/wp-content/themes/alchem/plugins/font-awesome/fonts/fontawesome-webfont.woff2 11 709104 0 1
+/wp-admin/load-scripts.php 9 708785 0 0
+/mail/contact_me.php 9 0 0 0
+/cpanel 6 203496 1 2
+/en-US/index.php 5 120365 0 2
+/vendor/font-awesome/fonts/fontawesome-webfont.woff 5 452060 0 1
+/wp-admin/load-styles.php 5 691338 0 1
+/producto/all-in-one-hp-pavilion-23-q153la/ 4 51476 2 0
+/contacto/ 3 92698 0 1
+/categoria-producto/todo-en-uno/ 3 75869 0 1
+/wp-admin/update-core.php 3 146939 0 0
+/login.php 2 2422 0 0
+/tienda/ 2 41066 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 2 28352 0 0
+/wp-admin/edit-comments.php 2 135842 0 0
+/producto/all-in-one-hp-22-b000la/ 2 53556 1 0
+/producto/pc-hp-prodesk-400-g3-microtorre/ 2 50645 1 0
+/signup.php 1 1144 0 0
+/carro/ 1 70530 0 0
+/wp-content/themes/alchem/plugins/font-awesome/fonts/fontawesome-webfont.woff 1 81284 0 0
+/index.php 1 22226 0 1
+/wp-login.php 1 3278 0 0
+/wp-admin/about.php 1 50379 0 0
+/vendor/font-awesome/fonts/fontawesome-webfont.eot 1 76518 0 1
+/wp-admin/ 1 71804 1 0
+/shop/ 1 10139 0 1
+/wp-admin/upgrade.php 1 1 0 0
+END_SIDER

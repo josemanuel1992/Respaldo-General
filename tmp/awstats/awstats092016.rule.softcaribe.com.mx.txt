@@ -1,0 +1,296 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201609 will be lost/reset.
+# Last config file used to build this data file was /home/softcari/tmp/awstats/awstats.rule.softcaribe.com.mx.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2692                
+POS_VISITOR 6243                
+POS_DAY 6493                
+POS_DOMAIN 3230                
+POS_LOGIN 3477                
+POS_ROBOT 3632                
+POS_WORMS 3764                
+POS_EMAILSENDER 3895                
+POS_EMAILRECEIVER 4038                
+POS_SESSION 6632                
+POS_SIDER 6807                
+POS_FILETYPES 4173                
+POS_DOWNLOADS 4426                
+POS_OS 4474                
+POS_BROWSER 4599                
+POS_SCREENSIZE 4744                
+POS_UNKNOWNREFERER 4818                
+POS_UNKNOWNREFERERBROWSER 4998                
+POS_ORIGIN 5173                
+POS_SEREFERRALS 5310                
+POS_PAGEREFS 5454                
+POS_SEARCHWORDS 5602                
+POS_KEYWORDS 5754                
+POS_MISC 2355                
+POS_ERRORS 5813                
+POS_CLUSTER 3333                
+POS_SIDER_404 5934                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161001121630 1 0 11384885498702
+FirstTime 20160926182024
+LastTime 20160928201411
+LastUpdate 20161002072142 1 0 0 0 0
+TotalVisits 10                  
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+AddToFavourites 0 98 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 32 58 3560863 12 16 26789
+19 453 1469 31538642 46 145 1003427
+20 151 301 14673199 10 10 247
+21 0 0 0 0 0 0
+22 4 34 469664 0 0 0
+23 3 19 23274 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+mx 631 1869 50254213
+us 12 12 11429
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+Unknown 1 20 0 0
+woff 11 136976 0 0
+gif 43 86694 0 0
+php 474 31754084 0 0
+jpg 81 2524182 0 0
+css 339 1751055 0 0
+html 157 3463256 0 0
+js 556 3854645 0 0
+svg 8 6637 0 0
+png 211 6688093 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+linuxandroid 33 3
+Unknown 12 12
+winnt 1318 448
+win7 518 180
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+chrome53.0.2785.124 33 3
+chrome53.0.2785.116 1318 448
+Unknown 12 12
+chrome50.0.2661.94 518 180
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Softaculous 20160926185456
+WordPress/4.6.1;_http://www.rule.softcaribe.com.mx 20160928200745
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Softaculous 20160926185456
+WordPress/4.6.1;_http://www.rule.softcaribe.com.mx 20160928200745
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 24 24
+From1 0 0
+From2 0 0
+From3 0 0
+From4 619 1857
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 50 0
+500 12 95789
+301 6 746
+206 4 933928
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+189.149.36.149 448 1318 32381002 20160926234450
+187.189.49.240 180 518 17403547 20160928201411
+67.225.221.33 12 12 11429 20160928200745
+187.155.217.45 3 33 469664 20160927225625
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20160926 455 1325 32392431 4
+20160927 132 399 11360844 4
+20160928 56 157 6512367 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 5
+15mn-30mn 1
+5mn-15mn 3
+1h+ 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 40
+/wp-admin/admin-ajax.php 179 2278271 0 1
+/ 115 2319085 4 2
+/wp-admin/load-scripts.php 62 4619297 0 0
+/wp-admin/customize.php 52 12163391 0 0
+/wp-admin/plugins.php 27 1298560 0 0
+/wp-admin/load-styles.php 22 2028568 0 0
+/wp-admin/post.php 21 3455977 0 0
+/wp-admin/edit.php 17 857954 0 0
+/sample-page/ 17 413478 0 0
+/wp-admin/plugin-install.php 12 904171 0 0
+/wp-admin/index.php 11 454665 0 1
+/wp-admin/admin.php 9 605980 0 0
+/contact-us-2/ 9 206311 0 0
+/wp-cron.php 9 0 4 5
+/wp-login.php 9 39336 1 1
+/contact-us/ 8 171372 0 0
+/wp-admin/plugin-editor.php 6 359150 0 0
+/wp-admin/post-new.php 6 972809 0 0
+/wp-admin/async-upload.php 5 1698 0 0
+/wp-admin/ 5 299646 0 0
+/wp-content/plugins/soliloquy-lite/assets/fonts/soliloquy.woff 5 4336 0 0
+/wp-admin/themes.php 5 371029 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 4 28352 0 0
+/wp-admin/profile.php 3 201235 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 3 511191 0 0
+/wp-admin/edit-tags.php 1 110998 0 0
+/tienda/ 2 46120 0 0
+/wp-admin/update-core.php 1 36674 0 0
+/wp-content/themes/Harmony/core/admin/fonts/modules.woff 1 82996 0 0
+/category/uncategorized/ 1 7244 0 0
+/wp-admin/update.php 1 21632 0 0
+/wp-admin/theme-install.php 1 41277 0 0
+/wp-content/themes/Harmony/core/admin/fonts/builder.woff 1 21292 0 0
+/wp-admin/upload.php 1 86780 0 0
+/softtest_phprckw6/soft 1 20 0 0
+/wp-admin/options-discussion.php 2 77441 0 0
+/wp-admin/tools.php 3 108927 0 0
+/check_charset.php 1 73 1 0
+/wp-admin/options-general.php 2 138932 0 0
+/wordpress/wp-admin/setup-config.php 3 8068 0 0
+END_SIDER
